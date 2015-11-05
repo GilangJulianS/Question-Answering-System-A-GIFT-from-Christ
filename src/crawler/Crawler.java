@@ -140,7 +140,7 @@ public class Crawler {
         BufferedWriter writer = null;
 
         try {
-            writer = new BufferedWriter(new FileWriter("out/" + "GilaPromoDotCom" + ".csv"));
+            writer = new BufferedWriter(new FileWriter("res/" + "diskon" + ".csv"));
             HashSet<String> tweetSet = new HashSet<>();
 
             String proxyUsername = "";
@@ -168,16 +168,16 @@ public class Crawler {
 
             List<OAuth> oAuthList = getOAuthList("in/oauth.txt");
             // setProxy(proxyUsername, proxyPassword);
-            setOAuthUser(oAuthList, "christ");
+            setOAuthUser(oAuthList, "teo");
 
             int userId = 0;
             long maxId = Long.MAX_VALUE;
             int pageNo = 1;
 
-//            List<Status> statuses = search(queryString, maxId);
-            List<Status> statuses = getTimeline(queryString, pageNo);
             int limitRemaining = twitter.getRateLimitStatus().get("/search/tweets").getRemaining();
             System.out.println("===== search remaining " + limitRemaining + " =====");
+            List<Status> statuses = search(queryString, maxId);
+//            List<Status> statuses = getTimeline(queryString, pageNo);
 
             writer.write("\"content\",\"original_id\",\"from\",\"date_created\",\"sentiment\",\"original_sentiment\"\n");
             while (tweetSet.size() < TWEETS_COUNT && statuses.size() > 0) {
@@ -232,9 +232,9 @@ public class Crawler {
 
                 System.out.println("===== search remaining " + limitRemaining + " =====");
 
-//                statuses = search(queryString, maxId);
+                statuses = search(queryString, maxId);
                 pageNo++;
-                statuses = getTimeline(queryString, pageNo);
+//                statuses = getTimeline(queryString, pageNo);
             }
         } catch (IOException | TwitterException ex) {
             Logger.getLogger(Crawler.class.getName()).log(Level.SEVERE, null, ex);
