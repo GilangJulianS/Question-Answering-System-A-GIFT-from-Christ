@@ -28,12 +28,14 @@ public class TestClass {
         line = line.replaceAll("#[\\w]*|[\\S]+\\.[\\S]+/[\\S]+", " "); // remove hashtag + url
         line = line.replaceAll("[!\"$'()*+/:;,<=>?@\\^_`{|}]+", " "); //remove punctiation
         List<String[]> sentence = IndonesianPOSTagger.doPOSTag(line);
+        
         Entity e = TestPostTag.extractEntity(sentence);
 //        for(String[] word : sentence){
 //            for(String s : word){
 //                System.out.print(s + " ");
 //            }
 //        }
+        
         System.out.println(" discount: " + e.discount);
     }
 }
