@@ -22,12 +22,30 @@ public class TopicProcessor {
 	  
 	  List<String[]> sentence = IndonesianPOSTagger.doPOSTag(query);
 	  for(int i = 0; i < sentence.size(); i++){
+                Question Q = new Question();
 		System.out.println(sentence.get(i)[0] + " " + sentence.get(i)[1]);
+                if(sentence.get(i)[1].equalsIgnoreCase("WP")) {
+                    Q.WP = sentence.get(i)[0];
+                }
+                if(sentence.get(i)[1].equalsIgnoreCase("RB")){
+                    Q.operan = sentence.get(i)[0];
+                }                     
+                if(sentence.get(i)[1].equalsIgnoreCase("CDP") && !isDate(sentence.get(i)[1])){
+                    Q.numb = Integer.valueOf(sentence.get(i)[0]);
+                }
+                if(sentence.get(i)[1].equalsIgnoreCase("CDP") && !isDate(sentence.get(i)[1])){
+                    Q.tanggal = sentence.get(i)[0];
+                }
 	  }
 	  
     }
     
     public static void main(String[] args){
-	  processQuery("Berapa diskon pizza tanggal 21-11-2012?");
+	  processQuery("Dimana ada diskon kurang dari 90%?");
+    }
+
+    private static boolean isDate(String get) {
+        return false;
+         //To change body of generated methods, choose Tools | Templates.
     }
 }
