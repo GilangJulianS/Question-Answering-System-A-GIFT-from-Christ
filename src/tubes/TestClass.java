@@ -20,20 +20,21 @@ public class TestClass {
     
     public static void main(String[] args){
         
-        String line = "\"Dapatkan Diskon 30% at Toko Sepatu Bata OPI Mall, promo berlaku s.d Tgl 8 Nov 2015 [pic] — https://t.co/A0XIeKcvYU\",6.62115E+17,OPIMall,05/11/2015 10:52,,,,";
-        String[] temp = line.split(",6.62");    
+        String line = "\"#diskon Lazada Weekly Gadget Promo - Diskon Hingga 40%\",\"662249947459411968\",\"GilaPromoDotCom\",\"2015-11-05 19:47:46\",\"\",\"\"";
+        String[] temp = line.split("\",");    
         line = temp[0];
-        line = line.replace("#diskon", "diskon");   
-        line = line.replace("#promo", "promo");
-        line = line.replaceAll("#[\\w]*|[\\S]+\\.[\\S]+/[\\S]+", " "); // remove hashtag + url
-        line = line.replaceAll("[!\"$'()*+/:;,<=>?@\\^_`{|}]+", " "); //remove punctiation
+         line = line.replace("(?i)#diskon", "diskon");   
+            line = line.replace("(?i)#promo", "promo");
+            line = line.replaceAll("@[\\w]*|#[\\w]*|[\\S]+\\.[\\S]+/[\\S]+", " "); // remove hashtag + url
+            line = line.replaceAll("[!\"$'()*+/:;,<=>?@\\^_`{|}]+", " "); //remove punctiation
+            line = line.replaceAll("(?i)cuma|hanya|rp.", "");
         List<String[]> sentence = IndonesianPOSTagger.doPOSTag(line);
         Entity e = TestPostTag.extractEntity(sentence);
-//        for(String[] word : sentence){
-//            for(String s : word){
-//                System.out.print(s + " ");
-//            }
-//        }
-        System.out.println(" discount: " + e.discount);
+        for(String[] word : sentence){
+            for(String s : word){
+                System.out.print(s + " ");
+            }
+        }
+        System.out.println(" discount: " + e.discount + " item: " + e.item);
     }
 }

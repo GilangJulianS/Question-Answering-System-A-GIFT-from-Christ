@@ -35,14 +35,14 @@ public class TestPostTag {
         BufferedReader reader = new BufferedReader(new FileReader("res/diskon.csv"));
         String line;
         while((line = reader.readLine()) != null){
-            String[] temp = line.split(",6.62");
+            String[] temp = line.split("\",");
             
             line = temp[0];
             line = line.replace("(?i)#diskon", "diskon");   
             line = line.replace("(?i)#promo", "promo");
-            line = line.replaceAll("#[\\w]*|[\\S]+\\.[\\S]+/[\\S]+", " "); // remove hashtag + url
+            line = line.replaceAll("@[\\w]*|#[\\w]*|[\\S]+\\.[\\S]+/[\\S]+", " "); // remove hashtag + url
             line = line.replaceAll("[!\"$'()*+/:;,<=>?@\\^_`{|}]+", " "); //remove punctiation
-            line = line.replaceAll("(?i)cuma|hanya|rp.", "");
+            line = line.replaceAll("(?i)hari|temukan|ini|gebyar|cuma|hanya|rp.", "");
             
             System.out.println(line);
             
@@ -52,7 +52,8 @@ public class TestPostTag {
                 List<String[]> sentence = IndonesianPOSTagger.doPOSTag(line);
                 printSentence(writer, sentence);
                 Entity e = extractEntity(sentence);
-                writer.write(" discount: " + e.discount + ", " + e.beligratis);
+                writer.write("\ndiscount: " + e.discount + ", " + e.beligratis + "\n");
+                writer.write("entity: " + e.item);
             }
             writer.write("\n");
         }
@@ -71,21 +72,37 @@ public class TestPostTag {
     public static Entity extractEntity(List<String[]> sentence){
         Entity e = new Entity();
         boolean discFound = false;
+        boolean itemFound = false;
+        boolean gratisFound = false;
         // iterate every word
         for(int i=0; i<sentence.size(); i++){
             String[] word = sentence.get(i);
-            if((word[0].toLowerCase().equals("diskon")||word[0].toLowerCase().equals("harga")) && !discFound){
-                String[] discount = getNearestCDP(sentence, i);
-                if(discount != null){
-                    e.discount = discount[0];
-                    discFound = true;
+            if((word[0].toLowerCase().equals("diskon")||word[0].toLowerCase().equals("harga"))){
+                if(!discFound){
+                    String[] discount = getNearestCDP(sentence, i);
+                    if(discount != null){
+                        e.discount = discount[0];
+                        discFound = true;
+                    }
                 }
-            }else if(word[0].toLowerCase().equals("promo")){
-                
-            }else if(word[0].toLowerCase().equals("beli")){
+                if(!itemFound){
+                    String noun = extractNounBackward(sentence, i);
+                    if(!noun.equals("")){
+                        e.item = noun;
+                        itemFound = true;
+                    }
+                }
+            }else if(word[0].toLowerCase().equals("promo") && !itemFound){
+                String noun = extractNounBackward(sentence, i);
+                if(!noun.equals("")){
+                    e.item = noun;
+                    itemFound = true;
+                }
+            }else if(word[0].toLowerCase().equals("beli") && !gratisFound){
                 String beligratis = extractBeliGratis(sentence, i);
-                if(!word.equals("")){
+                if(!beligratis.equals("")){
                     e.beligratis = beligratis;
+                    gratisFound = true;
                 }
             }
         }
@@ -121,5 +138,53 @@ public class TestPostTag {
             }
         }
         return beligratis;
+    }
+    
+    public static String extractNounBackward(List<String[]> sentence, int curIdx){
+        final int PREV_NNP = 0;
+        final int PREV_NN = 1;
+        final int PREV_OTHER = 2;
+        int prev = -1;
+        int startIdx = -1;
+        int endIdx = curIdx - 1;
+        boolean firstNN = true;
+        if(curIdx > 0){
+            for(int i=curIdx - 1; i>=0; i--){
+//                System.out.println(i + " " + sentence.get(i)[1] + " " + startIdx);
+                if(sentence.get(i)[1].contains("NNP")){
+                    if(prev == PREV_NN){
+                        startIdx = i+1; break;
+                    }else if(prev == PREV_NNP){
+                        startIdx = i;
+                        continue;
+                    }
+                    startIdx = i;
+                    prev = PREV_NNP;
+                }else if(sentence.get(i)[1].contains("NN")){
+                    if(prev == PREV_NN){
+                        startIdx = i;
+                        continue;
+                    }else if(prev == PREV_NNP){
+                        startIdx = i; continue;
+                    }
+                    startIdx = i;
+                    prev = PREV_NN;
+                }else{
+                    if(prev == PREV_OTHER || prev == -1){
+                        prev = PREV_OTHER;
+                        endIdx = i - 1;
+                    }else{
+                        startIdx = i+1; break;
+                    }
+                }
+            }
+        }
+        String result = "";
+        if(startIdx >= 0 && endIdx < curIdx){
+            for(int i=startIdx; i<=endIdx; i++){
+                result += sentence.get(i)[0] + " ";
+            }
+        }
+        return result;
     }
 }

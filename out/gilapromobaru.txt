@@ -1,0 +1,4050 @@
+1 
+discount: null, null
+entity: null
+2 Lazada NN Weekly NN Gadget NN Promo NNP - - Diskon NN Hingga CC 40% CDP 
+discount: 40%, null
+entity: Lazada Weekly Gadget 
+3 Lazada NN Swiss NNP Army NNP Fair NNP - - Diskon NN Hingga CC 86% CDP 
+discount: 86%, null
+entity: Lazada Swiss Army Fair 
+4 Blibli FW Music FW Everywhere NNP Best NNP Deal NNP - - Diskon NN 35% CDP 
+discount: 35%, null
+entity: Everywhere Best Deal 
+5 Lazada NN FINAL NNP Clearance NNP SALE NNP - - Diskon NN hingga CC 90% CDP 
+discount: 90%, null
+entity: Lazada FINAL Clearance SALE 
+6 Galeri NN Gadget NN Special NNP Samsung NNP Promo NNP - - Cicilan NNP 0% CDP Gratis NNP Hadiah NN 
+discount: null, null
+entity: Galeri Gadget Special Samsung 
+7 Lazada NN Swiss NNP Army NNP Fair NNP - - Diskon NN Hingga CC 86% CDP 
+discount: 86%, null
+entity: Lazada Swiss Army Fair 
+8 Lazada NN Weekly NN Gadget NN Promo NNP - - Diskon NN Hingga CC 40% CDP 
+discount: 40%, null
+entity: Lazada Weekly Gadget 
+9 Lazada NN FINAL NNP Clearance NNP SALE NNP - - Diskon NN hingga CC 90% CDP 
+discount: 90%, null
+entity: Lazada FINAL Clearance SALE 
+10 Lazada NN FINAL NNP Clearance NNP SALE NNP - - Diskon NN hingga CC 90% CDP 
+discount: 90%, null
+entity: Lazada FINAL Clearance SALE 
+11 Blibli FW Music FW Everywhere NNP Best NNP Deal NNP - - Diskon NN 35% CDP 
+discount: 35%, null
+entity: Everywhere Best Deal 
+12 Kosmetik NN Super NNP SALE NNP - - Diskon NN hingga CC 90% CDP 
+discount: 90%, null
+entity: Kosmetik Super SALE 
+13 Blibli NN Fashion NNP Flash NNP Sale NNP Promo NNP - - Diskon NN Ekstra CDP 30% CDP 
+discount: Ekstra, null
+entity: Blibli Fashion Flash Sale 
+14 Wacoal NN Wonders NNP Collection NNP Special NNP Promo NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Wacoal Wonders Collection Special 
+15 X8 NNP Clothing NNP Fantastic NNP Deal NNP - - Gratis NNP Polo NNP Shirt NNP 
+discount: null, null
+entity: null
+16 Wendys NNP Tcash FW Great FW Deal NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Deal 
+17 Wendys NNP Tcash FW Great FW Deal NNP - - Diskon NN 50% CDP - - Sekarang NN kamu PRP bisa MD makan VBT enak NN sepuasnya NN di IN Wendys NNP 
+discount: 50%, null
+entity: Deal 
+18 Wacoal NN Wonders NNP Collection NNP Special NNP Promo NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Wacoal Wonders Collection Special 
+19 X8 NNP Clothing NNP Fantastic NNP Deal NNP - - Gratis NNP Polo NNP Shirt NNP 
+discount: null, null
+entity: null
+20 Kosmetik NN Super NNP SALE NNP - - Diskon NN hingga CC 90% CDP - - Buat NN lo NN yang SC hobi NN shopping NN online NN promo NN yang SC 1 CDP 
+discount: 90%, null
+entity: Kosmetik Super SALE 
+21 Blibli NN Fashion NNP Flash NNP Sale NNP Promo NNP - - Diskon NN Ekstra CDP 30% CDP 
+discount: Ekstra, null
+entity: Blibli Fashion Flash Sale 
+22 Kosmetik NN Super NNP SALE NNP - - Diskon NN hingga CC 90% CDP - - Buat NN lo NN yang SC hobi NN shopping NN online NN promo NN yang SC 1 CDP 
+discount: 90%, null
+entity: Kosmetik Super SALE 
+23 Traveloka NN Promo NNP Hotel NN Hemat NNP - - Diskon NN 72% CDP 
+discount: 72%, null
+entity: Traveloka 
+24 The FW Body NNP Shop NNP Special NNP Tuesday NNP Promo NNP - - Beli NNP 2 CDP Gratis NNP 1 CDP 
+discount: null, Beli 2 Gratis 1
+entity: Body Shop Special Tuesday 
+25 Traveloka NN Promo NNP Hotel NN Hemat NNP - - Diskon NN 72% CDP 
+discount: 72%, null
+entity: Traveloka 
+26 Nutrimart NNP Special NNP Deal NNP - - Gratis NNP Upsize NNP - - Gunakan VBI Kartu NN kredit NN BCA NN anda NN saat NN belanja NN di IN 
+discount: null, null
+entity: null
+27 Nutrimart NNP Special NNP Deal NNP - - Gratis NNP Upsize NN 
+discount: null, null
+entity: null
+28 Sony NNP Xperia NNP Great FW Offers NNP - - Gratis NNP Voucher NNP Zalora NNP 
+discount: null, null
+entity: null
+29 Sport NN Station NN 2 CDP Weeks NN Sale NNP - - Diskon NN Hingga CC 30% CDP 
+discount: 30%, null
+entity: Weeks Sale 
+30 Erafone NNP Samsung FW Great FW Deal NNP - - Cashback NNP 500.000 CDP 
+discount: null, null
+entity: null
+31 Shabu NNP Shaburi NNP Promo NNP Opening NNP - - Gratis NNP Cashback NNP Voucher NNP 50% CDP 
+discount: null, null
+entity: Shabu Shaburi 
+32 Hoka NN Hoka NNP Bento NNP Promo NNP Eat NNP Fish NNP - - Harga NN Heboh NN 15.000 CDP 
+discount: 15.000, null
+entity: Hoka Hoka Bento 
+33 The FW Body NNP Shop NNP Special NNP Tuesday NNP Promo NNP - - Beli NNP 2 CDP Gratis NNP 1 CDP 
+discount: null, Beli 2 Gratis 1
+entity: Body Shop Special Tuesday 
+34 Sport NN Station NN 2 CDP Weeks NN Sale NNP - - Diskon NN Hingga CC 30% CDP 
+discount: 30%, null
+entity: Weeks Sale 
+35 Erafone NNP Samsung FW Great FW Deal NNP - - Cashback NNP 500.000 CDP 
+discount: null, null
+entity: null
+36 Sony NNP Xperia NNP Great FW Offers NNP - - Gratis NNP Voucher NNP Zalora NNP 
+discount: null, null
+entity: null
+37 Es NN Teler NN 77 CDP Promo NNP Spesial NNP Delivery NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Es Teler 
+38 Galeri NN Gadget NN Promo NNP Parade NN Produk NN IT NNP - - Harga NN Mulai VBI 67.000 CDP 
+discount: 67.000, null
+entity: Galeri Gadget 
+39 Dominos NN Pizza NNP Special NNP Deal NNP - - Harga NN Spesial NNP 32.046 CDP 
+discount: 32.046, null
+entity: Dominos Pizza Special Deal 
+40 Cinemaxx NN Theater NNP Promo NNP Hello NNP November NN - - Beli NNP 2 CDP Gratis NNP 1 CDP 
+discount: null, Beli 2 Gratis 1
+entity: Cinemaxx Theater 
+41 Democrata NN Special NNP Deal NNP - - Cashback NNP Hingga NN 1.000.000 CDP 
+discount: null, null
+entity: null
+42 Dominos NN Pizza NNP Special NNP Deal NNP - - Harga NN Spesial NNP 32.046 CDP 
+discount: 32.046, null
+entity: Dominos Pizza Special Deal 
+43 Galeri NN Gadget NN Promo NNP Parade NN Produk NN IT NNP - - Harga NN Mulai VBI 67.000 CDP 
+discount: 67.000, null
+entity: Galeri Gadget 
+44 Es NN Teler NN 77 CDP Promo NNP Spesial NNP Delivery NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Es Teler 
+45 Global NNP Teleshop NNP Samsung NNP Special NNP Offers NNP - - Cashback NNP 2.000.000 CDP 
+discount: null, null
+entity: null
+46 Mandiri NNP Card NNP Promo NNP Belanja NNP Online NN - - Diskon NN Hingga NN 170.000 CDP 
+discount: 170.000, null
+entity: Mandiri Card 
+47 Jrep NN Clothing NNP Promo NNP Soft NNP Opening NNP - - Diskon NN 20% CDP - - Jrep NN Clothing NN k NN hadir VBI di IN Lombok NNP Epicentrum NNP Mall NNP lho NN 
+discount: 20%, null
+entity: Jrep Clothing 
+48 Elevenia NNP Special NNP Offers NNP - - Diskon NN 100.000 CDP - - Cukup JJ dengan IN bertransaksi NN mmal NN 1.000.000 JJ di IN 
+discount: 100.000, null
+entity: Elevenia Special Offers 
+49 Dominos NN Pizza NNP Promo NNP Spesial NNP Add NNP On FW - - Diskon NN 64% CDP - - Makan VBT seru JJ sepuasnya IN bareng NN teman NN di IN Dominos NN Pizza NNP 
+discount: 64%, null
+entity: Dominos Pizza 
+50 Lazada NN Super NN Selasa NN - - Diskon NN hingga CC 50% CDP Xtra NNP Diskon NN 300.000 CDP 
+discount: 50%, null
+entity: Lazada Super Selasa 
+51 Erafone NNP Xiaomi NNP Great FW Deal NNP - - Harga NN Spesial NNP 2.949.000 CDP 
+discount: 2.949.000, null
+entity: Deal 
+52 Air FW Asia NNP Indomaret NNP Special NNP Deal NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: null
+53 Cinemaxx NN Theater NNP Promo NNP Hello NNP November NN - - Beli NNP 2 CDP Gratis NNP 1 CDP 
+discount: null, Beli 2 Gratis 1
+entity: Cinemaxx Theater 
+54 Alfamart NNP Promo NNP Minuman NN Hemat NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP & NN Harga NN Spesial NNP 
+discount: 1, Beli 1 Gratis 1
+entity: Alfamart 
+55 Calais NNP Tea NNP Wednesday FW BIG FW Deal NNP - - Promo NNP Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Deal 
+56 Burger NN King NN Special NN Menu NN Hemat NNP - - Harga NN Spesial NNP 22.727 CDP 
+discount: 22.727, null
+entity: Burger King Special Menu Hemat 
+57 Wacoal NN November NN Special NNP Promo NNP - - Diskon NN hingga CC 50% CDP 
+discount: 50%, null
+entity: Wacoal November Special 
+58 Home FW Solution NNP Clearance NNP Sale NNP - - Diskon NN Hingga CC 90% CDP 
+discount: 90%, null
+entity: Solution Clearance Sale 
+59 Erafone NNP November NN Super NNP Sale NNP - - Diskon NN & NN Harga NN Spesial NNP 
+discount: null, null
+entity: Erafone November Super Sale 
+60 Lazada NN Pimp NNP My NNP House NNP Super NNP Sale NNP - - Diskon NN Hingga CC 90% CDP 
+discount: 90%, null
+entity: Lazada Pimp My House Super Sale 
+61 Lazada NN Mega NNP TV FW Sales FW - - Diskon NN Hingga CC 55% CDP 
+discount: 55%, null
+entity: Lazada Mega 
+62 Lazada NN Pimp NNP My NNP House NNP Super NNP Sale NNP - - Diskon NN Hingga CC 90% CDP 
+discount: 90%, null
+entity: Lazada Pimp My House Super Sale 
+63 Lazada NN Mega NNP TV FW Sales FW - - Diskon NN Hingga CC 55% CDP 
+discount: 55%, null
+entity: Lazada Mega 
+64 Wacoal NN November NN Special NNP Promo NNP - - Diskon NN hingga CC 50% CDP 
+discount: 50%, null
+entity: Wacoal November Special 
+65 Telkomsel NNP Superindo NNP Promo NNP Isi NNP Ulang NN Pulsa NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Telkomsel Superindo 
+66 Promo NNP Spesial NNP Travel NNP Hemat NNP - - Diskon NN 80.000 CDP 
+discount: 80.000, null
+entity: Promo Spesial Travel Hemat 
+67 Ticktab JJ Promo NNP Travel NNP Seru NNP - - Diskon NN 100.000 CDP 
+discount: 100.000, null
+entity: Promo Travel Seru 
+68 Wacoal NN November NN Special NNP Promo NNP - - Diskon NN hingga CC 50% CDP 
+discount: 50%, null
+entity: Wacoal November Special 
+69 Superindo NNP Promo NNP Dahsyat JJ - - Diskon NN 35.000 CDP 
+discount: 35.000, null
+entity: Superindo 
+70 Telkomsel NNP Superindo NNP Promo NNP Isi NNP Ulang NN Pulsa NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Telkomsel Superindo 
+71 Home FW Solution NNP Clearance NNP Sale NNP - - Diskon NN Hingga CC 90% CDP 
+discount: 90%, null
+entity: Solution Clearance Sale 
+72 Erafone NNP November NN Super NNP Sale NNP - - Diskon NN & NN Harga NN Spesial NNP 
+discount: null, null
+entity: Erafone November Super Sale 
+73 Ticktab JJ Promo NNP Travel NNP Seru NNP - - Diskon NN 100.000 CDP 
+discount: 100.000, null
+entity: Promo Travel Seru 
+74 Promo NNP Spesial NNP Travel NNP Hemat NNP - - Diskon NN 80.000 CDP 
+discount: 80.000, null
+entity: Promo Spesial Travel Hemat 
+75 LG NN Super NNP Promo NNP - - Diskon NN Hingga NN 2.400.000 CDP 
+discount: 2.400.000, null
+entity: LG Super 
+76 Sony NNP Xperia NNP Erafone NNP Special NNP Deal NNP - - Harga NN Spesial NNP 7.999.000 CDP 
+discount: 7.999.000, null
+entity: Sony Xperia Erafone Special Deal 
+77 Kopitiam NN Lucky NN Fest NN Promo NNP - - Gratis NNP Voucher NNP 50.000 CDP 
+discount: null, null
+entity: Kopitiam Lucky Fest 
+78 Shaga NNP Active NNP Wellnes NNP Special NN November NN Sale NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Shaga Active Wellnes Special November Sale 
+79 McDonalds NN Promo NNP Breakfast NNP Wrap NNP - - Harga NN Spesial NNP Mulai VBI Dari IN 6.000 CDP 
+discount: 6.000, null
+entity: McDonalds 
+80 Sony NNP Xperia NNP Erafone NNP Special NNP Deal NNP - - Harga NN Spesial NNP 7.999.000 CDP 
+discount: 7.999.000, null
+entity: Sony Xperia Erafone Special Deal 
+81 LG NN Super NNP Promo NNP - - Diskon NN Hingga NN 2.400.000 CDP 
+discount: 2.400.000, null
+entity: LG Super 
+82 McDonalds NN Promo NNP Breakfast NNP Wrap NNP - - Harga NN Spesial NNP Mulai VBI Dari IN 6.000 CDP 
+discount: 6.000, null
+entity: McDonalds 
+83 Blibli NN Shoes NNP Super NNP Sale NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Blibli Shoes Super Sale 
+84 KFC NN Promo NNP Paket NN Ayodance NNP - - Harga NN Spesial NN 18.000 CDP & NN Gratis NNP Special NN Avatar NN 
+discount: 18.000, null
+entity: KFC 
+85 Indomaret NNP Promo NNP Mandiri NNP Ecash CDP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Indomaret 
+86 Jansport NNP Special NNP Sale NNP - - Diskon NN 30% CDP 
+discount: 30%, null
+entity: Jansport Special Sale 
+87 Hush NN Puppies NN Men NN Collection NNP Promo NNP - - Diskon NN 30% CDP 
+discount: 30%, null
+entity: Hush Puppies Men Collection 
+88 Blibli NN Promo NNP Rabu NN Cantik NNP Best NNP Deal NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Blibli 
+89 Blibli NN Promo NNP Serbu NNP Rabu NN - - Diskon NN Hingga CC 73% CDP & IN Ekstra NN Diskon NN 50.000 CDP 
+discount: 73%, null
+entity: Blibli 
+90 Global NNP APR NNP Special NNP Promo NNP November NN - - Cashback NNP 1.000.000 CDP & NN Gratis NNP Hadiah NN 
+discount: null, null
+entity: Global APR Special 
+91 Hush NN Puppies NN Men NN Collection NNP Promo NNP - - Diskon NN 30% CDP 
+discount: 30%, null
+entity: Hush Puppies Men Collection 
+92 Indomaret NNP Promo NNP Mandiri NNP Ecash CDP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Indomaret 
+93 Global NNP APR NNP Special NNP Promo NNP November NN - - Cashback NNP 1.000.000 CDP & NN Gratis NNP Hadiah NN 
+discount: null, null
+entity: Global APR Special 
+94 Fun NN World NNP Promo NNP Spesial NNP Novermber NNP - - Bonus NNP Saldo NNP Hingga NN 60.000 CDP 
+discount: null, null
+entity: Fun World 
+95 Blibli NN Promo NNP Rabu NN Cantik NNP Best NNP Deal NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Blibli 
+96 Blibli NN Shoes NNP Super NNP Sale NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Blibli Shoes Super Sale 
+97 Blibli NN Promo NNP Serbu NNP Rabu NN - - Diskon NN Hingga CC 73% CDP & IN Ekstra NN Diskon NN 50.000 CDP 
+discount: 73%, null
+entity: Blibli 
+98 Lazada NN Promo NNP Ayah NNP - - Diskon NN Hingga CC 80% CDP 
+discount: 80%, null
+entity: Lazada 
+99 Alfamart NNP Promo NNP Belanja NNP Minyak NN Goreng NNP - - Harga NN Mulai VBI Dari IN 20.900 CDP 
+discount: 20.900, null
+entity: Alfamart 
+100 Asus NN Erafone NNP Promo NNP Heboh NNP - - Diskon NN 300.000 CDP 
+discount: 300.000, null
+entity: Asus Erafone 
+101 Dominos NN Pizza NNP Promo NNP Menu NN Terbaru JJ - - Cheesy NNP Bread NNP 27.727 CDP 
+discount: null, null
+entity: Dominos Pizza 
+102 Lazada NN Promo NNP Ayah NNP - - Diskon NN Hingga CC 80% CDP 
+discount: 80%, null
+entity: Lazada 
+103 Mata NN Department NN Store NNP Clearance NNP Sale NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+104 Wellcomm NN Shop NNP Promo NNP Spesial NNP Aksesoris NNP - - Diskon NN 70% CDP 
+discount: 70%, null
+entity: Wellcomm Shop 
+105 Danamon NN Sale NNP - - Extra NNP Diskon NNP Gratis NNP Hadiah NN 
+discount: null, null
+entity: Extra 
+106 Lazada NN Overseas NNP Deal NNP - - Diskon NN hingga CC 80% CDP Gratis NNP Ongkir NNP 
+discount: 80%, null
+entity: Lazada Overseas Deal 
+107 Es NN Teler NN November NN Hemat NNP - - Harga NN Mulai VBI Dari IN 22.000 CDP 
+discount: 22.000, null
+entity: Es Teler November Hemat 
+108 Global NNP Teleshop NNP Xiaomi NNP Special NNP Deal NNP - - Harga NN Spesial NNP 282.000 CDP 
+discount: 282.000, null
+entity: Global Teleshop Xiaomi Special Deal 
+109 Danamon NN Sale NNP - - Extra NNP Diskon NNP Gratis NNP Hadiah NN 
+discount: null, null
+entity: Extra 
+110 Lazada NN Overseas NNP Deal NNP - - Diskon NN hingga CC 80% CDP Gratis NNP Ongkir NNP 
+discount: 80%, null
+entity: Lazada Overseas Deal 
+111 Waterboom NNP Jakarta NNP Promo NNP Spesial NNP November NN - - Diskon NN 50% CDP & NN Beli NNP 1 CDP Dapat MD 3 CDP 
+discount: 50%, null
+entity: Waterboom Jakarta 
+112 Share NNP Tea NNP Special NNP Deal NNP - - Promo NNP Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Share Tea Special Deal 
+113 Es NN Teler NN November NN Hemat NNP - - Harga NN Mulai VBI Dari IN 22.000 CDP 
+discount: 22.000, null
+entity: Es Teler November Hemat 
+114 Global NNP Teleshop NNP Xiaomi NNP Special NNP Deal NNP - - Harga NN Spesial NNP 282.000 CDP 
+discount: 282.000, null
+entity: Global Teleshop Xiaomi Special Deal 
+115 Wellcomm NN Shop NNP Promo NNP Spesial NNP Aksesoris NNP - - Diskon NN 70% CDP 
+discount: 70%, null
+entity: Wellcomm Shop 
+116 Danamon NN Sale NNP - - Extra NNP Diskon NNP Gratis NNP Hadiah NN 
+discount: null, null
+entity: Extra 
+117 Lazada NN Overseas NNP Deal NNP - - Diskon NN hingga CC 80% CDP Gratis NNP Ongkir NNP 
+discount: 80%, null
+entity: Lazada Overseas Deal 
+118 Seaworld NN Ancol NNP Indomaret NNP Promo NNP Tiket JJ Masuk VBT - - Harga NN Spesial NN Mulai VBI 80.000 CDP 
+discount: 80.000, null
+entity: Seaworld Ancol Indomaret 
+119 Polo NNP Ralph NNP Lauren NNP Special NNP Deal NNP - - Diskon NN 58% CDP 
+discount: 58%, null
+entity: Polo Ralph Lauren Special Deal 
+120 Mata NN Mall NNP Further NNP Reduction NNP Sale NNP - - Diskon NN Hingga CC 90% CDP 
+discount: 90%, null
+entity: Mata Mall Further Reduction Sale 
+121 PHD NN Pizza NNP Hut NNP Promo NNP Makan VBT Bareng NNP - - Menu NN Hemat NN Ber-10 CDP 360.000 CDP 
+discount: null, null
+entity: PHD Pizza Hut 
+122 Mata NN Mall NNP Further NNP Reduction NNP Sale NNP - - Diskon NN Hingga CC 90% CDP 
+discount: 90%, null
+entity: Mata Mall Further Reduction Sale 
+123 PHD NN Pizza NNP Hut NNP Promo NNP Makan VBT Bareng NNP - - Menu NN Hemat NN Ber-10 CDP 360.000 CDP 
+discount: null, null
+entity: PHD Pizza Hut 
+124 McDonalds NN Fish NN Fillet NN Burger NN Special NNP Deal NNP - - Promo NNP Harga NN Spesial NNP 
+discount: null, null
+entity: McDonalds Fish Fillet Burger Special Deal 
+125 Metro NNP Department NN Store NNP Beauty NNP Fair NNP Great FW Deal NNP - - Diskon NN Hingga CC 70% CDP & NN Gratis NNP Voucher NNP 
+discount: 70%, null
+entity: Deal 
+126 Optik NN Seis NN Special NN November NN Deal NNP - - Diskon NN 30% CDP 
+discount: 30%, null
+entity: Optik Seis Special November Deal 
+127 Metro NNP Department NN Store NNP Beauty NNP Fair NNP Great FW Deal NNP - - Diskon NN Hingga CC 70% CDP & NN Gratis NNP Voucher NNP 
+discount: 70%, null
+entity: Deal 
+128 McDonalds NN Fish NN Fillet NN Burger NN Special NNP Deal NNP - - Promo NNP Harga NN Spesial NNP 
+discount: null, null
+entity: McDonalds Fish Fillet Burger Special Deal 
+129 Lotteria NNP Promo NNP Santap NNP Hemat NNP Setiap DT - - Diskon NN Hingga CC 45% CDP 
+discount: 45%, null
+entity: Lotteria 
+130 Polo NNP Ralph NNP Lauren NNP Special NNP Deal NNP - - Diskon NN 58% CDP 
+discount: 58%, null
+entity: Polo Ralph Lauren Special Deal 
+131 Optik NN Seis NN Special NN November NN Deal NNP - - Diskon NN 30% CDP 
+discount: 30%, null
+entity: Optik Seis Special November Deal 
+132 Dominos NN Pizza NNP Promo NNP Spesial NNP Add NNP On FW - - Diskon NN 64% CDP 
+discount: 64%, null
+entity: Dominos Pizza 
+133 Kompas NN Gramedia NNP Promo NNP Membercard NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Kompas Gramedia 
+134 Jrep NN Clothing NNP Promo NNP Soft NNP Opening NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Jrep Clothing 
+135 Les NN Femmes NNP Special NNP Offers NNP - - Tambah RB 50.000 CDO Dapat MD 2 CDP Item NNP 
+discount: null, null
+entity: null
+136 Hoka NN Hoka NNP Bento NNP Promo NNP Eat NNP Fish NNP - - Harga NN Heboh NN 15.000 CDP 
+discount: 15.000, null
+entity: Hoka Hoka Bento 
+137 Dominos NN Pizza NNP Promo NNP Spesial NNP Add NNP On FW - - Diskon NN 64% CDP 
+discount: 64%, null
+entity: Dominos Pizza 
+138 Kyochon NN Restaurant NN Spesial NNP Deal NNP - - Diskon NN 15% CDP 
+discount: 15%, null
+entity: Kyochon Restaurant Spesial Deal 
+139 Kompas NN Gramedia NNP Promo NNP Membercard NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Kompas Gramedia 
+140 Elevenia NNP Special NNP Offers NNP - - Diskon NN 100.000 CDP 
+discount: 100.000, null
+entity: Elevenia Special Offers 
+141 Electronic NNP City NNP Spooktacular NNP LED NNP Suise NNP - - Cashback NNP Hingga NN 20.000.000 CDP 
+discount: null, null
+entity: null
+142 Domino NN Pizza NNP Best NNP Deal NNP - - Promo NNP Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Domino Pizza Best Deal 
+143 Domino NN Pizza NNP Best NNP Deal NNP - - Promo NNP Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Domino Pizza Best Deal 
+144 Elevenia NNP Special NNP Offers NNP - - Diskon NN 100.000 CDP 
+discount: 100.000, null
+entity: Elevenia Special Offers 
+145 Do NN It NN Best NNP Pong NNP Special NNP Christmas NNP Promo NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Do It Best Pong Special Christmas 
+146 Baso NN Malang NNP Karapitan NNP Promo NNP Makan VBT Hemat- NNP Diskon NN 200.000 CDP 
+discount: 200.000, null
+entity: Baso Malang Karapitan 
+147 Erafone NNP Xiaomi NNP Great FW Deal NNP - - Harga NN Spesial NNP 2.949.000 CDP 
+discount: 2.949.000, null
+entity: Deal 
+148 Electronic NNP City NNP Spooktacular NNP LED NNP Suise NNP - - Cashback NNP Hingga NN 20.000.000 CDP 
+discount: null, null
+entity: null
+149 Pizza NNP Hut NNP Special NNP Promo NNP - - Diskon NN 40% CDP 
+discount: 40%, null
+entity: Pizza Hut Special 
+150 Blibli NN Microsoft NNP Special NNP Deal NNP - - Diskon NN 400.000 CDP 
+discount: 400.000, null
+entity: Blibli Microsoft Special Deal 
+151 Blibli NN Promo NNP Spesial NN November NN Deals NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Blibli 
+152 Sunny NNP Side NNP Up NNP Promo NNP Kids NN Menu NN Egglover NNP - - Harga NN Mulai VBI Dari IN 25.000 CDP 
+discount: 25.000, null
+entity: Sunny Side Up 
+153 KFC NN Paket NN Super NNP Mantap NNP - - 16.364 CDP 
+discount: null, null
+entity: null
+154 McDonalds NN Promo NNP Menu NN Spesial NNP Happy NNP Meal NNP - - Harga NN Spesial NN 28.182 CDP & NN Gratis NNP Mainan NNP 
+discount: 28.182, null
+entity: McDonalds 
+155 Blibli NN Microsoft NNP Special NNP Deal NNP - - Diskon NN 400.000 CDP 
+discount: 400.000, null
+entity: Blibli Microsoft Special Deal 
+156 Blibli NN Promo NNP Spesial NN November NN Deals NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Blibli 
+157 KFC NN Promo NNP Santap NNP Hemat NNP Sepanjang RB Tahun NN - - Diskon NN 20.000 CDP 
+discount: 20.000, null
+entity: KFC 
+158 LG NN Suise NNP Deal NNP - - Cashback NNP Hingga NN 1.300.000 CDP 
+discount: null, null
+entity: null
+159 Lotteria NNP Promo NNP Menu NN Hemat FW BIG FW Smile NNP - - Harga NN Mulai VBI Dari IN 10.000 CDP 
+discount: 10.000, null
+entity: Lotteria 
+160 Global NNP Teleshop NNP Special NNP deal CDP - - Cashback NNP Hingga CC 2.000.000 CDP & NN Gratis NNP Voucher NNP 
+discount: null, null
+entity: null
+161 McDonalds NN Promo NNP Menu NN Spesial NNP Happy NNP Meal NNP - - Harga NN Spesial NN 28.182 CDP & NN Gratis NNP Mainan NNP 
+discount: 28.182, null
+entity: McDonalds 
+162 Lotteria NNP Promo NNP Menu NN Hemat FW BIG FW Smile NNP - - Harga NN Mulai VBI Dari IN 10.000 CDP 
+discount: 10.000, null
+entity: Lotteria 
+163 Dcost NN Restaurant NN Promo NNP Delivery NNP - - Harga NN Mulai VBI Dari IN 16.000 CDP 
+discount: 16.000, null
+entity: Dcost Restaurant 
+164 Carrefour NNP Telkomsel NNP Promo NNP Isi NNP Ulang NN Pulsa NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Carrefour Telkomsel 
+165 A&W NN Restaurant NN Promo NNP Awesome NNP American NNP - - Menu NN Hemat NN Mulai VBI Dari IN 12.000an CDP 
+discount: null, null
+entity: A&W Restaurant 
+166 KFC NN Promo NNP Santap NNP Hemat NNP Sepanjang RB Tahun NN - - Diskon NN 20.000 CDP 
+discount: 20.000, null
+entity: KFC 
+167 Dcost NN Restaurant NN Promo NNP Delivery NNP - - Harga NN Mulai VBI Dari IN 16.000 CDP 
+discount: 16.000, null
+entity: Dcost Restaurant 
+168 Global NNP Teleshop NNP Special NNP deal CDP - - Cashback NNP Hingga CC 2.000.000 CDP & NN Gratis NNP Voucher NNP 
+discount: null, null
+entity: null
+169 Air FW Asia NNP Promo NNP Cuti NNP Ke IN Luar JJ Negeri NN - - Harga NN Mulai VBI Dari IN 339.000 CDP 
+discount: 339.000, null
+entity: Asia 
+170 Air FW Asia NNP Promo NNP Terbang VBI Hemat NN Ke IN Jepang NNP - - Harga NN Mulai VBI 1.601.000 CDP 
+discount: 1.601.000, null
+entity: Asia 
+171 Air FW Asia NNP Go NNP Promo NNP Terbang VBI Super NNP Hemat NNP - - Harga NN Spesial NN 0 CDP 
+discount: 0, null
+entity: Asia Go 
+172 Informa NN All NNP Day NNP Sale NNP - - Diskon NN 15% CDP Cashback NNP 500.000 CDP 
+discount: 15%, null
+entity: Informa All Day Sale 
+173 Blibli NN Halloween NNP Spooktacular NNP Promo NNP - - Diskon NN Hingga CC 95% CDP 15% CDP 
+discount: 95%, null
+entity: Blibli Halloween Spooktacular 
+174 Gaudi NN Clothing NN Late NNP Night NNP Shopping FW Sale NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Sale 
+175 A&W NN Restaurant NN Promo NNP Awesome NNP American NNP - - Menu NN Hemat NN Mulai VBI Dari IN 12.000an CDP 
+discount: null, null
+entity: A&W Restaurant 
+176 Carrefour NNP Telkomsel NNP Promo NNP Isi NNP Ulang NN Pulsa NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Carrefour Telkomsel 
+177 Pancious NNP Membercard NNP Best NNP Deal NNP - - Gratis NNP Menu NN Spesial NNP 
+discount: null, null
+entity: null
+178 Solaria NNP Telkomsel NNP Special NNP Deal NNP - - Gratis NNP Voucher NNP Makan VBT 
+discount: null, null
+entity: null
+179 Zalora NNP Great FW Brand NN Sale NNP - - Diskon NN 60% CDP 
+discount: 60%, null
+entity: Brand Sale 
+180 Philips NNP Eaone NNP Mega NNP Sale NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Philips Eaone Mega Sale 
+181 Blibli NN Promo NNP Pesta NN Kostum NN Anak NN - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Blibli 
+182 Emax NNP Indocomtech NNP Special NNP Deal NNP - - Cashback NNP Hingga NN 2.000.000 CDP 
+discount: null, null
+entity: null
+183 Timezone NN Promo NNP Heboh NNP - - Main NNP Sepuasnya NN 75.000 CDP 
+discount: null, null
+entity: Timezone 
+184 Timezone NN Promo NNP Heboh NNP - - Main NNP Sepuasnya NN 75.000 CDP 
+discount: null, null
+entity: Timezone 
+185 Solaria NNP Telkomsel NNP Special NNP Deal NNP - - Gratis NNP Voucher NNP Makan VBT 
+discount: null, null
+entity: null
+186 Metro NNP Department NN Store NNP Special FW BIG FW Sale NNP - - Diskon NN 60% CDP 
+discount: 60%, null
+entity: Sale 
+187 Philips NNP Eaone NNP Mega NNP Sale NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Philips Eaone Mega Sale 
+188 Blibli NN Promo NNP Pesta NN Kostum NN Anak NN - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Blibli 
+189 Blibli NN Promo NNP Meizu NN Great FW Sale NNP - - Diskon NN Hingga CC 38% CDP 
+discount: 38%, null
+entity: Blibli 
+190 Mata NN Department NN Store NNP Weekend NNP Super NNP Sale NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Mata Department Store Weekend Super Sale 
+191 Debenhams NN Special NNP Fragrance NNP Clearance NNP Sale NNP - - Diskon NN Hingga CC 80% CDP 
+discount: 80%, null
+entity: Debenhams Special Fragrance Clearance Sale 
+192 Erafone NNP Microsoft NNP Lumia NNP Special NNP Promo NNP - - Cashback NNP 250.000 CDP & NN Gratis NNP Voucher NNP 
+discount: null, null
+entity: Erafone Microsoft Lumia Special 
+193 iBox NN Special NNP Indocomtech NNP Promo NNP - - Diskon NN 10% CDP 
+discount: 10%, null
+entity: iBox Special Indocomtech 
+194 iBox NNP Indocomtech NNP 2015 CDP iPad NN Sale NNP - - Harga NN Mulai VBI 2.000.000 CDP 
+discount: 2.000.000, null
+entity: iPad Sale 
+195 Bonchon NNP Rice NNP Burger NN Promo NNP - - Harga NN Mulai VBI 46.364 CDP 
+discount: 46.364, null
+entity: Burger 
+196 Lenovo NN Vibe NNP Shot NNP Roadshow NNP Promo NNP - - Cashback NNP 250.000 CDP & NN Gratis NNP Hadiah NN Lansung NNP 
+discount: null, null
+entity: Lenovo Vibe Shot Roadshow 
+197 Pepper NN Lunch NN Breakfast NNP Special NNP Deal NNP - - Harga NN Spesial NN Mulai VBI 49.091 CDP 
+discount: 49.091, null
+entity: Pepper Lunch Breakfast Special Deal 
+198 Johnny NNP Rockets NNP Special NNP Dng NNP Deal NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Johnny Rockets Special Dng Deal 
+199 Erafone NNP Microsoft NNP Lumia NNP Special NNP Promo NNP - - Cashback NNP 250.000 CDP & NN Gratis NNP Voucher NNP 
+discount: null, null
+entity: Erafone Microsoft Lumia Special 
+200 Debenhams NN Special NNP Fragrance NNP Clearance NNP Sale NNP - - Diskon NN Hingga CC 80% CDP 
+discount: 80%, null
+entity: Debenhams Special Fragrance Clearance Sale 
+201 Mata NN Department NN Store NNP Weekend NNP Super NNP Sale NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Mata Department Store Weekend Super Sale 
+202 Blibli NN Promo NNP Meizu NN Great FW Sale NNP - - Diskon NN Hingga CC 38% CDP 
+discount: 38%, null
+entity: Blibli 
+203 Electronic NNP Solution NNP Promo NNP Belanja NNP Heboh NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Electronic Solution 
+204 Cinemaxx NN Theater NNP Promo NNP Nonton NNP Hemat NNP - - Beli NNP 2 CDP Gratis NNP 1 CDP 
+discount: null, Beli 2 Gratis 1
+entity: Cinemaxx Theater 
+205 Acer NN Indocomtech NNP 2015 CDP Special NN Deal NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP Dan CC Cashback NNP 500.000 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+206 Baskin NN Robbins NNP Promo NNP Spesial NN Jumat NN Berkah NNP - - Harga NN Spesial NNP 15.000 CDP 
+discount: 15.000, null
+entity: Baskin Robbins 
+207 Trans NN Studio NNP Bandung NNP Indosat NNP Best NNP Deal NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+208 TM NN Lewin NNP Promo NNP Late NNP Night NNP Sale NNP - - Diskon NN 60% CDP 
+discount: 60%, null
+entity: TM Lewin 
+209 Global NNP Teleshop NNP Special NNP Sale NNP - - Harga NN Semua NN Dibawah NN 2.000.000 CDP 
+discount: 2.000.000, null
+entity: Global Teleshop Special Sale 
+210 Watch NN Studio NNP Halloween NNP Special NNP Deal NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+211 Wellcomm NN Shop NNP Rapoo NNP Special NNP Deal NNP - - Diskon NN 30% CDP & NN Gratis NNP Movie NNP Card NNP 
+discount: 30%, null
+entity: Wellcomm Shop Rapoo Special Deal 
+212 Global NNP Teleshop NNP Special NNP Sale NNP - - Harga NN Semua NN Dibawah NN 2.000.000 CDP 
+discount: 2.000.000, null
+entity: Global Teleshop Special Sale 
+213 Sony NNP Xperia NNP Fest NNP Promo NNP - - Cachback NNP Hingga NN 2.500.000 CDP 
+discount: null, null
+entity: Sony Xperia Fest 
+214 Sunny NNP Side NNP Up NNP Special NNP Opening NNP Promo NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Sunny Side Up Special Opening 
+215 The FW Coffee NNP Bean NNP Promo NNP Halloween NNP Treat NNP - - Gratis NNP Upgrade NNP Size NNP 
+discount: null, null
+entity: Coffee Bean 
+216 The FW Coffee NNP Bean NNP Promo NNP Halloween NNP Treat NNP - - Gratis NNP Upgrade NNP Size NNP 
+discount: null, null
+entity: Coffee Bean 
+217 Watch NN Studio NNP Halloween NNP Special NNP Deal NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+218 Mata NN Department NN Store NNP Super NNP Shoes NNP Fair NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Mata Department Store Super Shoes Fair 
+219 Micosoft NN Special NNP Indocomtech NNP Promo NNP - - Cashback NNP 500.000 CDP & NN Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Micosoft Special Indocomtech 
+220 Jrep NN Clothing NNP Weekend NNP Sale NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Jrep Clothing Weekend Sale 
+221 Keds NN Special NNP Spooktacular NNP Promo NNP - - Diskon NN Tambahan NN 10% CDP 
+discount: 10%, null
+entity: Keds Special Spooktacular 
+222 LG NN Special NNP Indocomtech NNP 2015 CDP Promo NNP - - Cashback NNP Hingga CC 1.000.000 CDP & NN Gratis NNP Hadiah NN 
+discount: null, null
+entity: LG Special Indocomtech 
+223 Playboy NN Footwear NNP Special NNP Deal NNP - - Diskon NN 30% CDP 
+discount: 30%, null
+entity: Playboy Footwear Special Deal 
+224 Metro NNP Department NN Store NNP Promo NNP Tukar NN Poin NN - - Gratis NNP Voucher NNP Belanja NNP 
+discount: null, null
+entity: Metro Department Store 
+225 Salt NN & NN Pepper NN Great FW Sale NNP - - Promo NNP Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Sale 
+226 Mata NN Department NN Store NNP Super NNP Shoes NNP Fair NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Mata Department Store Super Shoes Fair 
+227 Camaieu NNP Special NN Mid NN Season NN Sale NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Camaieu Special Mid Season Sale 
+228 Homyped NN 31th NN Anniversary NNP Deal NNP - - Diskon NN 35% CDP 
+discount: 35%, null
+entity: Homyped 31th Anniversary Deal 
+229 Keds NN Special NNP Spooktacular NNP Promo NNP - - Diskon NN Tambahan NN 10% CDP 
+discount: 10%, null
+entity: Keds Special Spooktacular 
+230 Homyped NN 31th NN Anniversary NNP Deal NNP - - Diskon NN 35% CDP 
+discount: 35%, null
+entity: Homyped 31th Anniversary Deal 
+231 Informa NN All NNP Day NNP Sale NNP - - Diskon NN 15% CDP Cashback NNP 500.000 CDP 
+discount: 15%, null
+entity: Informa All Day Sale 
+232 Erafone NNP Promo NNP Harga NN Asyik NNP - - Diskon NN Hingga CC 85% CDP 
+discount: 85%, null
+entity: Erafone 
+233 Electronic NNP Solution NNP Super NNP Electronic NNP Fair NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Electronic Solution Super Electronic Fair 
+234 FLD NN Shoes NNP Special NNP Deal NNP - - Diskon NN Hingga CC 30% CDP 
+discount: 30%, null
+entity: FLD Shoes Special Deal 
+235 Blibli NN Halloween NNP Spooktacular NNP Promo NNP - - Diskon NN Hingga CC 95% CDP 15% CDP 
+discount: 95%, null
+entity: Blibli Halloween Spooktacular 
+236 Cold NN Stone NNP Creamery NNP Special NNP Deal NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+237 Centro NN Department NN Store NNP Super NNP Hot NNP Sale NNP - - Diskon NN 80% CDP 
+discount: 80%, null
+entity: Centro Department Store Super Hot Sale 
+238 Special NN Flash NN Deal NNP - - Diskon NN Hingga CC 60% CDP 
+discount: 60%, null
+entity: Special Flash Deal 
+239 Lenovo NN Promo NNP Pre NN Order NNP - - Diskon NN 349.000 CDP & NN Gratis NNP Hadiah NN 
+discount: 349.000, null
+entity: Lenovo 
+240 Samsung NNP Promo NNP Tukar NN Tambah RB - - Cashback NNP 600.000 CDP & NN Harga NN Spesial NN Mulai VBI 3.990.000 CDP 
+discount: 600.000, null
+entity: Samsung 
+241 Parkson NN Department NN Store NNP Promo NNP Belanja NNP Hemat NNP - - Diskon NN 70% CDP 
+discount: 70%, null
+entity: Parkson Department Store 
+242 Emax NNP Indocomtech NNP 2015 CDP Promo NNP Heboh NNP - - Cashback NNP 500.000 CDP & NN Harga NN Spesial NNP 
+discount: 500.000, null
+entity: Emax Indocomtech 
+243 Special NN Flash NN Deal NNP - - Diskon NN Hingga CC 60% CDP 
+discount: 60%, null
+entity: Special Flash Deal 
+244 Lenovo NN Promo NNP Pre NN Order NNP - - Diskon NN 349.000 CDP & NN Gratis NNP Hadiah NN 
+discount: 349.000, null
+entity: Lenovo 
+245 Sports NN Station NN 4 CDP Days NN Sale NNP - - Diskon NN hingga CC 70% CDP 10% CDP 
+discount: 70%, null
+entity: Days Sale 
+246 Alfamart NNP Homecare NNP Special NNP Deal NNP - - Harga NN Spesial NN & NN Beli NNP 2 CDP Gratis NNP 1 CDP 
+discount: 2, Beli 2 Gratis 1
+entity: Alfamart Homecare Special Deal 
+247 Erafone NNP Promo NNP Gadget NNP Festival NNP - - harga NN Spesial NNP Mulai VBI Dari IN 399.000 CDP 
+discount: 399.000, null
+entity: Erafone 
+248 Parkson NN Department NN Store NNP Promo NNP Belanja NNP Hemat NNP - - Diskon NN 70% CDP 
+discount: 70%, null
+entity: Parkson Department Store 
+249 TM NN Lewin NNP Sogo NNP Department NN Store NNP Special NNP Sale NNP - - Beli NNP 2 CDP Gratis NNP 1 CDP 
+discount: null, Beli 2 Gratis 1
+entity: null
+250 Okeshop NNP Promo NNP Indocomtech NNP 2015 CDP - - Aneka NNP Diskon NN & NN Harga NN Spesial NNP 
+discount: 2015, null
+entity: Okeshop 
+251 Wellcomm NN Shop NNP Promo NNP Indocomtech NNP 2015 CDP - - Diskon NN 70% CDP & NN Gratis NNP Hadiah NN 
+discount: 70%, null
+entity: Wellcomm Shop 
+252 Mata NN Department NN Store NN Special NN Mens NN Fashion NNP Sale NNP - - Diskon NN 70% CDP 
+discount: 70%, null
+entity: Mata Department Store Special Mens Fashion Sale 
+253 Galeri NN Gadget NN Samsung NN Penawaran NN Spesial NNP - - Cashback NNP 100.000 CDP & NN Gratis NNP Hadiah NN 
+discount: null, null
+entity: null
+254 Erafone NNP Promo NNP Spesial NNP Indocomtech NNP 2015 CDP - - Gratis NNP Hadiah NN Langsung JJ & NN Promo NNP Harga NN Spesial NNP 
+discount: 2015, null
+entity: Erafone 
+255 Galeri NN Gadget NN Samsung NN Penawaran NN Spesial NNP - - Cashback NNP 100.000 CDP & NN Gratis NNP Hadiah NN 
+discount: null, null
+entity: null
+256 Okeshop NNP Promo NNP Indocomtech NNP 2015 CDP - - Aneka NNP Diskon NN & NN Harga NN Spesial NNP 
+discount: 2015, null
+entity: Okeshop 
+257 Mata NN Department NN Store NN Special NN Mens NN Fashion NNP Sale NNP - - Diskon NN 70% CDP 
+discount: 70%, null
+entity: Mata Department Store Special Mens Fashion Sale 
+258 Alfamart NNP Homecare NNP Special NNP Deal NNP - - Harga NN Spesial NN & NN Beli NNP 2 CDP Gratis NNP 1 CDP 
+discount: 2, Beli 2 Gratis 1
+entity: Alfamart Homecare Special Deal 
+259 Logo NNP Special NNP Halloween NNP Sale NNP - - Gratis NNP Voucher NNP Belanja NNP 50.000 CDP 
+discount: null, null
+entity: null
+260 CGV NN Blitz NNP Special NNP Soft NNP Opening NNP Deal NNP - - Promo NNP Nonton NNP Gratis NNP 
+discount: null, null
+entity: CGV Blitz Special Soft Opening Deal 
+261 Fish NN & NN Co NNP Special NNP Offers NNP - - Diskon NN 15% CDP 
+discount: 15%, null
+entity: Fish & Co Special Offers 
+262 Colorbox NN Special NNP Deal NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: null
+263 G2000 NN Special NNP Halloween NNP Sale NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: G2000 Special Halloween Sale 
+264 Colorbox NN Special NNP Deal NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: null
+265 Carls NNP Jr NN Promo NNP Jumat NN Hemat NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Jr 
+266 Coconut NN Island NNP Special NNP Sale NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Coconut Island Special Sale 
+267 Baskin NN Robbins NNP Promo NNP Spesial NN Jumat NN Berkah NNP - - Harga NN Spesial NNP 15.000 CDP 
+discount: 15.000, null
+entity: Baskin Robbins 
+268 Carls NNP Jr NN Promo NNP Jumat NN Hemat NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Jr 
+269 Centro NN Department NN Store NNP Super NNP Late NNP Night NNP Sale NNP - - Diskon NNP Sampai VBT 70% CDP 20% CDP 
+discount: 70%, null
+entity: Centro Department Store Super Late Night Sale 
+270 Lazada NN Online NN Revolution NN UBER NN SALE NNP - - Diskon NN hingga CC 90% CDP 
+discount: 90%, null
+entity: Lazada Online Revolution UBER SALE 
+271 Zalora NNP Halloween NNP Boom NNP Sale NNP - - Diskon NN Harga NN Special NNP 
+discount: null, null
+entity: Zalora Halloween Boom Sale 
+272 Lazada NN Promo NNP Lensa NNP Super NNP Deal NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Lazada 
+273 Lazada NN Super NN Kamis NN Promo NNP - - Diskon NN hingga CC 85% CDP 10% CDP 
+discount: 85%, null
+entity: Lazada Super Kamis 
+274 Lazada NN Kamis NN Hemat NNP - - Diskon NN 50% CDP 10% CDP 
+discount: 50%, null
+entity: Lazada Kamis Hemat 
+275 Lazada NN Super NN Kamis NN Promo NNP - - Diskon NN hingga CC 85% CDP 10% CDP 
+discount: 85%, null
+entity: Lazada Super Kamis 
+276 Lazada NN Online NN Revolution NN UBER NN SALE NNP - - Diskon NN hingga CC 90% CDP 
+discount: 90%, null
+entity: Lazada Online Revolution UBER SALE 
+277 Sports NN Station NN 4 CDP Days NN Sale NNP - - Diskon NN hingga CC 70% CDP 
+discount: 70%, null
+entity: Days Sale 
+278 Infte NN Special NNP Indocomtech NNP 2015 CDP Deal NNP - - Diskon NN Hingga NN 500.000 CDP 
+discount: 500.000, null
+entity: Deal 
+279 Zalora NNP Halloween NNP Boom NNP Sale NNP - - Diskon NN Harga NN Special NNP 
+discount: null, null
+entity: Zalora Halloween Boom Sale 
+280 Lazada NN Promo NNP Lensa NNP Super NNP Deal NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Lazada 
+281 Lazada NN Online NN Revolution NN UBER NN SALE NNP - - Diskon NN hingga CC 90% CDP 
+discount: 90%, null
+entity: Lazada Online Revolution UBER SALE 
+282 Lazada NN Super NN Kamis NN Promo NNP - - Diskon NN hingga CC 85% CDP 10% CDP 
+discount: 85%, null
+entity: Lazada Super Kamis 
+283 Sports NN Station NN 4 CDP Days NN Sale NNP - - Diskon NN hingga CC 70% CDP 
+discount: 70%, null
+entity: Days Sale 
+284 Zalora NNP Halloween NNP Boom NNP Sale NNP - - Diskon NN Harga NN Special NNP 
+discount: null, null
+entity: Zalora Halloween Boom Sale 
+285 Lazada NN Promo NNP Lensa NNP Super NNP Deal NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Lazada 
+286 Infte NN Special NNP Indocomtech NNP 2015 CDP Deal NNP - - Diskon NN Hingga NN 500.000 CDP 
+discount: 500.000, null
+entity: Deal 
+287 Blibli NN Promo NNP Spesial NN Kamis NN Ganteng NNP - - Diskon NN Sampai VBI Dengan IN 74% CDP 
+discount: 74%, null
+entity: Blibli 
+288 Mango NNP Mid-Season NNP Sale NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Mango Mid-Season Sale 
+289 Supermall NNP Karawaci NNP Extravagan NNP Sale NNP - - Diskon NN Hingga CC 60% CDP 10% CDP 
+discount: 60%, null
+entity: Supermall Karawaci Extravagan Sale 
+290 Lazada NN Promo NNP Men NN s NN And FW Women NNP s IN Best NNP Sellers NN - - Diskon NN Hingga CC 90% CDP 
+discount: 90%, null
+entity: Lazada 
+291 Okeshop NNP Promo NNP Seru NNP Dan CC Rame NNP - - Diskon NN & NN Harga NN Spesial NNP 
+discount: null, null
+entity: Okeshop 
+292 Flash NN Deal NN Meizu NN M2 NNP - - Promo NNP Harga NN Super NNP Special NNP Extra NNP Diskon NN 8% CDP 
+discount: 8%, null
+entity: Flash Deal Meizu M2 
+293 Lazada NN Promo NNP Men NN s NN And FW Women NNP s IN Best NNP Sellers NN - - Diskon NN Hingga CC 90% CDP 
+discount: 90%, null
+entity: Lazada 
+294 Mango NNP Mid-Season NNP Sale NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Mango Mid-Season Sale 
+295 ONE NNP DAY NNP ONLY NNP Pay NNP Day NNP Promo NNP - - Diskon NN hingga CC 30% CDP EXTRA CDP 8% CDP 
+discount: 30%, null
+entity: ONE DAY ONLY Pay Day 
+296 Blibli NN Promo NNP Spesial NN Kamis NN Ganteng NNP - - Diskon NN Sampai VBI Dengan IN 74% CDP 
+discount: 74%, null
+entity: Blibli 
+297 Lazada NN Alcatel NNP Flash NNP Sale NNP - - Promo NNP Harga NN Special NNP Mantap NNP 
+discount: null, null
+entity: Lazada Alcatel Flash Sale 
+298 Flash NN Deal NN Meizu NN M2 NNP - - Promo NNP Harga NN Super NNP Special NNP Extra NNP Diskon NN 8% CDP 
+discount: 8%, null
+entity: Flash Deal Meizu M2 
+299 Okeshop NNP Promo NNP Spesial NNP Halloween NNP - - Cashback NNP 1.000.000 CDP Atau CC Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Okeshop 
+300 ONE NNP DAY NNP ONLY NNP Pay NNP Day NNP Promo NNP - - Diskon NN hingga CC 30% CDP EXTRA CDP 8% CDP 
+discount: 30%, null
+entity: ONE DAY ONLY Pay Day 
+301 ONE NNP DAY NNP ONLY NNP Pay NNP Day NNP Promo NNP - - Diskon NN hingga CC 30% CDP EXTRA CDP 8% CDP 
+discount: 30%, null
+entity: ONE DAY ONLY Pay Day 
+302 Mango NNP Mid-Season NNP Sale NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Mango Mid-Season Sale 
+303 Okeshop NNP Promo NNP Spesial NNP Halloween NNP - - Cashback NNP 1.000.000 CDP Atau CC Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Okeshop 
+304 Electronic NNP Solution NNP 10th CDP Anniversary NNP Promo NNP - - Aneka NNP Diskon NN & NN Harga NN Spesial NNP 
+discount: 10th, null
+entity: Anniversary 
+305 Erafone NNP Special NNP Indocomtech NNP 2015 CDP Promo NNP - - Diskon NN 85% CDP & NN Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: 85%, Beli 1 Gratis 1
+entity: Erafone Special Indocomtech 
+306 Et NNP Cetera NNP Promo NNP Spesial NNP - - Diskon NN 100.000 CDP 
+discount: 100.000, null
+entity: Et Cetera 
+307 Emax NNP Special NNP Indocomtech NNP 2015 CDP Deal NNP - - Cashback NNP 2.000.000 CDP 
+discount: null, null
+entity: null
+308 Excelso FW BIG FW Deal NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+309 Lazada NN Alcatel NNP Flash NNP Sale NNP - - Promo NNP Harga NN Special NNP Mantap NNP 
+discount: null, null
+entity: Lazada Alcatel Flash Sale 
+310 Flash NN Deal NN Meizu NN M2 NNP - - Promo NNP Harga NN Super NNP Special NNP Extra NNP Diskon NN 8% CDP 
+discount: 8%, null
+entity: Flash Deal Meizu M2 
+311 KFC NN Promo NNP Menu NN Baru NNP - - Harga NN 5.000 CDP 
+discount: 5.000, null
+entity: KFC 
+312 Et NNP Cetera NNP Promo NNP Spesial NNP - - Diskon NN 100.000 CDP 
+discount: 100.000, null
+entity: Et Cetera 
+313 Mata NN Department NN Store NN 10 CDP Days NN Sale NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Days Sale 
+314 Blackball NN 2nd NN Anniversary NNP Promo NNP - - Harga NN Heboh NN 2 CDP 
+discount: 2, null
+entity: Blackball 2nd Anniversary 
+315 BRI NN indocomtech NN 2015 CDP Special NN Delal NNP - - Diskon NN Hingga NN 5.000.000 CDP 
+discount: 5.000.000, null
+entity: Special Delal 
+316 Sony NNP November NN Festive NN Sale NNP - - Cashback NNP Hingga CC 2.000.000 CDP & NN Gratis NNP Hadiah NN 
+discount: null, null
+entity: null
+317 Alfamart NNP Great FW Deal NNP - - Harga NN Spesial NN & NN Diskon NN 15% CDP 
+discount: 15%, null
+entity: Deal 
+318 Mata NN Department NN Store NN 10 CDP Days NN Sale NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Days Sale 
+319 Sony NNP November NN Festive NN Sale NNP - - Cashback NNP Hingga CC 2.000.000 CDP & NN Gratis NNP Hadiah NN 
+discount: null, null
+entity: null
+320 Alfamart NNP Great FW Deal NNP - - Harga NN Spesial NN & NN Diskon NN 15% CDP 
+discount: 15%, null
+entity: Deal 
+321 Blibli NN Basketball NN Special NNP Deal NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Blibli Basketball Special Deal 
+322 The FW Little NN Things NNP She NNP Needs NNP Telkomsel NNP Special NNP Offers NNP - - Gratis NNP Voucher NNP Belanja NNP 
+discount: null, null
+entity: null
+323 JakartaNotebook NNP Special NNP Indocomtech NNP Promo NNP - - Diskon NN hingga CC 90% CDP 
+discount: 90%, null
+entity: JakartaNotebook Special Indocomtech 
+324 Oh NNP Lala NNP Cafe NNP Bake NNP Sale NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Oh Lala Cafe Bake Sale 
+325 Walk FW In FW Style NNP Promo NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Style 
+326 Walk FW In FW Style NNP Promo NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Style 
+327 JakartaNotebook NNP Special NNP Indocomtech NNP Promo NNP - - Diskon NN hingga CC 90% CDP 
+discount: 90%, null
+entity: JakartaNotebook Special Indocomtech 
+328 Blibli NN Basketball NN Special NNP Deal NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Blibli Basketball Special Deal 
+329 The FW Little NN Things NNP She NNP Needs NNP Telkomsel NNP Special NNP Offers NNP - - Gratis NNP Voucher NNP Belanja NNP 
+discount: null, null
+entity: null
+330 Oh NNP Lala NNP Cafe NNP Bake NNP Sale NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Oh Lala Cafe Bake Sale 
+331 Lotteria NNP Promo NNP Spesial NNP - - Makan VBT Gratis NNP Dengan IN Tukar NN Poin NN 
+discount: null, null
+entity: Lotteria 
+332 Kyochon NN Restaurant NN Special NNP Halloween NNP Promo NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Kyochon Restaurant Special Halloween 
+333 JakartaNotebook NNP Special NNP Indocomtech NNP Promo NNP - - Diskon NN hingga CC 90% CDP 
+discount: 90%, null
+entity: JakartaNotebook Special Indocomtech 
+334 Jakarta NNP Notebook NNP Promo NNP Termurah JJ - - Diskon NN 80% CDP 
+discount: 80%, null
+entity: Jakarta Notebook 
+335 Kyochon NN Restaurant NN Special NNP Halloween NNP Promo NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Kyochon Restaurant Special Halloween 
+336 Lotteria NNP Promo NNP Spesial NNP - - Makan VBT Gratis NNP Dengan IN Tukar NN Poin NN 
+discount: null, null
+entity: Lotteria 
+337 Jakarta NNP Notebook NNP Promo NNP Termurah JJ - - Diskon NN 80% CDP 
+discount: 80%, null
+entity: Jakarta Notebook 
+338 Blackberry NN Clearance NNP Sale NNP - - Diskon NN Hingga CC 69% CDP 
+discount: 69%, null
+entity: Blackberry Clearance Sale 
+339 Electronic NNP Solution NNP Electronic NNP Fair NNP Great FW Sale NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Sale 
+340 D NNP crepes NNP Promo NNP Menu NN Baru NNP - - Harga NN Mulai VBI 12.727 CDP 
+discount: 12.727, null
+entity: D crepes 
+341 Centro NN Department NN Store NNP Promo NNP Trade NNP In FW - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Centro Department Store 
+342 Citilink NN Indomaret NNP Promo NNP Mantap NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Citilink Indomaret 
+343 Erafone NNP Promo NNP Gadget NNP Fiesta NNP - - Aneka NNP Diskon NN & NN Harga NN Spesial NNP 
+discount: null, null
+entity: Erafone 
+344 Acer NN Erafone NNP Super NNP Sale NNP - - Harga NN Terbaik JJ 749.000 CDP 
+discount: 749.000, null
+entity: Acer Erafone Super Sale 
+345 Citilink NN Indomaret NNP Promo NNP Mantap NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Citilink Indomaret 
+346 Guardian NNP Great FW Weekend NNP Deal NNP - - Tambah RB 1.000 CDP Dapat MD 2 CDP 
+discount: null, null
+entity: null
+347 Indomaret NNP Promo NNP Token NNP PLN NNP - - Gratis NNP Kupon NN Diskon NN Hingga NN 50.000 CDP 
+discount: 50.000, null
+entity: Indomaret 
+348 D NNP crepes NNP Promo NNP Menu NN Baru NNP - - Harga NN Mulai VBI 12.727 CDP 
+discount: 12.727, null
+entity: D crepes 
+349 Electronic NNP Solution NNP Electronic NNP Fair NNP Great FW Sale NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Sale 
+350 Alfamart NNP Kino NN Berverage NN Fair NNP - - Harga NN Spesial NN Mulai VBI 6.200 CDP 
+discount: 6.200, null
+entity: Alfamart Kino Berverage Fair 
+351 Lee NNP Cooper NNP Promo NNP Halloween NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Lee Cooper 
+352 Pizza NNP Hut NNP Spesial NNP Fiestapoin NNP Promo NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Pizza Hut Spesial Fiestapoin 
+353 Do NN It NN Best NNP Pong NNP Special NNP Promo NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Do It Best Pong Special 
+354 Metro NNP Department NN Store FW International FW Branded NN Sale NNP - - Diskon NN 70% CDP 
+discount: 70%, null
+entity: Branded Sale 
+355 Chatime NNP Promo NNP Halloween NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Chatime 
+356 Pizza NNP Hut NNP Spesial NNP Fiestapoin NNP Promo NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Pizza Hut Spesial Fiestapoin 
+357 Metro NNP Department NN Store FW International FW Branded NN Sale NNP - - Diskon NN 70% CDP 
+discount: 70%, null
+entity: Branded Sale 
+358 Lee NNP Cooper NNP Promo NNP Halloween NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Lee Cooper 
+359 Alfamart NNP Kino NN Berverage NN Fair NNP - - Harga NN Spesial NN Mulai VBI 6.200 CDP 
+discount: 6.200, null
+entity: Alfamart Kino Berverage Fair 
+360 Debenhams NN Special NNP Sale NNP - - Diskon NN 20% CDP 10% CDP 
+discount: 20%, null
+entity: Debenhams Special Sale 
+361 Chatime NNP Promo NNP Halloween NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Chatime 
+362 Breadtalk NN Promo NNP Soft NNP Opening NNP Promo NNP - - Harga NN Spesial NNP 6.500 CDP 
+discount: 6.500, null
+entity: Breadtalk 
+363 Calais NNP Tea NNP Promo NNP Super NNP Mantap NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Calais Tea 
+364 Galeri NN Gadget NN Samsung NNP Special NNP Deal NNP - - Cashback NNP 100.000 CDP & NN Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: null
+365 X8 NNP Clothing NN Penawaran NN Spesial NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: null
+366 Oscar NNP Living NNP Special NNP Spring NNP Bed NNP Promo NNP - - Diskon NN hingga CC 60% CDP 
+discount: 60%, null
+entity: Oscar Living Special Spring Bed 
+367 Promo NNP Dress NNP Me NNP Up NNP - - Diskon NN Sampai VBI Dengan IN 70% CDP 
+discount: 70%, null
+entity: Promo Dress Me Up 
+368 Superindo NNP Special NNP Treat NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: null
+369 Roppan NNP Restaurant NNP Special NNP Deal NNP - - Promo NNP Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Roppan Restaurant Special Deal 
+370 Tonga NNP Super NNP Sale NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Tonga Super Sale 
+371 Share NNP Tea NNP Promo NNP Opening NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Share Tea 
+372 Payless NNP Shoesource NNP Semi CC Annual NNP Sale NNP - - Diskon NN 40% CDP 
+discount: 40%, null
+entity: Annual Sale 
+373 Oscar NNP Living NNP Special NNP Spring NNP Bed NNP Promo NNP - - Diskon NN hingga CC 60% CDP 
+discount: 60%, null
+entity: Oscar Living Special Spring Bed 
+374 Payless NNP Shoesource NNP Semi CC Annual NNP Sale NNP - - Diskon NN 40% CDP 
+discount: 40%, null
+entity: Annual Sale 
+375 Tonga NNP Super NNP Sale NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Tonga Super Sale 
+376 Roppan NNP Restaurant NNP Special NNP Deal NNP - - Promo NNP Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Roppan Restaurant Special Deal 
+377 Superindo NNP Special NNP Treat NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: null
+378 Klik NN Indomaret NNP Promo NNP Belanja NNP Hemat NNP - - Gratis NNP Jersey NNP Tim NNP Sepakbola NN Idola NNP 
+discount: null, null
+entity: Klik Indomaret 
+379 Tonga NNP Super NNP Sale NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Tonga Super Sale 
+380 Promo NNP Dress NNP Me NNP Up NNP - - Diskon NN Sampai VBI Dengan IN 70% CDP 
+discount: 70%, null
+entity: Promo Dress Me Up 
+381 Mata NN Department NN Store NNP Promo NNP Spesial NN Ulang NN Tahun NN - - Beli NNP T-Shirt NNP 15.000 CDP 
+discount: null, null
+entity: Mata Department Store 
+382 Klik NN Indomaret NNP Promo NNP Belanja NNP Hemat NNP - - Gratis NNP Jersey NNP Tim NNP Sepakbola NN Idola NNP 
+discount: null, null
+entity: Klik Indomaret 
+383 Kiddy NN Cuts NN Special NN 2nd NN Anniversary NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Kiddy Cuts Special 2nd Anniversary 
+384 eStore NN Promo NNP Oktober NNP Heboh NNP - - Diskon NN 2.000.000 CDP 
+discount: 2.000.000, null
+entity: eStore 
+385 Promo NNP Akhir JJ Bulan NN - - Diskon NN Sampai VBI dengan IN 95% CDP 
+discount: 95%, null
+entity: Bulan 
+386 Donita NN Special NNP Offers NNP - - Promo NNP Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Donita Special Offers 
+387 Dorothy NN Perkins NN Further FW Reductions FW Great FW Sale NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Sale 
+388 Dorothy NN Perkins NN Further FW Reductions FW Great FW Sale NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Sale 
+389 Donita NN Special NNP Offers NNP - - Promo NNP Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Donita Special Offers 
+390 eStore NN Promo NNP Oktober NNP Heboh NNP - - Diskon NN 2.000.000 CDP 
+discount: 2.000.000, null
+entity: eStore 
+391 Mata NN Mall NNP Rock NN n NN Roll NNP Marathon NNP Promo NNP - - Harga NN Mulai VBI Dari IN 55.000 CDP 
+discount: 55.000, null
+entity: Mata Mall Rock n Roll Marathon 
+392 Promo NNP Akhir JJ Bulan NN - - Diskon NN Sampai VBI dengan IN 95% CDP 
+discount: 95%, null
+entity: Bulan 
+393 Clarks NN Mix NNP Collection NNP Sale NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+394 Wendys NNP Promo NNP Menu NN Baru NNP - - Harga NN Dari IN 31.818 CDP 
+discount: 31.818, null
+entity: Wendys 
+395 Pizza NNP Hut NNP Minute NNP Maid NNP Promo NNP Seru NNP - - Gratis NNP Personal NNP Pan NNP Pizza NNP 
+discount: null, null
+entity: Pizza Hut Minute Maid 
+396 Okeshop NNP Samsung NNP Special NNP Offerrs NNP - - Diskon NN 2.000.000 CDP 
+discount: 2.000.000, null
+entity: Okeshop Samsung Special Offerrs 
+397 Wendys NNP Promo NNP Menu NN Baru NNP - - Harga NN Dari IN 31.818 CDP 
+discount: 31.818, null
+entity: Wendys 
+398 Clarks NN Mix NNP Collection NNP Sale NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+399 Okeshop NNP Samsung NNP Special NNP Offerrs NNP - - Diskon NN 2.000.000 CDP 
+discount: 2.000.000, null
+entity: Okeshop Samsung Special Offerrs 
+400 Pizza NNP Hut NNP Minute NNP Maid NNP Promo NNP Seru NNP - - Gratis NNP Personal NNP Pan NNP Pizza NNP 
+discount: null, null
+entity: Pizza Hut Minute Maid 
+401 Fitflop NN Special NNP Deal NNP - - Diskon NN 10% CDP 
+discount: 10%, null
+entity: Fitflop Special Deal 
+402 Informa NN Special NN Bazaar NN Promo NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Informa Special Bazaar 
+403 Jco NN Coffee NNP Super NNP Deal NNP - - Beli NNP 2 CDP Dapat MD 3 CDP 
+discount: null, null
+entity: null
+404 Mothercare NN Mid NN Season NN Sale NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Mothercare Mid Season Sale 
+405 Solaria NNP Special NNP Offers NNP - - Diskon NN 30% CDP 
+discount: 30%, null
+entity: Solaria Special Offers 
+406 Campina NNP Alfamidi NNP Special NNP Treat NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+407 Lee NNP Cooper NNP Promo NNP Octofair NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Lee Cooper 
+408 Centro NN Department NN Store NNP Fiestapoin NNP Special NNP Deal NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Centro Department Store Fiestapoin Special Deal 
+409 Erafone NNP Lenovo NNP Special NNP Offers NNP - - Harga NN Spesial NN Mulai VBI 1.599.000 CDP 
+discount: 1.599.000, null
+entity: Erafone Lenovo Special Offers 
+410 Centro NN Department NN Store NNP Fiestapoin NNP Special NNP Deal NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Centro Department Store Fiestapoin Special Deal 
+411 Mothercare NN Mid NN Season NN Sale NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Mothercare Mid Season Sale 
+412 Baskin NN Robbins NNP Promo NNP Pink NNP Day NNP - - Gratis NNP Tambahan NN 1 CDP Scoop NNP 
+discount: null, null
+entity: Baskin Robbins 
+413 Campina NNP Alfamidi NNP Special NNP Treat NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+414 Lazada NN Smartphone NN Hot NN Deals NNP - - Harga NN Mulai VBI Dari IN 300.000 CDP 
+discount: 300.000, null
+entity: Lazada Smartphone Hot Deals 
+415 Lazada NN Promo NNP Fashion NNP Ultimate NNP SALE NNP - - Diskon NN Hingga CC 80% CDP 
+discount: 80%, null
+entity: Lazada 
+416 Lazada NN Promo NNP Susu NNP Formula NNP - - Diskon NN hingga CC 35% CDP 
+discount: 35%, null
+entity: Lazada 
+417 Oh NNP Lala NNP Cafe NNP Special NNP Deal NNP - - Beli NNP 2 CDP Gratis NNP 1 CDP 
+discount: null, Beli 2 Gratis 1
+entity: null
+418 Zalora NNP Mango NNP Super NNP Sale NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Zalora Mango Super Sale 
+419 Lazada NN Promo NNP Susu NNP Formula NNP - - Diskon NN hingga CC 35% CDP 
+discount: 35%, null
+entity: Lazada 
+420 Zalora NNP Mango NNP Super NNP Sale NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Zalora Mango Super Sale 
+421 Lazada NN Smartphone NN Hot NN Deals NNP - - Harga NN Mulai VBI Dari IN 300.000 CDP 
+discount: 300.000, null
+entity: Lazada Smartphone Hot Deals 
+422 Lazada NN Smartphone NN Hot NN Deals NNP - - Harga NN Mulai VBI Dari IN 300.000 CDP 
+discount: 300.000, null
+entity: Lazada Smartphone Hot Deals 
+423 Lazada NN Promo NNP Susu NNP Formula NNP - - Diskon NN hingga CC 35% CDP 
+discount: 35%, null
+entity: Lazada 
+424 Mata NN Mall NNP Promo NNP Fashion NNP Accessories NNP - - Harga NN Spesial NNP Mulai VBI Dari IN 9.900 CDP 
+discount: 9.900, null
+entity: Mata Mall 
+425 Lazada NN Promo NNP Fashion NNP Ultimate NNP SALE NNP - - Diskon NN Hingga CC 80% CDP 
+discount: 80%, null
+entity: Lazada 
+426 Guess NN Fantastic NNP Sale NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Guess Fantastic Sale 
+427 Mata NN Mall NNP Promo NNP Fashion NNP Accessories NNP - - Harga NN Spesial NNP Mulai VBI Dari IN 9.900 CDP 
+discount: 9.900, null
+entity: Mata Mall 
+428 Nike NNP Promo NNP Clearance NNP Sale NNP - - Diskon NN 90% CDP 5% CDP 
+discount: 90%, null
+entity: Nike 
+429 Telkomsel NNP Indocomtech NNP 2015 CDP Great FW Deal NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Deal 
+430 Lazada NN Promo NNP Fashion NNP Ultimate NNP SALE NNP - - Diskon NN Hingga CC 80% CDP 
+discount: 80%, null
+entity: Lazada 
+431 Blibli NN Lenovo NN Vibe NN P1m NN Flash NN Sale NNP - - Diskon NN 10% CDP 50.000 CDP 
+discount: 10%, null
+entity: Blibli Lenovo Vibe P1m Flash Sale 
+432 Dufan NN Ancol NNP Special NNP Offers NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Dufan Ancol Special Offers 
+433 Blibli NN Promo NNP Spesial NNP Mom NNP s IN Day NNP - - Diskon NN Hingga CC 84% CDP 
+discount: 84%, null
+entity: Blibli 
+434 Acer NN Erafone NNP Super NNP Sale NNP - - Harga NN Terbaik JJ 749.000 CDP 
+discount: 749.000, null
+entity: Acer Erafone Super Sale 
+435 Blibli NN Promo NNP Spesial NNP Mom NNP s IN Day NNP - - Diskon NN Hingga CC 84% CDP 
+discount: 84%, null
+entity: Blibli 
+436 Air FW Asia NNP Great FW Deal NNP - - Promo NNP Kursi NNP Hemat NNP Mulai VBI Dari IN 334.000 CDP 
+discount: null, null
+entity: Deal 
+437 Blibli NN Lenovo NN Vibe NN P1m NN Flash NN Sale NNP - - Diskon NN 10% CDP 50.000 CDP 
+discount: 10%, null
+entity: Blibli Lenovo Vibe P1m Flash Sale 
+438 Air FW Asia NNP Promo NNP Terbang VBI Ke IN Singapura NNP - - Harga NN Mulai VBI Dari IN 339.000 CDP 
+discount: 339.000, null
+entity: Asia 
+439 Air FW Asia NNP Super NNP BIG FW Sale NNP - - Paket NN Liburan NN Hemat NN Mulai VBI Dari IN 899.000 CDP 
+discount: null, null
+entity: null
+440 Blibli NN Lenovo NN Vibe NN P1m NN Flash NN Sale NNP - - Diskon NN 10% CDP 50.000 CDP 
+discount: 10%, null
+entity: Blibli Lenovo Vibe P1m Flash Sale 
+441 Centro NN Department NN Store NNP Best NNP Deal NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: null
+442 Chatime NNP Special NNP Opening NNP Promo NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Chatime Special Opening 
+443 CGV NN Blitz NNP Promo NNP Smooth NNP Fusion NNP Combo NNP - - Harga NN Spesial NN Mulai VBI 45.000 CDP 
+discount: 45.000, null
+entity: CGV Blitz 
+444 PHD NN Pizza NNP Hut NNP Promo NNP Super NNP Hebat NNP - - Diskon NN Hingga CC 40% CDP 
+discount: 40%, null
+entity: PHD Pizza Hut 
+445 eStore NN October NNP Special NNP Offer NNP - - Diskon NN Hingga NN 800.000 CDP 
+discount: 800.000, null
+entity: eStore October Special Offer 
+446 Pepper NN Lunch NNP Promo NNP Spesial NNP Opening NNP - - Harga NN Heboh NN 1 CDP 
+discount: 1, null
+entity: Pepper Lunch 
+447 Texas NNP Chicken NNP Best NNP Deal NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Texas Chicken Best Deal 
+448 Promo NNP HUT NNP Mandiri NNP - - Cashback NNP 100.000 CDP Free NNP Shipping NNP & , Gratis NNP Flashdisc FW 
+discount: null, null
+entity: null
+449 Pepper NN Lunch NNP Promo NNP Spesial NNP Opening NNP - - Harga NN Heboh NN 1 CDP 
+discount: 1, null
+entity: Pepper Lunch 
+450 Lazada NN Samsung NN Galaxy NN Super NNP Sale NNP - - Harga NN Mulai VBI 1.000.000 CDP 
+discount: 1.000.000, null
+entity: Lazada Samsung Galaxy Super Sale 
+451 Lazada NN Promo NNP Spesial NNP Belanja NNP Hemat NNP - - Diskon NN 70% CDP 
+discount: 70%, null
+entity: Lazada 
+452 Lazada NN Casio NNP Boom NNP Sale NNP - - Diskon NN Hingga CC 99% CDP 
+discount: 99%, null
+entity: Lazada Casio Boom Sale 
+453 Lazada NN Casio NNP Boom NNP Sale NNP - - Diskon NN Hingga CC 99% CDP 
+discount: 99%, null
+entity: Lazada Casio Boom Sale 
+454 eStore NN October NNP Special NNP Offer NNP - - Diskon NN Hingga NN 800.000 CDP 
+discount: 800.000, null
+entity: eStore October Special Offer 
+455 PHD NN Pizza NNP Hut NNP Promo NNP Super NNP Hebat NNP - - Diskon NN Hingga CC 40% CDP 
+discount: 40%, null
+entity: PHD Pizza Hut 
+456 Lazada NN Casio NNP Boom NNP Sale NNP - - Diskon NN Hingga CC 99% CDP 
+discount: 99%, null
+entity: Lazada Casio Boom Sale 
+457 Blibli NN Fun NNP Weekend NNP Super NNP Deal NNP - - Diskon NN Hingga CC 75% CDP 
+discount: 75%, null
+entity: Blibli Fun Weekend Super Deal 
+458 Lazada NN Promo NNP Spesial NNP Belanja NNP Hemat NNP - - Diskon NN 70% CDP 
+discount: 70%, null
+entity: Lazada 
+459 Lazada NN Samsung NN Galaxy NN Super NNP Sale NNP - - Harga NN Mulai VBI 1.000.000 CDP 
+discount: 1.000.000, null
+entity: Lazada Samsung Galaxy Super Sale 
+460 Lazada NN Super NNP Sunday NNP Promo NNP - - Diskon NN hingga CC 85% CDP 10% CDP 
+discount: 85%, null
+entity: Lazada Super Sunday 
+461 Promo NNP Citi NNP Special NNP Week NNP - - Diskon NN 10% CDP 
+discount: 10%, null
+entity: Promo Citi Special Week 
+462 Pizza NNP Hut NNP Promo NNP Spesial NN Akhir JJ Pekan NN - - Diskon NN 15% CDP 
+discount: 15%, null
+entity: Pizza Hut 
+463 Blibli NN Fun NNP Weekend NNP Super NNP Deal NNP - - Diskon NN Hingga CC 75% CDP 
+discount: 75%, null
+entity: Blibli Fun Weekend Super Deal 
+464 Ocean NNP Park NNP Special NNP Deal NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+465 Promo NNP Citi NNP Special NNP Week NNP - - Diskon NN 10% CDP 
+discount: 10%, null
+entity: Promo Citi Special Week 
+466 X8 NNP Clothing NN Penawaran NN Spesial NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: null
+467 Lazada NN Super NNP Sunday NNP Promo NNP - - Diskon NN hingga CC 85% CDP 10% CDP 
+discount: 85%, null
+entity: Lazada Super Sunday 
+468 Pizza NNP Hut NNP Promo NNP Spesial NN Akhir JJ Pekan NN - - Diskon NN 15% CDP 
+discount: 15%, null
+entity: Pizza Hut 
+469 PHD NN Pizza NNP Hut NNP Promo NNP Menu NN Baru NNP - - Harga NN 84.000 CDP 
+discount: 84.000, null
+entity: PHD Pizza Hut 
+470 Bonchon NNP Chicken NNP Special NNP Membercard NNP Promo NNP - - Diskon NN 15% CDP 
+discount: 15%, null
+entity: Bonchon Chicken Special Membercard 
+471 Hotel NN Santika FW Great FW Deal NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Deal 
+472 Forever NN Jewelry NNP Special NNP Sale NNP - - Diskon NN Hingga CC 50% CDP & NN Cashback NNP 3.000.000 CDP 
+discount: 50%, null
+entity: Forever Jewelry Special Sale 
+473 Mata NN Mall NNP Rock NN n NN Roll NNP Marathon NNP Promo NNP - - Harga NN Mulai VBI Dari IN 55.000 CDP 
+discount: 55.000, null
+entity: Mata Mall Rock n Roll Marathon 
+474 GAP NN Mid NN Season NN Sale NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: GAP Mid Season Sale 
+475 Circle NN K NN Special NNP Offers NNP - - Beli NNP T-Shirt NNP Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: null
+476 Bukalapak NN Promo NNP Serbu NNP Diskon NN Muda JJ Mudi NNP - - Diskon NN 70% CDP 
+discount: 70%, null
+entity: Bukalapak 
+477 The FW Duck NN King NN Special NNP Offers NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Duck King Special Offers 
+478 Okeshop NNP Asus NNP Special NNP Offers NNP - - Cashback NNP 400.000 CDP & NN Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: null
+479 Erafone NNP Lenovo NNP Special NNP Offers NNP - - Harga NN Spesial NN Mulai VBI 1.599.000 CDP 
+discount: 1.599.000, null
+entity: Erafone Lenovo Special Offers 
+480 The FW Duck NN King NN Special NNP Offers NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Duck King Special Offers 
+481 Circle NN K NN Special NNP Offers NNP - - Beli NNP T-Shirt NNP Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: null
+482 Bukalapak NN Promo NNP Serbu NNP Diskon NN Muda JJ Mudi NNP - - Diskon NN 70% CDP 
+discount: 70%, null
+entity: Bukalapak 
+483 Share NNP Tea NNP Exclusive NNP Offers NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+484 Wacoal NN Promo NNP Hello NNP October NNP - - Diskon NN 30% CDP 
+discount: 30%, null
+entity: Wacoal 
+485 KliknKlik NN Weekend NNP Promo NNP - - Gratis NNP Voucher NNP hingga NN 300.000 CDP 
+discount: null, null
+entity: KliknKlik Weekend 
+486 Lazada NN Promo NNP Rumahku NNP Istanaku NNP - - Harga NN Spesial NN Dibawah NN 399.000 CDP 
+discount: 399.000, null
+entity: Lazada 
+487 Arjuna NNP Weda NNP Special NNP Sale NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Arjuna Weda Special Sale 
+488 Lazada NN Promo NNP Rumahku NNP Istanaku NNP - - Harga NN Spesial NN Dibawah NN 399.000 CDP 
+discount: 399.000, null
+entity: Lazada 
+489 Arjuna NNP Weda NNP Special NNP Sale NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Arjuna Weda Special Sale 
+490 Lazada NN Promo NNP Rumahku NNP Istanaku NNP - - Harga NN Spesial NN Dibawah NN 399.000 CDP 
+discount: 399.000, null
+entity: Lazada 
+491 KliknKlik NN Weekend NNP Promo NNP - - Gratis NNP Voucher NNP hingga NN 300.000 CDP 
+discount: null, null
+entity: KliknKlik Weekend 
+492 Electronic NNP Solution NNP Super NNP Hot NNP Deals NNP - - Harga NN Spesial NN & , Diskon NN 
+discount: null, null
+entity: Electronic Solution Super Hot Deals 
+493 Alfamart NNP Telkomsel NNP Promo NNP Heboh NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Alfamart Telkomsel 
+494 Electronic NNP City NNP Super NNP Sale NNP - - Gebrak NN Diskon NN & NN Harga NN Spesial NNP 
+discount: null, null
+entity: Gebrak 
+495 Share NNP Tea NNP Exclusive NNP Offers NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+496 Electronic NNP Solution NNP Super NNP Hot NNP Deals NNP - - Harga NN Spesial NN & , Diskon NN 
+discount: null, null
+entity: Electronic Solution Super Hot Deals 
+497 Alfamart NNP Telkomsel NNP Promo NNP Heboh NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Alfamart Telkomsel 
+498 Electronic NNP City NNP Super NNP Sale NNP - - Gebrak NN Diskon NN & NN Harga NN Spesial NNP 
+discount: null, null
+entity: Gebrak 
+499 Pancious NNP Special NNP Deal NNP - - Diskon NN 15% CDP 
+discount: 15%, null
+entity: Pancious Special Deal 
+500 Galeri NN Gadget NN Lenovo NNP Best NNP Deal NNP - - Gratis NNP Hadiah NN Lansung NN & NN Harga NN Spesial NNP 
+discount: null, null
+entity: Hadiah Lansung & 
+501 Vinoti NNP Living FW Stock FW Clearance NN Sale NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Clearance Sale 
+502 Ramayana NN Department NN Store NN Bata NN Super NNP Sale NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Ramayana Department Store Bata Super Sale 
+503 X SYM S.M.L NNP Promo NNP Clearance NNP Sale NNP - - Gebrak NN Diskon NN & NN Harga NN Spesial NNP 
+discount: null, null
+entity: S.M.L 
+504 Ramayana NN Department NN Store NN Bata NN Super NNP Sale NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Ramayana Department Store Bata Super Sale 
+505 Vinoti NNP Living FW Stock FW Clearance NN Sale NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Clearance Sale 
+506 Living NN World NNP Midnite NNP Salebration NNP Promo NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Living World Midnite Salebration 
+507 Mata NN Department NN Store NNP Special NNP Deal NNP - - Diskon NN 50% CDP 20% CDP 
+discount: 50%, null
+entity: Mata Department Store Special Deal 
+508 Mata NN Mall NNP Out NNP Control NNP Sale NNP - - Harga NN Dibawah NN 149.000 CDP 
+discount: 149.000, null
+entity: Mata Mall Out Control Sale 
+509 Erafone NNP Sony NNP Promo NNP Pre NN Order NNP - - Gratis NNP Hadiah NN Langsung JJ & IN Harga NN Spesial NNP 
+discount: null, null
+entity: Erafone Sony 
+510 Do NN It NN Best NNP Pong NNP Special NNP Offers NNP - - Rebate NN 10% CDP 
+discount: null, null
+entity: null
+511 Electronic NNP City NNP Super NNP Deal NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Electronic City Super Deal 
+512 Erafone NNP Sony NNP Promo NNP Pre NN Order NNP - - Gratis NNP Hadiah NN Langsung JJ & IN Harga NN Spesial NNP 
+discount: null, null
+entity: Erafone Sony 
+513 CGV NN Blitz NNP Promo NNP Smooth NNP Fusion NNP Combo NNP - - Harga NN Spesial NN Mulai VBI 45.000 CDP 
+discount: 45.000, null
+entity: CGV Blitz 
+514 Mata NN Department NN Store NNP Special NNP Deal NNP - - Diskon NN 50% CDP 20% CDP 
+discount: 50%, null
+entity: Mata Department Store Special Deal 
+515 Galeri NN Gadget NN Lenovo NNP Best NNP Deal NNP - - Gratis NNP Hadiah NN Lansung NN & NN Harga NN Spesial NNP 
+discount: null, null
+entity: Hadiah Lansung & 
+516 Mata NN Mall NNP Out NNP Control NNP Sale NNP - - Harga NN Dibawah NN 149.000 CDP 
+discount: 149.000, null
+entity: Mata Mall Out Control Sale 
+517 Erafone NNP Sony NNP Promo NNP Pre NN Order NNP - - Gratis NNP Hadiah NN Langsung JJ & IN Harga NN Spesial NNP 
+discount: null, null
+entity: Erafone Sony 
+518 Best NNP Denki NNP Mega NNP Deal NNP - - Aneka NNP Diskon NN & NN Harga NN Spesial NNP 
+discount: null, null
+entity: Aneka 
+519 Hoka NN Hoka NNP Bento NNP Promo NNP Tokyo NNP Bites NNP - - Harga NN Mulai VBI 5000an CDP 
+discount: 5000an, null
+entity: Hoka Hoka Bento 
+520 Lee NNP Jeans NNP Fantastic NNP Sale NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Lee Jeans Fantastic Sale 
+521 Hoka NN Hoka NNP Bento NNP Promo NNP Tokyo NNP Bites NNP - - Harga NN Mulai VBI 5000an CDP 
+discount: 5000an, null
+entity: Hoka Hoka Bento 
+522 Bata NN Special NNP Sale NNP - - Promo NNP Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Bata Special Sale 
+523 Lee NNP Jeans NNP Fantastic NNP Sale NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Lee Jeans Fantastic Sale 
+524 Centro NN Department NN Store NNP Best NNP Deal NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: null
+525 Global NNP APR NNP Promo NNP Of FW The FW Month NNP - - Cashback NNP hingga NN 500.000 CDP 
+discount: null, null
+entity: Global APR 
+526 Symbolize NN Special NNP Deal NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Symbolize Special Deal 
+527 Promo NNP Beatbox NNP Portable NNP - - Diskon NN 1.200.000 CDP 
+discount: 1.200.000, null
+entity: Promo Beatbox Portable 
+528 Symbolize NN Special NNP Deal NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Symbolize Special Deal 
+529 Promo NNP Beatbox NNP Portable NNP - - Diskon NN 1.200.000 CDP 
+discount: 1.200.000, null
+entity: Promo Beatbox Portable 
+530 Wellcomm NN Shop NNP Special NNP Deal NNP - - Diskon NN 50% CDP & IN Harga NN Spesial NNP 269.000 CDP 
+discount: 50%, null
+entity: Wellcomm Shop Special Deal 
+531 Baskin NN Robbins NNP Promo NNP TGIF NNP - - Harga NN Spesial NNP 15.000 CDP 
+discount: 15.000, null
+entity: Baskin Robbins 
+532 Wrangler NN Special NNP Sale NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Wrangler Special Sale 
+533 TM NN Lewin NN Special NN Mid NN Season NN Sale NNP - - Aneka NNP Diskon NN & NN Harga NN Spesial NNP 
+discount: null, null
+entity: Aneka 
+534 Lotteria NNP Special NNP Anniversary NNP Promo NNP - - Diskon NN 15% CDP & NN Gratis NNP Menu NN Spesial NNP 
+discount: 15%, null
+entity: Lotteria Special Anniversary 
+535 Global NNP APR NNP Promo NNP Of FW The FW Month NNP - - Cashback NNP hingga NN 500.000 CDP 
+discount: null, null
+entity: Global APR 
+536 Superindo NNP Promo NNP Belanja NNP Super NNP Hemat NNP - - Gratis NNP Hadiah NN Sembako NN 
+discount: null, null
+entity: Superindo 
+537 Wrangler NN Special NNP Sale NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Wrangler Special Sale 
+538 Wellcomm NN Shop NNP Special NNP Deal NNP - - Diskon NN 50% CDP & IN Harga NN Spesial NNP 269.000 CDP 
+discount: 50%, null
+entity: Wellcomm Shop Special Deal 
+539 TM NN Lewin NN Special NN Mid NN Season NN Sale NNP - - Aneka NNP Diskon NN & NN Harga NN Spesial NNP 
+discount: null, null
+entity: Aneka 
+540 Erafone NNP Sandisk NNP Special NNP Sale NNP - - Harga NN Hemat NN Mulai VBI 149.000 CDP 
+discount: 149.000, null
+entity: Erafone Sandisk Special Sale 
+541 Fish NN & NN Co NNP Promo NNP Menu NN Khusus JJ Halloween NNP - - Harga NN Spesial NNP 35.000 CDP 
+discount: 35.000, null
+entity: Fish & Co 
+542 KFC NN Chaki NNP Kids NNP Meals NNP - - Harga NN Spesial NNP 27.272 CDP 
+discount: 27.272, null
+entity: KFC Chaki Kids Meals 
+543 Kyochon NN Restaurant NN Special NNP Offers NNP - - Diskon NN 15% CDP 
+discount: 15%, null
+entity: Kyochon Restaurant Special Offers 
+544 Kemchicks NN Special NN Fiestapoin NN Deal NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Kemchicks Special Fiestapoin Deal 
+545 Baskin NN Robbins NNP Promo NNP TGIF NNP - - Harga NN Spesial NNP 15.000 CDP 
+discount: 15.000, null
+entity: Baskin Robbins 
+546 Superindo NNP Promo NNP Belanja NNP Super NNP Hemat NNP - - Gratis NNP Hadiah NN Sembako NN 
+discount: null, null
+entity: Superindo 
+547 Fish NN & NN Co NNP Promo NNP Menu NN Khusus JJ Halloween NNP - - Harga NN Spesial NNP 35.000 CDP 
+discount: 35.000, null
+entity: Fish & Co 
+548 KFC NN Chaki NNP Kids NNP Meals NNP - - Harga NN Spesial NNP 27.272 CDP 
+discount: 27.272, null
+entity: KFC Chaki Kids Meals 
+549 Kyochon NN Restaurant NN Special NNP Offers NNP - - Diskon NN 15% CDP 
+discount: 15%, null
+entity: Kyochon Restaurant Special Offers 
+550 Baskin NN Robbins NNP Promo NNP Spesial NNP - - Gratis NNP Tarot NNP Reading FW 
+discount: null, null
+entity: Baskin Robbins 
+551 Lazada NN Gaji NN Mingguan JJ Promo NNP - - Diskon NN hingga CC 95% CDP 
+discount: 95%, null
+entity: Lazada Gaji 
+552 Lazada NN Gaji NN Mingguan JJ Promo NNP - - Diskon NN hingga CC 95% CDP 
+discount: 95%, null
+entity: Lazada Gaji 
+553 PHD NN Pizza NNP Hut NNP Promo NNP Menu NN Baru NNP - - Harga NN 84.000 CDP 
+discount: 84.000, null
+entity: PHD Pizza Hut 
+554 Erafone NNP Sandisk NNP Special NNP Sale NNP - - Harga NN Hemat NN Mulai VBI 149.000 CDP 
+discount: 149.000, null
+entity: Erafone Sandisk Special Sale 
+555 Dairy NN Queen NNP Special NNP Happy NNP Hour NNP Promo NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Dairy Queen Special Happy Hour 
+556 Metro NNP Department NN Store FW BIG FW Sale NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Sale 
+557 McDonalds NN Promo NNP Orange NNP Drink NNP - - Harga NN Spesial NNP 8.636 CDP 
+discount: 8.636, null
+entity: McDonalds 
+558 Club NN 21 CDP Crazy NN Sale NNP - - Diskon NN Hingga CC 70% CDP 10% CDP 
+discount: 70%, null
+entity: Crazy Sale 
+559 Woods NNP Promo NNP Belanja NNP Hemat NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Woods 
+560 Twelve NN Cupcakes NN 1 CDP Day NN Only NNP Promo NNP - - Beli NNP 6 CDP Gratis NNP 6 CDP 
+discount: null, Beli 6 Gratis 6
+entity: Day Only 
+561 Lotteria NNP Special NNP Anniversary NNP Promo NNP - - Diskon NN 15% CDP & NN Gratis NNP Menu NN Spesial NNP 
+discount: 15%, null
+entity: Lotteria Special Anniversary 
+562 McDonalds NN Promo NNP Orange NNP Drink NNP - - Harga NN Spesial NNP 8.636 CDP 
+discount: 8.636, null
+entity: McDonalds 
+563 Metro NNP Department NN Store FW BIG FW Sale NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Sale 
+564 Just NN For NN Kids NN Rock NN Style NNP Promo NNP - - Diskon NN hingga CC 30% CDP & IN Harga NN Spesial NNP 
+discount: 30%, null
+entity: Just For Kids Rock Style 
+565 Periplus NN Halloween NNP Special NNP - - Promo NNP Cashback NNP 10% CDP 
+discount: null, null
+entity: Periplus Halloween Special 
+566 Colorbox NN Special NNP Sale NNP - - Diskon NN hingga CC 30% CDP 
+discount: 30%, null
+entity: Colorbox Special Sale 
+567 Special NN Deal NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: null
+568 Lazada NN Promo NNP Belanja NNP Murah NNP Meriah NNP - - Harga NN Dibawah NN 199.000 CDP 
+discount: 199.000, null
+entity: Lazada 
+569 Periplus NN Halloween NNP Special NNP - - Promo NNP Cashback NNP 10% CDP 
+discount: null, null
+entity: Periplus Halloween Special 
+570 Just NN For NN Kids NN Rock NN Style NNP Promo NNP - - Diskon NN hingga CC 30% CDP & IN Harga NN Spesial NNP 
+discount: 30%, null
+entity: Just For Kids Rock Style 
+571 Nine NNP West NNP Super NNP Sale NNP - - Diskon NN 20% CDP 15% CDP 
+discount: 20%, null
+entity: Nine West Super Sale 
+572 Pancious NNP Special NNP Membercard NNP Promo NNP - - Gratis NNP Pancake NNP Coco NNP Berry NN 
+discount: null, null
+entity: Pancious Special Membercard 
+573 Sunny NNP Side NNP Up NNP Promo NNP Karyawan NN Dan CC Mahasiswa NNP - - Diskon NN 30% CDP 
+discount: 30%, null
+entity: Sunny Side Up 
+574 Typo NN Error NNP Promo NNP Super NNP Sale NNP - - Harga NN Spesial NNP 99.000 CDP 
+discount: 99.000, null
+entity: Typo Error 
+575 Just NN For NN Kids NN Rock NN Style NNP Promo NNP - - Diskon NN hingga CC 30% CDP & IN Harga NN Spesial NNP 
+discount: 30%, null
+entity: Just For Kids Rock Style 
+576 Colorbox NN Special NNP Sale NNP - - Diskon NN hingga CC 30% CDP 
+discount: 30%, null
+entity: Colorbox Special Sale 
+577 Lazada NN Promo NNP Belanja NNP Murah NNP Meriah NNP - - Harga NN Dibawah NN 199.000 CDP 
+discount: 199.000, null
+entity: Lazada 
+578 Special NN Deal NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: null
+579 Periplus NN Halloween NNP Special NNP - - Promo NNP Cashback NNP 10% CDP 
+discount: null, null
+entity: Periplus Halloween Special 
+580 Special NN Deal NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: null
+581 Lazada NN Promo NNP Belanja NNP Murah NNP Meriah NNP - - Harga NN Dibawah NN 199.000 CDP 
+discount: 199.000, null
+entity: Lazada 
+582 PHD NN Promo NNP Paket NN Mantap NNP - - Harga NN Spesial NNP 114.000 CDP 
+discount: 114.000, null
+entity: PHD 
+583 Linea NN Shoes NNP Promo NNP Belanja NNP Hemat NNP - - Diskon NN 30% CDP 
+discount: 30%, null
+entity: Linea Shoes 
+584 KFC NN Coffee NNP Promo NNP Menu NN Hemat NNP - - Harga NN Spesial NN Mulai VBI 18.182 CDP 
+discount: 18.182, null
+entity: KFC Coffee 
+585 Lasenza NN Fantastic NNP Sale NNP - - Diskon NN hingga CC 50% CDP 
+discount: 50%, null
+entity: Lasenza Fantastic Sale 
+586 Kipling NN Special NNP Sale NNP - - Aneka NNP Diskon NN & NN Harga NN Spesial NNP 
+discount: null, null
+entity: Aneka 
+587 Krispy NN Kreme NN Promo NNP Harga NN Spesial NNP - - Beli NNP Selusin NN 60.000 CDP 
+discount: 60.000, null
+entity: Krispy Kreme 
+588 Lasenza NN Fantastic NNP Sale NNP - - Diskon NN hingga CC 50% CDP 
+discount: 50%, null
+entity: Lasenza Fantastic Sale 
+589 Krispy NN Kreme NN Promo NNP Harga NN Spesial NNP - - Beli NNP Selusin NN 60.000 CDP 
+discount: 60.000, null
+entity: Krispy Kreme 
+590 PHD NN Promo NNP Paket NN Mantap NNP - - Harga NN Spesial NNP 114.000 CDP 
+discount: 114.000, null
+entity: PHD 
+591 Mata NN Department NN Store NNP Brand NNP Super NNP Sale NNP - - Diskon NN 50% CDP 20% CDP 
+discount: 50%, null
+entity: Mata Department Store Brand Super Sale 
+592 Kipling NN Special NNP Sale NNP - - Aneka NNP Diskon NN & NN Harga NN Spesial NNP 
+discount: null, null
+entity: Aneka 
+593 Erafone NNP iPhone NNP 6 CDP Special NN Offers NNP - - Cashback NNP Hingga NN 1.000.000 CDP 
+discount: null, null
+entity: null
+594 Electronic NNP City NNP Special NNP Offers NNP - - Diskon NN & NN Harga NN Spesial NNP 
+discount: null, null
+entity: Electronic City Special Offers 
+595 Lazada NN Promo NNP One NNP Price NNP Wonder NNP - - Harga NN Spesial NN Dibawah NN 149.0000 CDP 
+discount: 149.0000, null
+entity: Lazada 
+596 Electronic NNP City NNP Special NNP Offers NNP - - Diskon NN & NN Harga NN Spesial NNP 
+discount: null, null
+entity: Electronic City Special Offers 
+597 Erafone NNP iPhone NNP 6 CDP Special NN Offers NNP - - Cashback NNP Hingga NN 1.000.000 CDP 
+discount: null, null
+entity: null
+598 Lazada NN Promo NNP One NNP Price NNP Wonder NNP - - Harga NN Spesial NN Dibawah NN 149.0000 CDP 
+discount: 149.0000, null
+entity: Lazada 
+599 Infte NN Promo NNP Spesial NNP - - Cashback NNP 300.000 CDP 
+discount: null, null
+entity: Infte 
+600 Lazada NN Promo NNP One NNP Price NNP Wonder NNP - - Harga NN Spesial NN Dibawah NN 149.0000 CDP 
+discount: 149.0000, null
+entity: Lazada 
+601 Promo NNP Belanja NNP Hemat NN Kamis NN Ganteng NNP - - Diskon NN Hingga CC 78% CDP 
+discount: 78%, null
+entity: Promo Belanja Hemat Kamis Ganteng 
+602 Bags NNP Super NNP Clearance NNP Sale NNP - - Diskon NNP Sampai VBT 70% CDP 
+discount: 70%, null
+entity: Bags Super Clearance Sale 
+603 Diinomarket NN Blackberry NNP Leap NNP Special NNP Offers NNP - - Cashback NNP 300.0000 CDP & NN Gratis NNP Voucher NNP 
+discount: null, null
+entity: null
+604 Promo NNP Belanja NNP Online NN - - Cashback NNP 10% CDP 
+discount: null, null
+entity: null
+605 7 CDP Eleven NNP Tcash NNP Special NNP Deal NNP - - Beli NNP Menu NN Big FW Bite FW 15.000 CDP 
+discount: null, null
+entity: null
+606 Alfamart NNP Promo NNP Belanja NNP Hematku NNP - - Diskon NN Hingga CC 20% CDP & IN Harga NN Spesial NNP 
+discount: 20%, null
+entity: Alfamart 
+607 American NNP Eagle FW Great FW Sale NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Sale 
+608 Diinomarket NN Blackberry NNP Leap NNP Special NNP Offers NNP - - Cashback NNP 300.0000 CDP & NN Gratis NNP Voucher NNP 
+discount: null, null
+entity: null
+609 Promo NNP Belanja NNP Online NN - - Cashback NNP 10% CDP 
+discount: null, null
+entity: null
+610 Alfamart NNP Promo NNP Belanja NNP Hematku NNP - - Diskon NN Hingga CC 20% CDP & IN Harga NN Spesial NNP 
+discount: 20%, null
+entity: Alfamart 
+611 Dominos NN Pizza NNP Super NNP Value NNP Deal NNP Promo NNP - - Diskon NN hingga CC 50% CDP 
+discount: 50%, null
+entity: Dominos Pizza Super Value Deal 
+612 HTC NN One NNP E9 FW Great FW Deal NNP - - Diskon NN 800.000 CDP 
+discount: 800.000, null
+entity: Deal 
+613 Yes NNP Code NNP Special NNP Offers NNP - - Gratis NNP Voucher NNP Belanja NNP 
+discount: null, null
+entity: null
+614 Logo NNP Super NNP Promo NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Logo Super 
+615 Zalora NN Mid NN Season NN Sale NNP - - Diskon NN hingga CC 50% CDP 
+discount: 50%, null
+entity: Zalora Mid Season Sale 
+616 Shopping FW Rewards NN Promo NNP - - Cashback NNP Hingga CC 250.000 CDP 
+discount: null, null
+entity: Rewards 
+617 Zalora NN Mid NN Season NN Sale NNP - - Diskon NN hingga CC 50% CDP 
+discount: 50%, null
+entity: Zalora Mid Season Sale 
+618 Shopping FW Rewards NN Promo NNP - - Cashback NNP Hingga CC 250.000 CDP 
+discount: null, null
+entity: Rewards 
+619 Special NN Ecash NNP Promo NNP - - Cashback NNP 15% CDP 
+discount: null, null
+entity: Special Ecash 
+620 Traveloka NN Citilink NNP Promo NNP Season NN 2 CDP - - Diskon NN 100.000 CDP 
+discount: 100.000, null
+entity: Traveloka Citilink 
+621 Shopping FW Rewards NN Promo NNP - - Cashback NNP Hingga CC 250.000 CDP 
+discount: null, null
+entity: Rewards 
+622 HTC NN One NNP E9 FW Great FW Deal NNP - - Diskon NN 800.000 CDP 
+discount: 800.000, null
+entity: Deal 
+623 Zalora NN Mid NN Season NN Sale NNP - - Diskon NN hingga CC 50% CDP 
+discount: 50%, null
+entity: Zalora Mid Season Sale 
+624 Yes NNP Code NNP Special NNP Offers NNP - - Gratis NNP Voucher NNP Belanja NNP 
+discount: null, null
+entity: null
+625 HTC NN One NNP E9 FW Great FW Deal NNP - - Diskon NN 800.000 CDP 
+discount: 800.000, null
+entity: Deal 
+626 Traveloka NN Citilink NNP Promo NNP Season NN 2 CDP - - Diskon NN 100.000 CDP 
+discount: 100.000, null
+entity: Traveloka Citilink 
+627 Mata NN Mall NNP Clearance NNP Sale NNP Elektronik NN - - Diskon NN Hingga CC 80% CDP 
+discount: 80%, null
+entity: Elektronik 
+628 Special NN Ecash NNP Promo NNP - - Cashback NNP 15% CDP 
+discount: null, null
+entity: Special Ecash 
+629 Manzone NNP Clearance NNP Sale NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Manzone Clearance Sale 
+630 Guardian NN Penawaran NN Spesial NNP - - Tambah RB 1.000 CDP Dapat MD 2 CDP 
+discount: null, null
+entity: null
+631 Promo NNP Hemat NNP - - Diskon NN 80.000 CDP 
+discount: 80.000, null
+entity: Promo Hemat 
+632 Alfamart NNP Special NNP Medicare NNP Promo NNP - - Diskon NN 20% CDP & NN Gratis NNP Hadiah NN Langsung JJ 
+discount: 20%, null
+entity: Alfamart Special Medicare 
+633 Tracce NN Penawaran NN Spesial NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Tracce Penawaran Spesial 
+634 Blibli NN Visa NNP Triple NNP Deals NNP - - Diskon NN Tambahan NN Hingga CC 20% CDP 
+discount: 20%, null
+entity: Blibli Visa Triple Deals 
+635 Es NN Teler NNP Promo NNP Senin NN Hemat NNP - - Santap FW Sepuasnya NN 10.000 CDP 
+discount: null, null
+entity: Es Teler 
+636 Snowbay NN Special NNP October NNP Fun NNP Promo NNP - - Beli NNP 2 CDP Tiket JJ Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Snowbay Special October Fun 
+637 Share NNP Tea NNP Promo NNP Paket NN Meeting NNP - - Harga NN Spesial NNP 30.000 CDP 
+discount: 30.000, null
+entity: Share Tea 
+638 Promo NNP Hemat NNP - - Diskon NN 80.000 CDP 
+discount: 80.000, null
+entity: Promo Hemat 
+639 Haagen NNP Dazs NNP Promo NNP Seru NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP & NN Diskon NN 20% CDP 
+discount: 20%, Beli 1 Gratis 1
+entity: Haagen Dazs 
+640 iBox NN Promo NNP Super NNP Hemat NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: iBox 
+641 Melandas NNP Furniture NN 16th NN Anniversary NNP Promo NNP - - Diskon NN 70% CDP 16% CDP 
+discount: 70%, null
+entity: Melandas Furniture 16th Anniversary 
+642 Dominos NN Pizza NNP Super NNP Value NNP Deal NNP Promo NNP - - Harga NN Spesial NNP 75.455 CDP 
+discount: 75.455, null
+entity: Dominos Pizza Super Value Deal 
+643 Promo NNP IndoComTech NNP - - Diskon NN hingga CC 90% CDP 
+discount: 90%, null
+entity: Promo IndoComTech 
+644 Gokana NNP Ramen NN & NN Teppan NNP Special NNP Deal NNP - - Gratis NNP Voucher NNP 
+discount: null, null
+entity: null
+645 Colorbox NN Promo NNP Belanja NNP Hemat NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Colorbox 
+646 Gokana NNP Ramen NN & NN Teppan NNP Special NNP Deal NNP - - Gratis NNP Voucher NNP 
+discount: null, null
+entity: null
+647 Haagen NNP Dazs NNP Promo NNP Seru NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP & NN Diskon NN 20% CDP 
+discount: 20%, Beli 1 Gratis 1
+entity: Haagen Dazs 
+648 Share NNP Tea NNP Promo NNP Paket NN Meeting NNP - - Harga NN Spesial NNP 30.000 CDP 
+discount: 30.000, null
+entity: Share Tea 
+649 Dominos NN Pizza NNP Super NNP Value NNP Deal NNP Promo NNP - - Harga NN Spesial NNP 75.455 CDP 
+discount: 75.455, null
+entity: Dominos Pizza Super Value Deal 
+650 iBox NN Promo NNP Super NNP Hemat NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: iBox 
+651 The FW Coffee NNP Bean NNP Promo NNP Double NNP Treats NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Coffee Bean 
+652 Metro NNP Department NN Store NNP Beauty NNP Fair NNP Super NNP Deal NNP - - Diskon NN Hingga CC 70% CDP & NN Gratis NNP Voucher NNP 
+discount: 70%, null
+entity: Metro Department Store Beauty Fair Super Deal 
+653 Pizza NNP Hut NNP Promo NNP Duet NNP Hemat NNP - - Harga NN Spesial NNP 150.000 CDP 
+discount: 150.000, null
+entity: Pizza Hut 
+654 Promo NNP IndoComTech NNP - - Diskon NN hingga CC 90% CDP 
+discount: 90%, null
+entity: Promo IndoComTech 
+655 Air FW Asia NNP Promo NNP LIburan NNP Sejutaan NN - - Harga NN Mulai VBI Dari IN 1.038.000 CDP 
+discount: 1.038.000, null
+entity: Asia 
+656 Everbest NNP End FW Of FW Season NN Sale NNP - - Diskon NN Special NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Season Sale 
+657 Traveloka NN Cathay NNP Pacific NNP Promo NNP Terbang VBI Hemat NNP - - Harga NN Mulai VBI Dari IN 4.405.000 CDP 
+discount: 4.405.000, null
+entity: Traveloka Cathay Pacific 
+658 Forever NN 21 CDP Super NN Promo NNP - - Diskon NN Harga NN Special NNP 
+discount: 21, null
+entity: Super 
+659 Lyke NN Apps NNP Exclusive NNP Promo NNP - - Diskon NN hingga CC 80% CDP 
+discount: 80%, null
+entity: Lyke Apps Exclusive 
+660 Beyond NNP Special NNP Deals NNP - - Diskon NN hingga CC 25% CDP 
+discount: 25%, null
+entity: Beyond Special Deals 
+661 Lazada NN Weekly NN Gadget NN Sale NNP - - Diskon NN hingga CC 50% CDP 
+discount: 50%, null
+entity: Lazada Weekly Gadget Sale 
+662 7 CDP Eleven NNP Menu NN Kopdar NNP - - Harga NN Spesial NNP 16.000 CDP 
+discount: 16.000, null
+entity: Eleven Menu Kopdar 
+663 7 CDP Eleven NNP Menu NN Kopdar NNP - - Harga NN Spesial NNP 16.000 CDP 
+discount: 16.000, null
+entity: Eleven Menu Kopdar 
+664 Lyke NN Apps NNP Exclusive NNP Promo NNP - - Diskon NN hingga CC 80% CDP 
+discount: 80%, null
+entity: Lyke Apps Exclusive 
+665 Forever NN 21 CDP Super NN Promo NNP - - Diskon NN Harga NN Special NNP 
+discount: 21, null
+entity: Super 
+666 Lyke NN Apps NNP Exclusive NNP Promo NNP - - Diskon NN hingga CC 80% CDP 
+discount: 80%, null
+entity: Lyke Apps Exclusive 
+667 The FW Executive NNP Special NNP Offers NNP - - Diskon NN 10% CDP 
+discount: 10%, null
+entity: Executive Special Offers 
+668 X8 NNP Clothing NNP Special NNP Sale NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: X8 Clothing Special Sale 
+669 Xiaomi NNP Yi NNP Action NNP Cam NNP Special NNP Deal NNP - - Diskon NN 21% CDP 
+discount: 21%, null
+entity: Xiaomi Yi Action Cam Special Deal 
+670 Promo NNP Prolink NNP Pro JJ Gaming NN Best NNP Deal NNP - - Diskon NN Hingga CC 40% CDP 
+discount: 40%, null
+entity: Gaming Best Deal 
+671 Lazada NN Weekly NN Gadget NN Sale NNP - - Diskon NN hingga CC 50% CDP 
+discount: 50%, null
+entity: Lazada Weekly Gadget Sale 
+672 7 CDP Eleven NNP Menu NN Kopdar NNP - - Harga NN Spesial NNP 16.000 CDP 
+discount: 16.000, null
+entity: Eleven Menu Kopdar 
+673 Promo NNP Prolink NNP Pro JJ Gaming NN Best NNP Deal NNP - - Diskon NN Hingga CC 40% CDP 
+discount: 40%, null
+entity: Gaming Best Deal 
+674 The FW Executive NNP Special NNP Offers NNP - - Diskon NN 10% CDP 
+discount: 10%, null
+entity: Executive Special Offers 
+675 Xiaomi NNP Yi NNP Action NNP Cam NNP Special NNP Deal NNP - - Diskon NN 21% CDP 
+discount: 21%, null
+entity: Xiaomi Yi Action Cam Special Deal 
+676 Lazada NN Weekly NN Gadget NN Sale NNP - - Diskon NN hingga CC 50% CDP 
+discount: 50%, null
+entity: Lazada Weekly Gadget Sale 
+677 Sony NNP Xperia NNP Special NNP Deal NNP - - Cashback NNP 200.000 CDP 
+discount: null, null
+entity: null
+678 Serba NNP Food NNP Plaza NNP Blok NNP M NNP Super NNP Deal NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Serba Food Plaza Blok M Super Deal 
+679 Electronic NNP Solution NNP Fantastic NNP Deal NNP - - Cashback NNP Hingga NN 1.500.000 CDP 
+discount: null, null
+entity: null
+680 Fit NN Flop NNP Special NNP Promo NNP - - Diskon NN hingga CC 70% CDP 
+discount: 70%, null
+entity: Fit Flop Special 
+681 Electronic NNP City FW Greatest FW Deal NN Promo NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Deal 
+682 Lazada NN Special NNP Promo NNP - - Semua CDI DIBAWAH NNP 150.000 CDP 
+discount: null, null
+entity: Lazada Special 
+683 Sate NN Khas JJ Senayan NN Promo NNP Sarapan NNP Spesial NNP - - Paket NN Mulai VBI 27.000 CDP 
+discount: null, null
+entity: Senayan 
+684 Okeshop NN iPhone NN 6 CDP Best NNP Deal NNP - - Cashback NNP 1.000.000 CDP 
+discount: null, null
+entity: null
+685 Pizza NNP Hut NNP Promo NNP Menu NN Paket NN Cheeseburger NNP - - 
+discount: null, null
+entity: Pizza Hut 
+686 Lazada NN Special NNP Promo NNP - - Semua CDI DIBAWAH NNP 150.000 CDP 
+discount: null, null
+entity: Lazada Special 
+687 Lazada NN Special NNP Promo NNP - - Semua CDI DIBAWAH NNP 150.000 CDP 
+discount: null, null
+entity: Lazada Special 
+688 Electronic NNP City FW Greatest FW Deal NN Promo NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Deal 
+689 Serba NNP Food NNP Plaza NNP Blok NNP M NNP Super NNP Deal NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Serba Food Plaza Blok M Super Deal 
+690 Sony NNP Xperia NNP Special NNP Deal NNP - - Cashback NNP 200.000 CDP 
+discount: null, null
+entity: null
+691 Electronic NNP Solution NNP Fantastic NNP Deal NNP - - Cashback NNP Hingga NN 1.500.000 CDP 
+discount: null, null
+entity: null
+692 Mata NN Mall NNP Promo NNP Smartphone NNP Murah NNP - - Harga NN Dibawah NN 2.000.000 CDP 
+discount: 2.000.000, null
+entity: Mata Mall 
+693 Dominos NN Pizza NNP Fantastis NNP Deals NNP - - Harga NN Mulai VBI Dari IN 25.091 CDP 
+discount: 25.091, null
+entity: Dominos Pizza Fantastis Deals 
+694 Dominos NN Pizza NNP Fantastis NNP Deals NNP - - Harga NN Mulai VBI Dari IN 25.091 CDP 
+discount: 25.091, null
+entity: Dominos Pizza Fantastis Deals 
+695 Pizza NNP Hut NNP Promo NNP Menu NN Paket NN Cheeseburger NNP - - 
+discount: null, null
+entity: Pizza Hut 
+696 Okeshop NN iPhone NN 6 CDP Best NNP Deal NNP - - Cashback NNP 1.000.000 CDP 
+discount: null, null
+entity: null
+697 iBox NN Awesome NN Deal NNP - - Cashback NNP 2.000.000 CDP 
+discount: null, null
+entity: null
+698 Sate NN Khas JJ Senayan NN Promo NNP Sarapan NNP Spesial NNP - - Paket NN Mulai VBI 27.000 CDP 
+discount: null, null
+entity: Senayan 
+699 Mata NN Mall NNP Promo NNP Smartphone NNP Murah NNP - - Harga NN Dibawah NN 2.000.000 CDP 
+discount: 2.000.000, null
+entity: Mata Mall 
+700 McDonalds NN Promo NNP Santap NNP Hemat NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: McDonalds 
+701 Cinemaxx NN Theater NN 1st NN Anniversary NNP - - Beli NNP 2 CDP Gratis NNP 1 CDP 
+discount: null, Beli 2 Gratis 1
+entity: null
+702 Galeri NN Gadget NN Promo NNP Smartphone NNP Murah NNP - - Cashback NNP Hingga CC 400.000 CDP & NN Gratis NNP Hadiah NN 
+discount: null, null
+entity: Galeri Gadget 
+703 Lock NNP & , Lock NNP Special NNP Deal NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+704 Es NN Teler NN 77 CDP Promo NNP Dewi NNP Dewi NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Es Teler 
+705 Galeri NN Gadget NN Promo NNP Smartphone NNP Murah NNP - - Cashback NNP Hingga CC 400.000 CDP & NN Gratis NNP Hadiah NN 
+discount: null, null
+entity: Galeri Gadget 
+706 Lock NNP & , Lock NNP Special NNP Deal NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+707 Bakmi NN GM NN Promo NNP Super NNP Goban NNP - - Menu NN Hemat NN 50.000 CDP 
+discount: null, null
+entity: Bakmi GM 
+708 Es NN Teler NN 77 CDP Promo NNP Dewi NNP Dewi NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Es Teler 
+709 McDonalds NN Promo NNP Santap NNP Hemat NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: McDonalds 
+710 Breadtalk NN Special NNP Grand NNP Opening NNP Promo NNP - - Beli NNP 5 CDP Gratis NNP 1 CDP 
+discount: null, Beli 5 Gratis 1
+entity: Breadtalk Special Grand Opening 
+711 Pepper NN Lunch NNP Promo NNP Early NNP Bite NNP - - Harga NN Spesial NN Mulai VBI 49.091 CDP 
+discount: 49.091, null
+entity: Pepper Lunch 
+712 Hoka NN Hoka NNP Bento NNP Promo NNP Upgrade IN Menu NN - - Harga NN Spesial NNP 7.500 CDP 
+discount: 7.500, null
+entity: Hoka Hoka Bento 
+713 Stationery NN Super NNP Sale NNP - - Harga NN Mulai VBI Dari IN 10.000 CDP 
+discount: 10.000, null
+entity: Stationery Super Sale 
+714 Lazada NN Super NNP Otomotif NNP SALE NNP - - Diskon NN hingga CC 50% CDP Gratis NNP Ongkir NNP 
+discount: 50%, null
+entity: Lazada Super Otomotif SALE 
+715 Lazada NN Promo NNP Spesial NN Interior NN Mobil NN - - Diskon NN Hingga CC 60% CDP 
+discount: 60%, null
+entity: Lazada 
+716 Zalora NN Denim NN Super NNP Sale NNP - - Diskon NN 60% CDP 
+discount: 60%, null
+entity: Zalora Denim Super Sale 
+717 Lazada NN Promo NNP Spesial NN Interior NN Mobil NN - - Diskon NN Hingga CC 60% CDP 
+discount: 60%, null
+entity: Lazada 
+718 Lazada NN Super NNP Otomotif NNP SALE NNP - - Diskon NN hingga CC 50% CDP Gratis NNP Ongkir NNP 
+discount: 50%, null
+entity: Lazada Super Otomotif SALE 
+719 7 CDP Eleven NNP Special NN Menu NN Hemat NNP - - Harga NN Spesial NN Mulai VBI 10.000 CDP 
+discount: 10.000, null
+entity: Eleven Special Menu Hemat 
+720 Zalora NN Denim NN Super NNP Sale NNP - - Diskon NN 60% CDP - - Pilih NNP sendiri JJ prodkuk NN fashion NN denim NN favorit JJ mu NN di IN 
+discount: 60%, null
+entity: Zalora Denim Super Sale 
+721 7 CDP Eleven NNP Special NN Menu NN Hemat NNP - - Harga NN Spesial NN Mulai VBI 10.000 CDP 
+discount: 10.000, null
+entity: Eleven Special Menu Hemat 
+722 Lazada NN Promo NNP Spesial NN Interior NN Mobil NN - - Diskon NN Hingga CC 60% CDP 
+discount: 60%, null
+entity: Lazada 
+723 Lazada NN Super NNP Otomotif NNP SALE NNP - - Diskon NN hingga CC 50% CDP Gratis NNP Ongkir NNP 
+discount: 50%, null
+entity: Lazada Super Otomotif SALE 
+724 Zalora NN Denim NN Super NNP Sale NNP - - Diskon NN 60% CDP - - Pilih NNP sendiri JJ prodkuk NN fashion NN denim NN favorit JJ mu NN di IN 
+discount: 60%, null
+entity: Zalora Denim Super Sale 
+725 Mata NN Mall NNP Undewear NNP Sale NNP - - Diskon NN Hingga CC 77% CDP 
+discount: 77%, null
+entity: Mata Mall Undewear Sale 
+726 Wellcomm NN Shop NNP Promo NNP Aksesoris NNP Hemat NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Wellcomm Shop 
+727 Lee NNP Cooper NNP Special NNP Offers NNP - - Gratis NNP T-Shirt NNP 
+discount: null, null
+entity: null
+728 Galeri NN Gadget NN Promo NNP Handphone NNP Murah NNP - - Harga NN Spesial NNP 899.000 CDP 
+discount: 899.000, null
+entity: Galeri Gadget 
+729 Wellcomm NN Shop NNP Promo NNP Aksesoris NNP Hemat NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Wellcomm Shop 
+730 Mata NN Mall NNP Undewear NNP Sale NNP - - Diskon NN Hingga CC 77% CDP 
+discount: 77%, null
+entity: Mata Mall Undewear Sale 
+731 Es NN Teler NNP Promo NNP Senin NN Hemat NNP - - Santap FW Sepuasnya NN 10.000 CDP 
+discount: null, null
+entity: Es Teler 
+732 Blibli NN Mom NN s NN Day NN Great FW Deals NNP - - Diskon NN hingga CC 77% CDP 
+discount: 77%, null
+entity: Deals 
+733 Lee NNP Cooper NNP Special NNP Offers NNP - - Gratis NNP T-Shirt NNP 
+discount: null, null
+entity: null
+734 Galeri NN Gadget NN Promo NNP Handphone NNP Murah NNP - - Harga NN Spesial NNP 899.000 CDP 
+discount: 899.000, null
+entity: Galeri Gadget 
+735 Blibli NN Mom NN s NN Day NN Great FW Deals NNP - - Diskon NN hingga CC 77% CDP 
+discount: 77%, null
+entity: Deals 
+736 Ancol NNP Dufan NNP Biker NNP Special NNP Deals NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Ancol Dufan Biker Special Deals 
+737 Lee NNP Cooper NNP Special NNP Offers NNP - - Gratis NNP T-Shirt NNP 
+discount: null, null
+entity: null
+738 Blibli NN Mom NN s NN Day NN Great FW Deals NNP - - Diskon NN hingga CC 77% CDP 
+discount: 77%, null
+entity: Deals 
+739 Blibli NN Visa NNP Triple NNP Deals NNP - - Diskon NN Tambahan NN Hingga CC 20% CDP 
+discount: 20%, null
+entity: Blibli Visa Triple Deals 
+740 Air FW Asia NNP Penawaran NN Heboh NNP - - Cashback NNP 100.000 CDP 
+discount: null, null
+entity: null
+741 Air FW Asia NNP Super NNP Deal NNP - - Harga NN Hemat NN Mulai VBI 334.000 CDP 
+discount: 334.000, null
+entity: Asia Super Deal 
+742 Lazada FW Monday FW Deals NNP - - Diskon NN hingga CC 85% CDP 8% CDP 
+discount: 85%, null
+entity: Deals 
+743 Fantastic NNP Offers NNP - - Diskon NN 1.000.000 CDP 
+discount: 1.000.000, null
+entity: Fantastic Offers 
+744 Ari NNP Asia NNP Go NNP online NN Travel NNP Fair NNP - - Harga NN Mulai VBI Dari IN 499.000 CDP 
+discount: 499.000, null
+entity: Ari Asia Go online Travel Fair 
+745 Lazada FW Monday FW Deals NNP - - Diskon NN hingga CC 85% CDP 8% CDP 
+discount: 85%, null
+entity: Deals 
+746 Fantastic NNP Offers NNP - - Diskon NN 1.000.000 CDP 
+discount: 1.000.000, null
+entity: Fantastic Offers 
+747 Lazada FW Monday FW Deals NNP - - Diskon NN hingga CC 85% CDP 8% CDP 
+discount: 85%, null
+entity: Deals 
+748 Air FW Asia NNP Penawaran NN Heboh NNP - - Cashback NNP 100.000 CDP 
+discount: null, null
+entity: null
+749 Air FW Asia NNP Super NNP Deal NNP - - Harga NN Hemat NN Mulai VBI 334.000 CDP 
+discount: 334.000, null
+entity: Asia Super Deal 
+750 Air FW Asia NNP Promo NNP LIburan NNP Sejutaan NN - - Harga NN Mulai VBI Dari IN 1.038.000 CDP 
+discount: 1.038.000, null
+entity: Asia 
+751 Ari NNP Asia NNP Go NNP online NN Travel NNP Fair NNP - - Harga NN Mulai VBI Dari IN 499.000 CDP 
+discount: 499.000, null
+entity: Ari Asia Go online Travel Fair 
+752 Ari NNP Asia NNP Go NNP online NN Travel NNP Fair NNP - - Harga NN Mulai VBI Dari IN 499.000 CDP 
+discount: 499.000, null
+entity: Ari Asia Go online Travel Fair 
+753 Special NN Offers NNP - - Diskon NN 80.000 CDP 
+discount: 80.000, null
+entity: Special Offers 
+754 The FW Body NNP Shop NNP Special NNP Membercard NNP Promo NNP - - Gratis NNP Voucher NNP 
+discount: null, null
+entity: Body Shop Special Membercard 
+755 Dufan NN Promo NNP Dahsyat- JJ Diskon NN 50% CDP 
+discount: 50%, null
+entity: Dufan 
+756 Traveloka NN Cathay NNP Pacific NNP Promo NNP Terbang VBI Hemat NNP - - Harga NN Mulai VBI Dari IN 4.405.000 CDP 
+discount: 4.405.000, null
+entity: Traveloka Cathay Pacific 
+757 Promo NNP Spesial NNP Travel NNP Hemat NNP - - Diskon NN 30.000 CDP & NN Diskon NN 10% CDP 
+discount: 30.000, null
+entity: Promo Spesial Travel Hemat 
+758 Pizza NNP Hut NNP Promo NNP Breakfast NNP - - Gratis NNP Menu NN Spesial NNP 
+discount: null, null
+entity: Pizza Hut 
+759 Mata NN Department NN Store NNP Active NNP Fair NNP Promo NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Mata Department Store Active Fair 
+760 Pizza NNP Hut NNP Promo NNP Breakfast NNP - - Gratis NNP Menu NN Spesial NNP 
+discount: null, null
+entity: Pizza Hut 
+761 Mata NN Department NN Store NNP Active NNP Fair NNP Promo NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Mata Department Store Active Fair 
+762 The FW Body NNP Shop NNP Special NNP Membercard NNP Promo NNP - - Gratis NNP Voucher NNP 
+discount: null, null
+entity: Body Shop Special Membercard 
+763 Special NN Offers NNP - - Diskon NN 80.000 CDP 
+discount: 80.000, null
+entity: Special Offers 
+764 Promo NNP Spesial NNP Travel NNP Hemat NNP - - Diskon NN 30.000 CDP & NN Diskon NN 10% CDP 
+discount: 30.000, null
+entity: Promo Spesial Travel Hemat 
+765 Breadlife NN Promo NNP Seru NNP - - Gratis NNP Voucher NNP Belanja NNP 
+discount: null, null
+entity: Breadlife 
+766 Cinema NN XXI NNP Penawaran NN Spesial NNP - - Promo NNP Nonton NNP Gratis NNP 
+discount: null, null
+entity: Cinema XXI Penawaran Spesial 
+767 CGV NN Blitz NNP Alfamart NNP Special NNP Offers NNP - - Promo NNP Nonton NNP Gratis NNP 
+discount: null, null
+entity: CGV Blitz Alfamart Special Offers 
+768 Chatime NNP Suise NNP Deal NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP & NN Diskon NN 35% CDP 
+discount: 35%, Beli 1 Gratis 1
+entity: & 
+769 Andrew NNP Shoes NNP Special NNP Sale NNP - - Diskon NN 20% CDP 40% CDP 
+discount: 20%, null
+entity: Andrew Shoes Special Sale 
+770 Nine NNP West FW Great FW Sale NNP - - Diskon NN Hingga CC 60% CDP - - Ladies NN dia PRP promo NN yang SC pasti JJ sedang RB kalian NN 
+discount: 60%, null
+entity: Sale 
+771 Dominos NN Pizza NNP Promo NNP Add NNP On FW - - Diskon NN 64% CDP - - Yuk NNP datang VBI dan CC santap VBI menu NN pizza NN favorit JJ kamu PRP di IN 
+discount: 64%, null
+entity: Dominos Pizza 
+772 Chatime NNP Suise NNP Deal NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP & NN Diskon NN 35% CDP 
+discount: 35%, Beli 1 Gratis 1
+entity: & 
+773 Breadlife NN Promo NNP Seru NNP - - Gratis NNP Voucher NNP Belanja NNP 
+discount: null, null
+entity: Breadlife 
+774 October NNP Travel NNP Fair NNP - - Diskon NN hingga CC 70% CDP - - Mau NNP travelling JJ di IN akhir JJ tahun NN dan CC memerlukan VBT 
+discount: 70%, null
+entity: October Travel Fair 
+775 October NNP Travel NNP Fair NNP - - Diskon NN hingga CC 70% CDP 
+discount: 70%, null
+entity: October Travel Fair 
+776 Lazada NN Top NNP Brand NNP SALE NNP - - Diskon NN hingga CC 74% CDP 
+discount: 74%, null
+entity: Lazada Top Brand SALE 
+777 Hoka NN Hoka NNP Bento NNP Promo NNP Upgrade IN Menu NN - - Harga NN Spesial NNP 7.500 CDP 
+discount: 7.500, null
+entity: Hoka Hoka Bento 
+778 October NNP Travel NNP Fair NNP - - Diskon NN hingga CC 70% CDP - - Mau NNP travelling JJ di IN akhir JJ tahun NN dan CC memerlukan VBT 
+discount: 70%, null
+entity: October Travel Fair 
+779 Andrew NNP Shoes NNP Special NNP Sale NNP - - Diskon NN 20% CDP 40% CDP 
+discount: 20%, null
+entity: Andrew Shoes Special Sale 
+780 Lazada NN Top NNP Brand NNP SALE NNP - - Diskon NN hingga CC 74% CDP 
+discount: 74%, null
+entity: Lazada Top Brand SALE 
+781 Breadtalk NN Special NNP Grand NNP Opening NNP Promo NNP - - Beli NNP 5 CDP Gratis NNP 1 CDP 
+discount: null, Beli 5 Gratis 1
+entity: Breadtalk Special Grand Opening 
+782 LG NN G4 NN Stylus NNP Promo NNP Weekend NNP Special NNP - - Cashback NNP 150.000 CDP 
+discount: null, null
+entity: LG G4 Stylus 
+783 Es NN Teler NN 77 CDP Promo NNP Santap NNP Hemat NNP - - Harga NN Spesial NNP 23.000 CDP 
+discount: 23.000, null
+entity: Es Teler 
+784 Contempo NN Birthday NNP Sale NNP Promo NNP - - Diskon NN 80% CDP 
+discount: 80%, null
+entity: Contempo Birthday Sale 
+785 Erafone NNP Samsung NNP Suise NNP Deal NNP - - Voucher FW 500.000 CDP 
+discount: null, null
+entity: null
+786 Stationery NN Super NNP Sale NNP - - Harga NN Mulai VBI Dari IN 10.000 CDP 
+discount: 10.000, null
+entity: Stationery Super Sale 
+787 VNC NN Mid NN Season NN Sale NNP Promo NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: VNC Mid Season Sale 
+788 Mata NN Mall NNP Prize NNP Vaganza NNP Promo NNP - - Diskon NN Hingga CC 80% CDP 
+discount: 80%, null
+entity: Mata Mall Prize Vaganza 
+789 Wacoal NN Special NNP Offers NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP & NN Diskon NN 50% CDP 
+discount: 50%, Beli 1 Gratis 1
+entity: & 
+790 Lazada NN Uber NN Weekend NNP Promo NNP - - Diskon NN hingga CC 50% CDP 10% CDP 
+discount: 50%, null
+entity: Lazada Uber Weekend 
+791 Lazada NN Overseas NNP Special NNP Deals NNP - - Diskon NN Hingga CC 80% CDP 
+discount: 80%, null
+entity: Lazada Overseas Special Deals 
+792 Lazada NN Uber NN Weekend NNP Promo NNP - - Diskon NN hingga CC 50% CDP 10% CDP 
+discount: 50%, null
+entity: Lazada Uber Weekend 
+793 Lazada NN Overseas NNP Special NNP Deals NNP - - Diskon NN Hingga CC 80% CDP 
+discount: 80%, null
+entity: Lazada Overseas Special Deals 
+794 McDonalds NN Promo NNP Spesial NNP - - Gratis NNP Hadiah NN Gelas NN Coca NN Cola NNP 
+discount: null, null
+entity: McDonalds 
+795 Asus NN PC NN Stick NNP Promo NNP Spesial NNP - - Diskon NN 400.000 CDP 
+discount: 400.000, null
+entity: Asus PC Stick 
+796 McDonalds NN Promo NNP Spesial NNP - - Gratis NNP Hadiah NN Gelas NN Coca NN Cola NNP 
+discount: null, null
+entity: McDonalds 
+797 VNC NN Mid NN Season NN Sale NNP Promo NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: VNC Mid Season Sale 
+798 Lazada NN Uber NN Weekend NNP Promo NNP - - Diskon NN hingga CC 50% CDP 10% CDP 
+discount: 50%, null
+entity: Lazada Uber Weekend 
+799 Wacoal NN Special NNP Offers NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP & NN Diskon NN 50% CDP 
+discount: 50%, Beli 1 Gratis 1
+entity: & 
+800 Lazada NN Overseas NNP Special NNP Deals NNP - - Diskon NN Hingga CC 80% CDP 
+discount: 80%, null
+entity: Lazada Overseas Special Deals 
+801 Mata NN Mall NNP Prize NNP Vaganza NNP Promo NNP - - Diskon NN Hingga CC 80% CDP 
+discount: 80%, null
+entity: Mata Mall Prize Vaganza 
+802 Promo NNP WOW NNP Murah NNP - - Diskon NN hingga CC 67% CDP 
+discount: 67%, null
+entity: Promo WOW Murah 
+803 Electronic NNP Solution NNP Super NNP Great FW Sale NNP - - Gebrak NN Diskon NN & NN Harga NN Spesial NNP 
+discount: null, null
+entity: Gebrak 
+804 H&M NN Super NNP Final NNP Sale NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: H&M Super Final Sale 
+805 7 CDP Eleven NNP It NN s NN A NN Big FW Deal NN Promo NNP - - Harga NN Spesial NN 32.000 CDP & NN Gratis NNP Voucher NNP Mata NN 
+discount: 32.000, null
+entity: Deal 
+806 Dinomarket NN Blackberry NNP Special NNP Deal NNP - - Diskon NN 3.500.000 CDP 
+discount: 3.500.000, null
+entity: Dinomarket Blackberry Special Deal 
+807 Promo NNP WOW NNP Murah NNP - - Diskon NN hingga CC 67% CDP 
+discount: 67%, null
+entity: Promo WOW Murah 
+808 Asus NN PC NN Stick NNP Promo NNP Spesial NNP - - Diskon NN 400.000 CDP 
+discount: 400.000, null
+entity: Asus PC Stick 
+809 Dinomarket NN Blackberry NNP Special NNP Deal NNP - - Diskon NN 3.500.000 CDP 
+discount: 3.500.000, null
+entity: Dinomarket Blackberry Special Deal 
+810 Electronic NNP Solution NNP Super NNP Great FW Sale NNP - - Gebrak NN Diskon NN & NN Harga NN Spesial NNP 
+discount: null, null
+entity: Gebrak 
+811 KFC NN Fiestapoin NNP Fantastic NNP Deal NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: KFC Fiestapoin Fantastic Deal 
+812 iBox NN Macbook NNP Best NNP Deal NNP - - Cash NNP Voucher NNP 500.000 CDP 
+discount: null, null
+entity: null
+813 Galeri NN Gadget NN Wiko NNP Weekend NNP Promo NNP - - Cashback NNP 400.000 CDP & NN Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Galeri Gadget Wiko Weekend 
+814 H&M NN Super NNP Final NNP Sale NNP - - Diskon NN Hingga CC 70% CDP - - Jangan NEG lupa NN datang VBI ke IN H&M NN Fashion NNP Store NN sekarang NN 
+discount: 70%, null
+entity: H&M Super Final Sale 
+815 Dunkin NN Donuts NN Special NNP Weekend NNP Deal NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+816 Erafone NNP Oktober NNP Gadget NNP Fest NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+817 Colorbox NN Special NNP Opening NNP Sale NNP - - Diskon NN 25% CDP 
+discount: 25%, null
+entity: Colorbox Special Opening Sale 
+818 Timberland NN Weekend NNP Best NNP Deal NNP - - Diskon NN 70% CDP 
+discount: 70%, null
+entity: Timberland Weekend Best Deal 
+819 Timberland NN Weekend NNP Best NNP Deal NNP - - Diskon NN 70% CDP 
+discount: 70%, null
+entity: Timberland Weekend Best Deal 
+820 New FW Look FW Mid NN Season NN Super NNP Sale NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Mid Season Super Sale 
+821 Es NN Teler NN 77 CDP Promo NNP Spesial NNP Makan VBT Hemat NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Es Teler 
+822 Dunkin NN Donuts NN Special NNP Weekend NNP Deal NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+823 Erafone NNP Oktober NNP Gadget NNP Fest NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+824 Es NN Teler NN 77 CDP Promo NNP Spesial NNP Makan VBT Hemat NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Es Teler 
+825 Clarks NN Mega NNP Sale NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+826 Cinemaxx NN Theater NNP Special NNP October NNP Deal NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+827 New FW Look FW Mid NN Season NN Super NNP Sale NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Mid Season Super Sale 
+828 Mata NN Department NN Store NNP Fantastic NNP Deal NNP - - Diskon NN 50% CDP 20% CDP 
+discount: 50%, null
+entity: Mata Department Store Fantastic Deal 
+829 Lazada NN Super NNP Duper NNP Sale NNP - - Diskon NN Mulai VBI 40% CDP 
+discount: 40%, null
+entity: Lazada Super Duper Sale 
+830 MP3 NN Player NNP Great FW Sale NNP - - Diskon NN Hingga CC 41% CDP 
+discount: 41%, null
+entity: Sale 
+831 Indomaret NNP Telkomsel NNP Tcash NNP Special NNP Promo NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Indomaret Telkomsel Tcash Special 
+832 Lazada NN Promo NNP Jam NN Tangan NN Murah NNP Meriah NNP - - Diskon NN Hingga CC 99% CDP 
+discount: 99%, null
+entity: Lazada 
+833 KliknKlik NN Super NNP Gadget NNP Promo NNP - - Diskon NN 500.000 CDP 
+discount: 500.000, null
+entity: KliknKlik Super Gadget 
+834 Lazada NN Super NNP Duper NNP Sale NNP - - Diskon NN Mulai VBI 40% CDP 
+discount: 40%, null
+entity: Lazada Super Duper Sale 
+835 Lazada NN Super NNP Duper NNP Sale NNP - - Diskon NN Mulai VBI 40% CDP 
+discount: 40%, null
+entity: Lazada Super Duper Sale 
+836 Indomaret NNP Telkomsel NNP Tcash NNP Special NNP Promo NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Indomaret Telkomsel Tcash Special 
+837 Bata NN Crazy NNP Weekend NNP Sale NNP - - Diskon NN 20% CDP - - Beli NNP aneka IN sepatu NN sendal NN dan CC beragam VBT aksesoris NN lainnya NNG di IN Bata NN 
+discount: 20%, null
+entity: Bata Crazy Weekend Sale 
+838 Watsons NN Special NNP Sparkling NNP Anniversary NNP Promo NNP - - Diskon NN Hingga CC 60% CDP 
+discount: 60%, null
+entity: Watsons Special Sparkling Anniversary 
+839 October NNP Special NNP Gift NNP Promo NNP - - Gratis NNP Voucher NNP 50.000 CDP 
+discount: null, null
+entity: October Special Gift 
+840 Lazada NN Promo NNP Jam NN Tangan NN Murah NNP Meriah NNP - - Diskon NN Hingga CC 99% CDP 
+discount: 99%, null
+entity: Lazada 
+841 Watsons NN Special NNP Sparkling NNP Anniversary NNP Promo NNP - - Diskon NN Hingga CC 60% CDP 
+discount: 60%, null
+entity: Watsons Special Sparkling Anniversary 
+842 KliknKlik NN Super NNP Gadget NNP Promo NNP - - Diskon NN 500.000 CDP 
+discount: 500.000, null
+entity: KliknKlik Super Gadget 
+843 Lazada NN Promo NNP Jam NN Tangan NN Murah NNP Meriah NNP - - Diskon NN Hingga CC 99% CDP 
+discount: 99%, null
+entity: Lazada 
+844 MP3 NN Player NNP Great FW Sale NNP - - Diskon NN Hingga CC 41% CDP 
+discount: 41%, null
+entity: Sale 
+845 KliknKlik NN Super NNP Gadget NNP Promo NNP - - Diskon NN 500.000 CDP 
+discount: 500.000, null
+entity: KliknKlik Super Gadget 
+846 October NNP Special NNP Gift NNP Promo NNP - - Gratis NNP Voucher NNP 50.000 CDP 
+discount: null, null
+entity: October Special Gift 
+847 Lippo NN Mall NNP Kemang NNP Special NNP Movie NNP Mania NNP Best NNP Deal NNP - - Gratis NNP Dng NNP Voucher NNP 
+discount: null, null
+entity: null
+848 Mata NN Mall NNP Homyped FW Great FW Sale NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Sale 
+849 Pancious NNP Foodpanda NNP Promo NNP Spesial NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Pancious Foodpanda 
+850 Sogo NNP Department NN Store NN Penshoppe NN Jeans NNP Best NNP Deal NNP - - Diskon NN 30% CDP 
+discount: 30%, null
+entity: Sogo Department Store Penshoppe Jeans Best Deal 
+851 Erafone NNP Telkomsel NNP Promo NNP Istimewa NNP - - Cashback NNP Hingga CC 500.000 CDP & NN Gratis NNP Paket NN Data NN 
+discount: null, null
+entity: Erafone Telkomsel 
+852 Lazada NN Jumat NN Special NNP - - Diskon NN hingga CC 95% CDP 8% CDP 
+discount: 95%, null
+entity: Lazada Jumat Special 
+853 Supermall NNP Karawaci NNP Great FW Offers NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Offers 
+854 Sogo NNP Department NN Store NN Penshoppe NN Jeans NNP Best NNP Deal NNP - - Diskon NN 30% CDP 
+discount: 30%, null
+entity: Sogo Department Store Penshoppe Jeans Best Deal 
+855 Blibli NN Shoes NNP Fair NNP Promo NNP - - Diskon NN hingga CC 70% CDP 
+discount: 70%, null
+entity: Blibli Shoes Fair 
+856 Lazada NN Jumat NN Special NNP - - Diskon NN hingga CC 95% CDP 8% CDP 
+discount: 95%, null
+entity: Lazada Jumat Special 
+857 Pancious NNP Foodpanda NNP Promo NNP Spesial NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Pancious Foodpanda 
+858 Dinomarker NN Promo NNP Festival NNP Belanja NNP Online NN - - Diskon NN 25% CDP 17% CDP 
+discount: 25%, null
+entity: Dinomarker 
+859 Erafone NNP Oktober NNP Festival NNP Best NNP Deal NNP - - Diskon NN Hingga NN 2.000.000 CDP 
+discount: 2.000.000, null
+entity: Erafone Oktober Festival Best Deal 
+860 Mata NN Mall NNP Homyped FW Great FW Sale NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Sale 
+861 Forever NN 21 CDP Special NN All NNP Sale NNP - - Beli NNP 2 CDP Gratis NNP 1 CDP 
+discount: null, Beli 2 Gratis 1
+entity: null
+862 Dinomarker NN Promo NNP Festival NNP Belanja NNP Online NN - - Diskon NN 25% CDP 17% CDP 
+discount: 25%, null
+entity: Dinomarker 
+863 Erafone NNP Oktober NNP Festival NNP Best NNP Deal NNP - - Diskon NN Hingga NN 2.000.000 CDP 
+discount: 2.000.000, null
+entity: Erafone Oktober Festival Best Deal 
+864 Centro NN Department NN Store NN Revlon NN Special NNP Deal NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Centro Department Store Revlon Special Deal 
+865 Debenhams NN Special NNP Weekend NNP Saving NNP Promo NNP - - Beli NNP 4 CDP Dapat MD 5 CDP 
+discount: null, null
+entity: Debenhams Special Weekend Saving 
+866 Debenhams NN Special NNP Weekend NNP Saving NNP Promo NNP - - Beli NNP 4 CDP Dapat MD 5 CDP 
+discount: null, null
+entity: Debenhams Special Weekend Saving 
+867 Centro NN Department NN Store NN Revlon NN Special NNP Deal NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Centro Department Store Revlon Special Deal 
+868 Erafone NNP Oktober NNP Festival NNP Best NNP Deal NNP - - Diskon NN Hingga NN 2.000.000 CDP 
+discount: 2.000.000, null
+entity: Erafone Oktober Festival Best Deal 
+869 Forever NN 21 CDP Special NN All NNP Sale NNP - - Beli NNP 2 CDP Gratis NNP 1 CDP 
+discount: null, Beli 2 Gratis 1
+entity: null
+870 Samsung NN Galaxy NN J5 NN Bolt NNP Fair NNP - - Gratis NNP Hadiah NN Langsung JJ & IN Paket NN Data NN 
+discount: null, null
+entity: null
+871 Bata NN Crazy NNP Weekend NNP Sale NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Bata Crazy Weekend Sale 
+872 iBox NN Promo NNP Spesial NNP Double NNP Deal NNP - - Cash NNP Voucher NNP 500.000 CDP 500.000 CDP 
+discount: null, null
+entity: iBox 
+873 Lotteria NNP Promo NNP Makan VBT Murah NNP Enak CDP - - Harga NN Mulai VBI Dari IN 30.000 CDP 
+discount: Enak, null
+entity: Lotteria 
+874 Nautica NN Mid NN Season NN Super NNP Sale NNP - - Diskon NN hingga CC 50% CDP 
+discount: 50%, null
+entity: Nautica Mid Season Super Sale 
+875 Carls NNP Jr NN Special NNP Friday NNP Great FW Deal NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+876 Bata NN Crazy NNP Weekend NNP Sale NNP - - Diskon NN 20% CDP - - Beli NNP aneka IN sepatu NN sendal NN dan CC beragam VBT aksesoris NN lainnya NNG 
+discount: 20%, null
+entity: Bata Crazy Weekend Sale 
+877 The FW Little NN Things NNP She NNP Needs NNP Promo NNP 6th CDP Anniversary NNP - - Harga NN Spesial NNP 399.000 CDP 
+discount: 399.000, null
+entity: Little Things She Needs 
+878 Lotteria NNP Promo NNP Makan VBT Murah NNP Enak CDP - - Harga NN Mulai VBI Dari IN 30.000 CDP 
+discount: Enak, null
+entity: Lotteria 
+879 iBox NN Promo NNP Spesial NNP Double NNP Deal NNP - - Cash NNP Voucher NNP 500.000 CDP 500.000 CDP 
+discount: null, null
+entity: iBox 
+880 Carls NNP Jr NN Special NNP Friday NNP Great FW Deal NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+881 Cold NN Stone NNP Promo NNP Seru NNP - - Gratis NNP Upsize NNP - - Jangan NEG lupa JJ untuk IN terus RB bertransaksi VBI menggunakan VBT kartu NN kredit NN BCA NNP 
+discount: null, null
+entity: Cold Stone 
+882 Lazada NN Rabu NN Fever NN SALE NNP - - Diskon NN hingga CC 50% CDP Xtra NNP Diskon NN 150.000 CDP 
+discount: 50%, null
+entity: Lazada Rabu Fever SALE 
+883 iBox NNP Great FW Offers NNP - - Cashback NNP 500.000 CDP - - iBox NNP The FW Park NNP Mall NNP Solo NNP sedang RB ada VBI promo NN eksklusif NN buat NN kamu PRP 
+discount: null, null
+entity: Park Mall Solo 
+884 Informa NN Special NN 2 CDP Days NN Sale NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP - - Informa NNP juga RB nggak NN mau CC ketinggalan NN memberikan VBT promo NN 
+discount: null, Beli 1 Gratis 1
+entity: ketinggalan 
+885 Pretty NN Fit NN & NN Beetle NNP Bug NNP Great FW Sale NNP - - Diskon NN 40% CDP - - Belanja NNP aneka IN produk NN sepatu NN sendal NN di IN Pretty NN Fit NN & . 
+discount: 40%, null
+entity: Sale 
+886 Android NNP Smartphone NNP Promo NNP - - Semua CDI Dibawah NN 1 CDP juta CDP Cashback NNP 
+discount: null, null
+entity: Android Smartphone 
+887 Adidas NN Super NNP Duper NNP SALE NNP - - Diskon NN hingga CC 50% CDP 
+discount: 50%, null
+entity: Adidas Super Duper SALE 
+888 Oscar NNP Living NNP Special NNP Promo NNP - - Diskon NN hingga CC 65% CDP 
+discount: 65%, null
+entity: Oscar Living Special 
+889 Lazada NN Philips NNP Boom NNP Sale NNP - - Diskon NN Hingga CC 55% CDP 
+discount: 55%, null
+entity: Lazada Philips Boom Sale 
+890 Mega NNP Deal NNP - - Diskon NN 75.000 CDP & , 25.000 CDP 
+discount: 75.000, null
+entity: Mega Deal 
+891 Adidas NN Super NNP Duper NNP SALE NNP - - Diskon NN hingga CC 50% CDP 
+discount: 50%, null
+entity: Adidas Super Duper SALE 
+892 Lazada NN Philips NNP Boom NNP Sale NNP - - Diskon NN Hingga CC 55% CDP 
+discount: 55%, null
+entity: Lazada Philips Boom Sale 
+893 Oscar NNP Living NNP Special NNP Promo NNP - - Diskon NN hingga CC 65% CDP 
+discount: 65%, null
+entity: Oscar Living Special 
+894 Mal NNP Artha NNP Gading NNP Special NNP Offers NNP - - Gratis NNP Voucher NNP Belanja NNP 
+discount: null, null
+entity: null
+895 PHD NN Pizza NNP Hut NNP My NNP Box NNP Special NNP Offers NNP - - Harga NN Mulai VBI 35.000 CDP 
+discount: 35.000, null
+entity: PHD Pizza Hut My Box Special Offers 
+896 Mata NN Mall NNP Hijab NNP Collection NNP Special NNP Deal NNP - - Diskon NN 80% CDP 
+discount: 80%, null
+entity: Mata Mall Hijab Collection Special Deal 
+897 Special NN Weekday NNP Sale NNP - - Diskon NN 50.000 CDP 
+discount: 50.000, null
+entity: Special Weekday Sale 
+898 Wellcomm NN Shop NNP Sony NNP Best NNP Deal NNP - - Beli NNP 1 CDP Gratis NNP 2 CDP 
+discount: null, Beli 1 Gratis 2
+entity: null
+899 PHD NN Pizza NNP Hut NNP My NNP Box NNP Special NNP Offers NNP - - Harga NN Mulai VBI 35.000 CDP 
+discount: 35.000, null
+entity: PHD Pizza Hut My Box Special Offers 
+900 Lazada NN Philips NNP Boom NNP Sale NNP - - Diskon NN Hingga CC 55% CDP 
+discount: 55%, null
+entity: Lazada Philips Boom Sale 
+901 Adidas NN Super NNP Duper NNP SALE NNP - - Diskon NN hingga CC 50% CDP 
+discount: 50%, null
+entity: Adidas Super Duper SALE 
+902 Pizza NNP Hut NNP Promo NNP Menu NN Hebat NNP - - Diskon NN 50% CDP - - dia PRP promo NN menu NN hebat JJ hemat JJ dengan IN diskon NN 50% CDP 
+discount: 50%, null
+entity: Pizza Hut 
+903 Wellcomm NN Shop NNP Sony NNP Best NNP Deal NNP - - Beli NNP 1 CDP Gratis NNP 2 CDP 
+discount: null, Beli 1 Gratis 2
+entity: null
+904 Mega NNP Deal NNP - - Diskon NN 75.000 CDP & , 25.000 CDP 
+discount: 75.000, null
+entity: Mega Deal 
+905 PHD NN Pizza NNP Hut NNP My NNP Box NNP Special NNP Offers NNP - - Harga NN Mulai VBI 35.000 CDP 
+discount: 35.000, null
+entity: PHD Pizza Hut My Box Special Offers 
+906 Kenny NNP Rogers NNP Roasters NNP Special NNP Membercard NNP Deal NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Kenny Rogers Roasters Special Membercard Deal 
+907 Galeri NN Gadget NN Promo NNP Parade NNP 4G CDP Murah NNP - - Harga NN Spesial NN Dibawah NN 1.000.000 CDP 
+discount: 1.000.000, null
+entity: Galeri Gadget 
+908 Special NN Weekday NNP Sale NNP - - Diskon NN 50.000 CDP 
+discount: 50.000, null
+entity: Special Weekday Sale 
+909 Mata NN Mall NNP Hijab NNP Collection NNP Special NNP Deal NNP - - Diskon NN 80% CDP 
+discount: 80%, null
+entity: Mata Mall Hijab Collection Special Deal 
+910 Alfaonline NNP Special NNP Offers NNP - - Diskon NN 25.000 CDP 
+discount: 25.000, null
+entity: Alfaonline Special Offers 
+911 Erafone NNP Penawaran NN Super NNP Spesial NNP - - Harga NN Mulai VBI 129.000 CDP 
+discount: 129.000, null
+entity: Erafone Penawaran Super Spesial 
+912 Alfaonline NNP Special NNP Offers NNP - - Diskon NN 25.000 CDP 
+discount: 25.000, null
+entity: Alfaonline Special Offers 
+913 Electronic NNP Solution NNP Clearance NNP Super NNP Sale NNP - - Diskon NN Hingga CC 60% CDP 
+discount: 60%, null
+entity: Electronic Solution Clearance Super Sale 
+914 Haagen NNP Dazs NNP Promo NNP Heboh NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Haagen Dazs 
+915 Bhinneka NN Promo NNP Online NN Camera NNP & IN Video NN Expo NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Bhinneka 
+916 Erafone NNP Penawaran NN Super NNP Spesial NNP - - Harga NN Mulai VBI 129.000 CDP 
+discount: 129.000, null
+entity: Erafone Penawaran Super Spesial 
+917 Haagen NNP Dazs NNP Promo NNP Heboh NNP - - Diskon NN 50% CDP - - Spesial NNP untuk IN menyambut VBI HUT NN Bank NN Mandiri NNP enjoy CDP promo NN 
+discount: 50%, null
+entity: Haagen Dazs 
+918 Galeri NN Gadget NN Promo NNP Parade NNP 4G CDP Murah NNP - - Harga NN Spesial NN Dibawah NN 1.000.000 CDP 
+discount: 1.000.000, null
+entity: Galeri Gadget 
+919 Kenny NNP Rogers NNP Roasters NNP Special NNP Membercard NNP Deal NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Kenny Rogers Roasters Special Membercard Deal 
+920 Indomaret NNP Promo NNP Rekening NN Ponsel NNP Belanja NNP Berhadiah NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Indomaret 
+921 Promo NNP Kamis NN Ganteng NNP - - Diskon NN Sampai VBI Dengan IN 63% CDP 
+discount: 63%, null
+entity: Promo Kamis Ganteng 
+922 Circle NN K NN Promo NNP Paket NN Jersey NNP - - Harga NN Spesial NNP 150.000 CDP 
+discount: 150.000, null
+entity: Circle K 
+923 Mata NN Department NN Store NNP Hipofant NNP Sale NNP - - Diskon NN 50% CDP 20% CDP 
+discount: 50%, null
+entity: Mata Department Store Hipofant Sale 
+924 Traveloka NN Promo NNP Diskon NN Hotel NN - - Diskon NN Hingga CC 60% CDP LAST FW DAY NNP 
+discount: 60%, null
+entity: Traveloka 
+925 Papa NNP Rons NNP Promo NNP Spesial NN Kamis NN - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Papa Rons 
+926 Superindo NNP Supermarket NNP Super NNP Deal NNP - - Gratis NNP Minyak NN Goreng NNP 
+discount: null, null
+entity: null
+927 Mata NN Department NN Store NNP Hipofant NNP Sale NNP - - Diskon NN 50% CDP 20% CDP 
+discount: 50%, null
+entity: Mata Department Store Hipofant Sale 
+928 Promo NNP Mandiri NNP Day NNP - - Diskon NN hingga CC 45% CDP Xtra NNP Diskon NN 150.000 CDP 
+discount: 45%, null
+entity: Promo Mandiri Day 
+929 Circle NN K NN Promo NNP Paket NN Jersey NNP - - Harga NN Spesial NNP 150.000 CDP 
+discount: 150.000, null
+entity: Circle K 
+930 Electronic NNP City NNP Instax NNP Fair NNP Promo NNP - - Harga NN Spesial NNP Mulai VBI Dari IN 899.000 CDP 
+discount: 899.000, null
+entity: Electronic City Instax Fair 
+931 Promo NNP Mandiri NNP Day NNP - - Diskon NN hingga CC 45% CDP Xtra NNP Diskon NN 150.000 CDP 
+discount: 45%, null
+entity: Promo Mandiri Day 
+932 Lazada NN Huawei NNP Fair NNP Special NNP Deal NNP - - Harga NN Mulai VBI Dari IN 200.000 CDP 
+discount: 200.000, null
+entity: Lazada Huawei Fair Special Deal 
+933 Bhinneka NN Promo NNP Online NN Camera NNP & IN Video NN Expo NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Bhinneka 
+934 Promo NNP Kamis NN Ganteng NNP - - Diskon NN Sampai VBI Dengan IN 63% CDP 
+discount: 63%, null
+entity: Promo Kamis Ganteng 
+935 Traveloka NN Promo NNP Diskon NN Hotel NN - - Diskon NN Hingga CC 60% CDP LAST FW DAY NNP 
+discount: 60%, null
+entity: Traveloka 
+936 Baby NN Bonanza NNP Special NNP Sale NNP - - Diskon NN hingga CC 50% CDP 
+discount: 50%, null
+entity: Baby Bonanza Special Sale 
+937 Mata NN Mall NNP Special NN Menswear NN Collection NNP Sale NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Mata Mall Special Menswear Collection Sale 
+938 Zalora NNP Promo NNP Great FW Sale NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Zalora 
+939 Kent NNP Fashion NNP Super NNP Sale NNP - - Diskon NN hingga CC 80% CDP 
+discount: 80%, null
+entity: Kent Fashion Super Sale 
+940 Mr NN Pancake NNP Promo NNP Spesial NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Mr Pancake 
+941 Zalora NNP Promo NNP Great FW Sale NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Zalora 
+942 Baby NN Bonanza NNP Special NNP Sale NNP - - Diskon NN hingga CC 50% CDP 
+discount: 50%, null
+entity: Baby Bonanza Special Sale 
+943 KFC NN Anniversary NNP Deal NNP - - Diskon NN 36% CDP - - Khusus JJ untuk IN memperingati VBT jadinya NN yang SC ke IN 36 CDP KFC NN ada VBI promo NN 
+discount: 36%, null
+entity: KFC Anniversary Deal 
+944 Adorama NN Pro JJ Photo NNP Lab NNP Special NNP Promo NNP - - Diskon NN 15% CDP - - October FW Big FW Promo NNP Adorama NN special NN for NN you FW whose NN 
+discount: 15%, null
+entity: Photo Lab Special 
+945 Traveloka NN Promo NNP Flight NNP Best NNP Deal NNP - - Diskon NN 70.000 CDP 
+discount: 70.000, null
+entity: Traveloka 
+946 Tira JJ Jeans NNP Fantastic NNP Sale NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Jeans Fantastic Sale 
+947 Tracce NN One NNP Day NNP Sale NNP - - Diskon NN 24% CDP 
+discount: 24%, null
+entity: Tracce One Day Sale 
+948 Tira JJ Jeans NNP Fantastic NNP Sale NNP - - Diskon NN 50% CDP - - Belanja NNP sepuasnya NN di IN Tira JJ Jeans NN deh NN dan CC kamu PRP bakal MD 
+discount: 50%, null
+entity: Jeans Fantastic Sale 
+949 Mata NN Mall NNP Special NN Menswear NN Collection NNP Sale NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Mata Mall Special Menswear Collection Sale 
+950 Traveloka NN Promo NNP Flight NNP Best NNP Deal NNP - - Diskon NN 70.000 CDP 
+discount: 70.000, null
+entity: Traveloka 
+951 Baby NN Bonanza NNP Special NNP Sale NNP - - Diskon NN hingga CC 50% CDP 
+discount: 50%, null
+entity: Baby Bonanza Special Sale 
+952 Mr NN Pancake NNP Promo NNP Spesial NNP - - Diskon NN 20% CDP - - Khusus JJ pemegang NN kartu NN kredit NN BII NN kamu PRP bakal MD 
+discount: 20%, null
+entity: Mr Pancake 
+953 Mata NN Mall NNP Special NN Menswear NN Collection NNP Sale NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Mata Mall Special Menswear Collection Sale 
+954 Shabu NNP Slim NNP Promo NNP All NNP You NNP Can NNP Eat CDP - - Diskon NN Hingga CC 30% CDP 
+discount: 30%, null
+entity: Shabu Slim 
+955 Promo NNP Pesta NN Diskon NN SLR NNP - - Diskon NN 32% CDP Diskon NN Tambahan NN 800.000 CDP 
+discount: 32%, null
+entity: Pesta 
+956 Papa NNP Rons NNP Pizza NNP Maniak NNP Special NNP Deal NNP - - Beli NNP 10 CDP Gratis NNP 5 CDP 
+discount: null, Beli 10 Gratis 5
+entity: null
+957 Erafone NNP Sony NNP Xperia NNP Best NNP Deal NNP - - Harga NN Spesial NN & NN Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Erafone Sony Xperia Best Deal 
+958 Mata NN Department NN Store NNP Spesial NNP Belanja NNP Hemat NNP - - Diskon NN 70% CDP 
+discount: 70%, null
+entity: Mata Department Store Spesial Belanja Hemat 
+959 Chatime NNP promo NNP Soft NNP Opening NNP - - Gratis NNP Hadiah NN Langsung JJ - - Chatime NNP k NN hadir VBI di IN Dufan NN Ancol NNP lho NN sobat NN GD NN ers NN 
+discount: null, null
+entity: Chatime 
+960 Holland NN Bakery NN Special NNP Offers NNP - - Diskon NN 20% CDP - - Holland NN Bakery NN promo NN spesial JJ diskon NN 20% CDP setiap DT pembelian NN 
+discount: 20%, null
+entity: Holland Bakery Special Offers 
+961 Les NN Femmes NNP Promo NNP Belanja NNP Hemat NNP - - Harga NN Spesial NNP 75.000 CDP 
+discount: 75.000, null
+entity: Les Femmes 
+962 Blibli NN Special FW Monday FW Visa NNP Sale NNP - - Diskon NN 70% CDP 20% CDP - - Mari NNP kita PRP belanja NN Ada VBI promosi NN super NN nih JJ di IN 
+discount: 70%, null
+entity: Visa Sale 
+963 Emproium NNP Mall NNP Pluit NNP Movie FW Monday FW Blast NNP - - Gratis NNP Tiket JJ Nonton NNP 
+discount: null, null
+entity: null
+964 Rabu NN Cantik NNP Special NNP Deal NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Rabu Cantik Special Deal 
+965 Promo NNP Pesta NN Diskon NN SLR NNP - - Diskon NN 32% CDP Diskon NN Tambahan NN 800.000 CDP 
+discount: 32%, null
+entity: Pesta 
+966 Informa NN Special NN 2 CDP Days NN Sale NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+967 iBox NNP Great FW Offers NNP - - Cashback NNP 500.000 CDP 
+discount: null, null
+entity: null
+968 Cold NN Stone NNP Promo NNP Seru NNP - - Gratis NNP Upsize NN 
+discount: null, null
+entity: Cold Stone 
+969 Lasenza FW Great FW Sexy NN Sale NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Sexy Sale 
+970 Informa NN Special NN 2 CDP Days NN Sale NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+971 Lazada NN Rabu NN Fever NN SALE NNP - - Diskon NN hingga CC 50% CDP Xtra NNP Diskon NN 150.000 CDP 
+discount: 50%, null
+entity: Lazada Rabu Fever SALE 
+972 Lasenza FW Great FW Sexy NN Sale NNP - - Diskon NN 50% CDP - - Beli NNP produk NN lingerie NN underwear NN dan CC panties NN dari IN 
+discount: 50%, null
+entity: Sexy Sale 
+973 Alfamart NNP Promo NNP Produk NN Private NN Label NNP - - Diskon NN 15% CDP & IN Harga NN Spesial NNP 
+discount: 15%, null
+entity: Alfamart 
+974 Promo NNP Pesta NN Diskon NN SLR NNP - - Diskon NN 32% CDP Diskon NN Tambahan NN 800.000 CDP 
+discount: 32%, null
+entity: Pesta 
+975 Lazada NN Rabu NN Fever NN SALE NNP - - Diskon NN hingga CC 50% CDP Xtra NNP Diskon NN 150.000 CDP 
+discount: 50%, null
+entity: Lazada Rabu Fever SALE 
+976 Adorama NN Pro JJ Photo NNP Lab NNP Special NNP Promo NNP - - Diskon NN 15% CDP 
+discount: 15%, null
+entity: Photo Lab Special 
+977 Solaria NNP Special NNP Deal NNP - - Gratis NNP Nestea NNP 1 CDP Liter NN & NN Umroh NN Gratis NNP 
+discount: null, null
+entity: null
+978 Samsung NNP Special NNP Offers NNP - - Gratis NNP Pulsa NN & NN Paket NN Data NN - - Beli NNP Samsung NN Galaxy NN J1 NN Ace NN sekarang NN dan CC dapatkan MD 
+discount: null, null
+entity: null
+979 LG NN Mobil NN Great FW Deal NNP - - Cashback NNP 1.000.000 CDP & NN Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: null
+980 iBox NN Macbook NNP Fair NNP - - Gratis NNP Cash NNP Voucher NNP 500.000 CDP - - Beli NNP Macbook FW Air FW iMac JJ atau CC Macbook NN Pro JJ Retina FW 
+discount: null, null
+entity: null
+981 Klik NN Indomaret NNP Cut NNP Prices NNP Promo NNP - - Aneka NNP Diskon NN & NN Harga NN Spesial NNP 
+discount: null, null
+entity: Klik Indomaret Cut Prices 
+982 Lazada NNP Tuesday NNP Great FW Sale NNP - - Diskon NN 50% CDP 300.000 CDP & NN Cashback NNP 10% CDP 
+discount: 50%, null
+entity: Sale 
+983 Lazada NN Fashion NNP Week NNP Super NNP Sale NNP - - Diskon NN 90% CDP 
+discount: 90%, null
+entity: Lazada Fashion Week Super Sale 
+984 Blibli NNP Nike NNP Great FW Sale NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Sale 
+985 Galeri NN Gadget NN Membership NNP Promo NNP - - Semua CDI dibawah VBT 1 CDP Juta CDP 
+discount: null, null
+entity: Galeri Gadget Membership 
+986 Red NN White NN Penawaran NN Spesial NNP - - Gratis NNP Travel NNP Bag NNP 
+discount: null, null
+entity: null
+987 Blibli NN Special NNP ANZ NNP Tuesday NNP BIG FW Sale NNP - - Diskon NN 50% CDP 5% CDP 
+discount: 50%, null
+entity: Sale 
+988 Blibli NNP Nike NNP Great FW Sale NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Sale 
+989 Lazada NN Fashion NNP Week NNP Super NNP Sale NNP - - Diskon NN 90% CDP 
+discount: 90%, null
+entity: Lazada Fashion Week Super Sale 
+990 Lazada NNP Tuesday NNP Great FW Sale NNP - - Diskon NN 50% CDP 300.000 CDP & NN Cashback NNP 10% CDP 
+discount: 50%, null
+entity: Sale 
+991 Promo NNP Spesial NNP Liburan NNP Hemat- NNP Diskon NN 10% CDP & , 35.000 CDP 
+discount: 10%, null
+entity: Promo Spesial Liburan Hemat- 
+992 PHD NN Pizza NNP Hut NNP Special NNP Offers NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: PHD Pizza Hut Special Offers 
+993 Lasenza NN Promo NNP Spesial NNP Belanja NNP Hemat NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Lasenza 
+994 Metro NNP Department NN Store FW Great FW Deal NNP - - Gratis NNP Voucher NNP Belanja NNP 
+discount: null, null
+entity: null
+995 PHD NN Pizza NNP Hut NNP Special NNP Offers NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: PHD Pizza Hut Special Offers 
+996 PHD NN Pizza NNP Hut NNP Special NNP Offers NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: PHD Pizza Hut Special Offers 
+997 Promo NNP Spesial NNP Liburan NNP Hemat- NNP Diskon NN 10% CDP & , 35.000 CDP 
+discount: 10%, null
+entity: Promo Spesial Liburan Hemat- 
+998 Blibli NN Special NNP ANZ NNP Tuesday NNP BIG FW Sale NNP - - Diskon NN 50% CDP 5% CDP 
+discount: 50%, null
+entity: Sale 
+999 Gingersnaps NNP Great FW Sale NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Sale 
+1000 Electronic NNP Solution NNP Promo NNP Solusi NNP Belanja NNP Hemat NNP - - Gratis NNP Voucher NNP Belanja NNP 
+discount: null, null
+entity: Electronic Solution 
+1001 Hotel NN Santika NN Penawaran NN Spesial NNP - - Diskon NN 37% CDP 
+discount: 37%, null
+entity: Hotel Santika Penawaran Spesial 
+1002 Mata NN Mall NNP Promo NNP Aksesori NNP Gadget NNP Murah NNP - - Harga NN Dibawah NN 300.000 CDP 
+discount: 300.000, null
+entity: Mata Mall 
+1003 H&R NN Fashion NNP Store FW Great FW Sale NNP - - Diskon NN Hingga CC 80% CDP 
+discount: 80%, null
+entity: Sale 
+1004 Mata NN Mall NNP Promo NNP Aksesori NNP Gadget NNP Murah NNP - - Harga NN Dibawah NN 300.000 CDP 
+discount: 300.000, null
+entity: Mata Mall 
+1005 H&R NN Fashion NNP Store FW Great FW Sale NNP - - Diskon NN Hingga CC 80% CDP 
+discount: 80%, null
+entity: Sale 
+1006 Lasenza NN Promo NNP Spesial NNP Belanja NNP Hemat NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Lasenza 
+1007 Metro NNP Department NN Store FW Great FW Deal NNP - - Gratis NNP Voucher NNP Belanja NNP 
+discount: null, null
+entity: null
+1008 Lacoste NN Mid NN Season NN Sale NNP - - Diskon NN 50% CDP - - Lacoste NNP juga RB nggak NN mau CC ketinggalan NN memberikan VBT promo NN 
+discount: 50%, null
+entity: Lacoste Mid Season Sale 
+1009 Pancious NNP Pancake NNP Limited NNP Offers NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: null
+1010 Traveloka NN Biggest NNP Offers NNP - - Diskon NN Hingga CC 60% CDP 
+discount: 60%, null
+entity: Traveloka Biggest Offers 
+1011 Okeshop NNP Samsung NNP Crazy NNP Deal NNP - - Diskon NN 2.000.000 CDP 
+discount: 2.000.000, null
+entity: Okeshop Samsung Crazy Deal 
+1012 Erafone NNP Oktober NNP Fiesta NNP Promo NNP - - Harga NN Mulai VBI Dari IN 75.000 CDP 
+discount: 75.000, null
+entity: Erafone Oktober Fiesta 
+1013 The FW Body FW Shop FW Redeem FW Point NNP Special NNP Offers NNP - - Gratis NNP Voucher NNP Belanja NNP 
+discount: null, null
+entity: null
+1014 Marks FW And FW Spencer FW Further FW Reduction NN Sale NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Reduction Sale 
+1015 The FW Body FW Shop FW Redeem FW Point NNP Special NNP Offers NNP - - Gratis NNP Voucher NNP Belanja NNP 
+discount: null, null
+entity: null
+1016 Okeshop NNP Samsung NNP Crazy NNP Deal NNP - - Diskon NN 2.000.000 CDP 
+discount: 2.000.000, null
+entity: Okeshop Samsung Crazy Deal 
+1017 Electronic NNP Solution NNP Promo NNP Solusi NNP Belanja NNP Hemat NNP - - Gratis NNP Voucher NNP Belanja NNP 
+discount: null, null
+entity: Electronic Solution 
+1018 Coldwear NN Special NNP Offers NNP - - Cashback NNP 10% CDP - - Promosi NNP Coldware NNP Diskon NNP Coldware NNP Promo NNP Coldware NNP 
+discount: 10%, null
+entity: Promosi Coldware 
+1019 Marks FW And FW Spencer FW Further FW Reduction NN Sale NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Reduction Sale 
+1020 Traveloka NN Biggest NNP Offers NNP - - Diskon NN Hingga CC 60% CDP 
+discount: 60%, null
+entity: Traveloka Biggest Offers 
+1021 Ace NN Hardware NNP Krisbow NNP Special NNP Deal NNP - - Gratis NNP Voucher NNP Belanja NNP 50.000 CDP 
+discount: null, null
+entity: null
+1022 Sunny NNP Side NNP Up NNP Opening NNP Promo NNP - - Diskon NN 20% CDP - - Sunny NNP Side NNP Up IN k NN hadir VBI di IN Central NN Park NNP Mall NNP lho NN sobat NN GD NN ers NN 
+discount: 20%, null
+entity: Sunny Side Up Opening 
+1023 Jre NN Clothing NNP Super NNP Bazaar NNP - - Diskon NN Hingga CC 70% CDP - - Hai NNP warga NN Balikapan NNP buruan NN datang VBI ke IN Ewalk CDP balikpapan NN 
+discount: 70%, null
+entity: Jre Clothing Super Bazaar 
+1024 Wendys NNP Promo NNP Menu NN Hebat NNP - - Harga NN Spesial NN Mulai VBI 100.000 CDP 
+discount: 100.000, null
+entity: Wendys 
+1025 Dairy NN Queen NNP Promo NNP Happy NNP Hour NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP - - Dairy NNP Queen NNP kembali RB menggebrak VBT dengan IN promo NN spesial JJ 
+discount: null, Beli 1 Gratis 1
+entity: Dairy Queen 
+1026 Lazada NN Promo NNP Spesial NN Mainan NNP Si RP Kecil JJ - - Diskon NNP Seru NNP Hingga CC 70% CDP 
+discount: 70%, null
+entity: Lazada 
+1027 Sandisk NNP Super NNP Promo NNP - - Diskon NN hingga CC 62% CDP 
+discount: 62%, null
+entity: Sandisk Super 
+1028 Lazada NNP Super NNP Monday FW SALE NNP - - Diskon NN hingga CC 78% CDP 10% CDP 
+discount: 78%, null
+entity: SALE 
+1029 Uniqlo NN Department NN Store NNP Promo NNP Spesial NNP - - Harga NN Spesial NNP 149.000 CDP 
+discount: 149.000, null
+entity: Uniqlo Department Store 
+1030 X8 NNP Clothing NNP Promo NNP Spesial NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: X8 Clothing 
+1031 H&M NN David NNP Beckham NNP Collection NNP Promo NNP - - Diskon NN 20% CDP - - Ingin VBT tampil VBI seperti IN David NN Beckham NNP HnM NNP Fashiom NNP ada VBI 
+discount: 20%, null
+entity: H&M David Beckham Collection 
+1032 Citilink NN Spesial NNP Promo NNP Kursi NNP Hemat NNP - - Diskon NN 5% CDP - - Booking NNP kursi NN hemat JJ anda NN sekarang NN juga RB karena CC Citilink NNP 
+discount: 5%, null
+entity: Citilink Spesial 
+1033 Hop NN Hop NN Bubble NN Drink NNP Promo NNP Menu NN Baru NNP - - Harga NN 22.000 CDP 
+discount: 22.000, null
+entity: Hop Hop Bubble Drink 
+1034 Electronic NNP Solution NNP Limited NNP Offers NNP - - Harga NN Spesial NN & , Diskon NN 
+discount: null, null
+entity: Electronic Solution Limited Offers 
+1035 Bakerzin NN Special NNP Birthday NNP Promo NNP - - Diskon NN 25% CDP - - Rayakan NN ulang NN tahun NN kamu PRP di IN Bakerzin NN sekarang NN deh NN dan CC 
+discount: 25%, null
+entity: Bakerzin Special Birthday 
+1036 Lazada NNP Super NNP Monday FW SALE NNP - - Diskon NN hingga CC 78% CDP 10% CDP 
+discount: 78%, null
+entity: SALE 
+1037 Sandisk NNP Super NNP Promo NNP - - Diskon NN hingga CC 62% CDP - - Yang SC perlu MD membeli VBT palm NN drive NN pen-drive NN atau CC Micro NNP 
+discount: 62%, null
+entity: Sandisk Super 
+1038 Mata NN Mall NNP Sport NNP Shoes NNP Geat NNP Sale NNP - - Diskon NN Hingga CC 68% CDP 
+discount: 68%, null
+entity: Mata Mall Sport Shoes Geat Sale 
+1039 Lazada NNP Super NNP Monday FW SALE NNP - - Diskon NN hingga CC 78% CDP 10% CDP 
+discount: 78%, null
+entity: SALE 
+1040 Lazada NN Promo NNP Spesial NN Mainan NNP Si RP Kecil JJ - - Diskon NNP Seru NNP Hingga CC 70% CDP 
+discount: 70%, null
+entity: Lazada 
+1041 Sandisk NNP Super NNP Promo NNP - - Diskon NN hingga CC 62% CDP - - Yang SC perlu MD membeli VBT palm NN drive NN pen-drive NN atau CC Micro NNP 
+discount: 62%, null
+entity: Sandisk Super 
+1042 Uniqlo NN Department NN Store NNP Promo NNP Spesial NNP - - Harga NN Spesial NNP 149.000 CDP 
+discount: 149.000, null
+entity: Uniqlo Department Store 
+1043 Lazada NN Promo NNP Spesial NN Mainan NNP Si RP Kecil JJ - - Diskon NNP Seru NNP Hingga CC 70% CDP 
+discount: 70%, null
+entity: Lazada 
+1044 Toys NNP Kingdom NN Promo NNP Spesial NNP Opening NNP - - Diskon NN hingga CC 50% CDP 
+discount: 50%, null
+entity: Kingdom 
+1045 Blibli NN BCA FW Monday FW ePromo NNP - - Diskon NN Tambahan NN 5% CDP 
+discount: 5%, null
+entity: ePromo 
+1046 Holland NN Bakery NN Special NNP Offers NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Holland Bakery Special Offers 
+1047 Blibli NN BCA FW Monday FW ePromo NNP - - Diskon NN Tambahan NN 5% CDP 
+discount: 5%, null
+entity: ePromo 
+1048 Les NN Femmes NNP Promo NNP Belanja NNP Hemat NNP - - Harga NN Spesial NNP 75.000 CDP 
+discount: 75.000, null
+entity: Les Femmes 
+1049 Mata NN Mall NNP Sport NNP Shoes NNP Geat NNP Sale NNP - - Diskon NN Hingga CC 68% CDP 
+discount: 68%, null
+entity: Mata Mall Sport Shoes Geat Sale 
+1050 X8 NNP Clothing NNP Promo NNP Spesial NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: X8 Clothing 
+1051 Blibli NN Special FW Monday FW Visa NNP Sale NNP - - Diskon NN 70% CDP 20% CDP 
+discount: 70%, null
+entity: Visa Sale 
+1052 Chatime NNP promo NNP Soft NNP Opening NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Chatime 
+1053 Atlantis NN Water NNP Adventure NNP Promo NNP Sumpah NNP Pemuda NNP - - Berenang VBI Setahun NN Bayar NN 170.000 CDP 
+discount: null, null
+entity: Atlantis Water Adventure 
+1054 Air FW Asia NNP Go NNP Promo NNP Best NNP Of FW Indonesia NNP - - Harga NN Mulai VBI 999.000 CDP 
+discount: 999.000, null
+entity: Asia Go 
+1055 Air FW Asia NNP Sydney NNP Trip NNP Special NNP Deal NNP - - Harga NN Mulai VBI 1.690.000 CDP 
+discount: 1.690.000, null
+entity: Asia Sydney Trip Special Deal 
+1056 Blibli NN Special FW Monday FW Visa NNP Sale NNP - - Diskon NN 70% CDP 20% CDP 
+discount: 70%, null
+entity: Visa Sale 
+1057 Holland NN Bakery NN Special NNP Offers NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Holland Bakery Special Offers 
+1058 Blibli NN Special FW Monday FW Visa NNP Sale NNP - - Diskon NN 70% CDP 20% CDP 
+discount: 70%, null
+entity: Visa Sale 
+1059 Air FW Asia NNP Special NNP Offers NNP - - Harga NN Mulai VBI Dari IN 334.000 CDP 
+discount: 334.000, null
+entity: Asia Special Offers 
+1060 Air FW Asia NNP Sydney NNP Trip NNP Special NNP Deal NNP - - Harga NN Mulai VBI 1.690.000 CDP 
+discount: 1.690.000, null
+entity: Asia Sydney Trip Special Deal 
+1061 Air FW Asia NNP Go NNP Promo NNP Best NNP Of FW Indonesia NNP - - Harga NN Mulai VBI 999.000 CDP 
+discount: 999.000, null
+entity: Asia Go 
+1062 Wellcomm NN Shop NNP Special NNP Sale NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+1063 Samsung NNP Special NNP Offers NNP - - Gratis NNP Pulsa NN & NN Paket NN Data NN 
+discount: null, null
+entity: null
+1064 Sports NN Station NNP October NNP DoorBuster NNP Sale NNP - - Diskon NN hingga CC 50% CDP 
+discount: 50%, null
+entity: Sports Station October DoorBuster Sale 
+1065 Mata NN Department NN Store FW Great FW Offers NNP - - Diskon NN 50% CDP 20% CDP 
+discount: 50%, null
+entity: Offers 
+1066 Kafe NN Betawi NNP Promo NNP Festival NNP Bandeng NNP - - Menu NN Hemat NN 60.000 CDP 
+discount: null, null
+entity: Kafe Betawi 
+1067 Bebe NNP Final NNP Sale NNP - - Diskon NN 20% CDP - - Cek NNP koleksi NN terbaru JJ dari IN Bebe NNP deh NN dan CC dapatkan MD promo NN spesial JJ belanja NN hemat JJ 
+discount: 20%, null
+entity: Bebe Final Sale 
+1068 Sports NN Station NNP October NNP DoorBuster NNP Sale NNP - - Diskon NN hingga CC 50% CDP 
+discount: 50%, null
+entity: Sports Station October DoorBuster Sale 
+1069 Sports NN Station NNP October NNP DoorBuster NNP Sale NNP - - Diskon NN hingga CC 50% CDP 
+discount: 50%, null
+entity: Sports Station October DoorBuster Sale 
+1070 iBox NN Macbook NNP Fair NNP - - Gratis NNP Cash NNP Voucher NNP 500.000 CDP 
+discount: null, null
+entity: null
+1071 Electronic NNP City NNP BIG FW TV FW BIG FW Deal NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: null
+1072 Samsung NNP Special NNP Offers NNP - - Gratis NNP Pulsa NN & NN Paket NN Data NN 
+discount: null, null
+entity: null
+1073 Wellcomm NN Shop NNP Special NNP Sale NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+1074 Solaria NNP Special NNP Deal NNP - - Gratis NNP Nestea NNP 1 CDP Liter NN & NN Umroh NN Gratis NNP 
+discount: null, null
+entity: null
+1075 LG NN Mobil NN Great FW Deal NNP - - Cashback NNP 1.000.000 CDP & NN Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: null
+1076 Klik NN Indomaret NNP Cut NNP Prices NNP Promo NNP - - Aneka NNP Diskon NN & NN Harga NN Spesial NNP 
+discount: null, null
+entity: Klik Indomaret Cut Prices 
+1077 Blibli NN Samsung NN UOB NN Best NNP Deal NNP - - Diskon NN 10% CDP & NN Gratis NNP Micro NNP SD NNP 128GB CDP 
+discount: 10%, null
+entity: Blibli Samsung UOB Best Deal 
+1078 Motorcycle NNP Best NNP Deal NNP - - Diskon NN 10% CDP 
+discount: 10%, null
+entity: Motorcycle Best Deal 
+1079 Motorcycle NNP Best NNP Deal NNP - - Diskon NN 10% CDP 
+discount: 10%, null
+entity: Motorcycle Best Deal 
+1080 Alfamart NNP Promo NNP Buy NN & NN Fly NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Alfamart 
+1081 CGV NN Blitz NNP Special NNP Offers NNP - - Diskon NN 30% CDP 
+discount: 30%, null
+entity: CGV Blitz Special Offers 
+1082 Blibli NN Samsung NN UOB NN Best NNP Deal NNP - - Diskon NN 10% CDP & NN Gratis NNP Micro NNP SD NNP 128GB CDP 
+discount: 10%, null
+entity: Blibli Samsung UOB Best Deal 
+1083 Logo NNP Jeans NNP Special NNP Sale NNP - - Diskon NN 20% CDP - - Shopping FW aneka IN produk NN fashion NN jeans NN & NN denim NN di IN Logo NNP Store NNP 
+discount: 20%, null
+entity: Logo Jeans Special Sale 
+1084 Electronic NNP City NNP BIG FW TV FW BIG FW Deal NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: null
+1085 iBox NN Macbook NNP Fair NNP - - Gratis NNP Cash NNP Voucher NNP 500.000 CDP 
+discount: null, null
+entity: null
+1086 CGV NN Blitz NNP Special NNP Offers NNP - - Diskon NN 30% CDP - - Beli NNP tiket NN nonton NN Momentum NN sekarang NN juga RB di IN CGV NN Blitz NNP 
+discount: 30%, null
+entity: CGV Blitz Special Offers 
+1087 Sunny NNP Side NNP Up NNP Opening NNP Promo NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Sunny Side Up Opening 
+1088 Dairy NN Queen NNP Promo NNP Happy NNP Hour NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Dairy Queen 
+1089 Jre NN Clothing NNP Super NNP Bazaar NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Jre Clothing Super Bazaar 
+1090 Hush NN Puppies NN Ladies NNP Day NNP Promo NNP - - Diskon NN 30% CDP 
+discount: 30%, null
+entity: Hush Puppies Ladies Day 
+1091 Pazia NNP Shop NNP Telkomsel NNP Promo NNP Bundling NNP - - Cashback NNP 500.000 CDP 
+discount: null, null
+entity: Pazia Shop Telkomsel 
+1092 Dairy NN Queen NNP Promo NNP Happy NNP Hour NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Dairy Queen 
+1093 Sunny NNP Side NNP Up NNP Opening NNP Promo NNP - - Diskon NN 20% CDP - - Sunny NNP Side NNP Up IN k NN hadir VBI di IN Central NN Park NNP Mall NNP lho NN 
+discount: 20%, null
+entity: Sunny Side Up Opening 
+1094 Wendys NNP Promo NNP Menu NN Hebat NNP - - Harga NN Spesial NN Mulai VBI 100.000 CDP 
+discount: 100.000, null
+entity: Wendys 
+1095 Alfamart NNP Promo NNP Buy NN & NN Fly NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Alfamart 
+1096 Ace NN Hardware NNP Krisbow NNP Special NNP Deal NNP - - Gratis NNP Voucher NNP Belanja NNP 50.000 CDP 
+discount: null, null
+entity: null
+1097 Promo NNP Belanja NNP Spesial NNP - - Harga NN Dibawah NN 99.000 CDP 
+discount: 99.000, null
+entity: Promo Belanja Spesial 
+1098 Okeshop NNP Xiaomi NNP Promo NNP Bundling NNP - - Harga NN Spesial NNP 282.000 CDP 
+discount: 282.000, null
+entity: Okeshop Xiaomi 
+1099 Coast NNP Special NN Mid NN Season NN - - Diskon NN Hingga CC 50% CDP - - Ayo NN ladies NN segera RB mampir NN ke IN store NN Coast NNP sedang RB happening VBI 
+discount: 50%, null
+entity: Special Mid Season 
+1100 Erafone NNP Promo NNP Paket NN Hemat NNP - - Harga NN Spesial NNP 149.000 CDP 
+discount: 149.000, null
+entity: Erafone 
+1101 Lazada NN Apps NNP Celebration NNP SALE NNP - - Diskon NN 70% CDP 10% CDP - - Download NN applikasi NN Lazada NN sekarang NN juga RB yang SC bisa MD di IN 
+discount: 70%, null
+entity: Lazada Apps Celebration SALE 
+1102 Lee NNP Cooper NNP Promo NNP Spesial NNP - - Diskon NN 30% CDP - - Shopping FW sepuasnya NN aneka IN produk NN fashion NN terbaik JJ dan CC terk VBI dari IN 
+discount: 30%, null
+entity: Lee Cooper 
+1103 Pizza NNP Hut NNP Spesial NNP Weekend NNP Deal NNP - - Diskon NN 15% CDP 
+discount: 15%, null
+entity: Pizza Hut Spesial Weekend Deal 
+1104 Hush NN Puppies NN Ladies NNP Day NNP Promo NNP - - Diskon NN 30% CDP 
+discount: 30%, null
+entity: Hush Puppies Ladies Day 
+1105 Pazia NNP Shop NNP Telkomsel NNP Promo NNP Bundling NNP - - Cashback NNP 500.000 CDP 
+discount: null, null
+entity: Pazia Shop Telkomsel 
+1106 Lee NNP Cooper NNP Footwear NNP Best NNP Deal NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Lee Cooper Footwear Best Deal 
+1107 Baskin NN Robbins NNP Rainbox NNP Festival NNP Promo NNP - - Harga NN Spesial NNP 70.000 CDP 
+discount: 70.000, null
+entity: Baskin Robbins Rainbox Festival 
+1108 Klik NN indomaret NN Promo NNP Spesial NNP Oktober NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Klik indomaret 
+1109 Natural NNP Farm NNP Super NNP Deal NNP - - Diskon NN 70% CDP 
+discount: 70%, null
+entity: Natural Farm Super Deal 
+1110 Lazada NN Happy NNP Halloween NNP Promo NNP Spesial NNP - - Diskon NN 95% CDP 
+discount: 95%, null
+entity: Lazada Happy Halloween 
+1111 Weekend NN Suise NNP Promo NNP - - Diskon NN Tambahan NN 20% CDP 
+discount: 20%, null
+entity: Weekend Suise 
+1112 Health NN & NN Beauty NNP October NNP Deal NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Health & Beauty October Deal 
+1113 Avenue NN Clothing NNP Special NNP Sale NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: null
+1114 Lazada NN Happy NNP Halloween NNP Promo NNP Spesial NNP - - Diskon NN 95% CDP 
+discount: 95%, null
+entity: Lazada Happy Halloween 
+1115 Lazada NN Happy NNP Halloween NNP Promo NNP Spesial NNP - - Diskon NN 95% CDP 
+discount: 95%, null
+entity: Lazada Happy Halloween 
+1116 Weekend NN Suise NNP Promo NNP - - Diskon NN Tambahan NN 20% CDP 
+discount: 20%, null
+entity: Weekend Suise 
+1117 Havaianas NNP BIG FW Sale NNP - - Gebrak NN Diskon NN & NN Harga NN Spesial NNP 
+discount: null, null
+entity: Gebrak 
+1118 Adidas NN Clearance NNP Sale NNP - - Diskon NN hingga CC 52% CDP 
+discount: 52%, null
+entity: Adidas Clearance Sale 
+1119 Okeshop NNP Promo NNP Halloween NNP Sale NNP - - Diskon NN 2.000.000 CDP 
+discount: 2.000.000, null
+entity: Okeshop 
+1120 Les NN Femmes NNP Special NNP Sale NNP - - Diskon NN 30% CDP 
+discount: 30%, null
+entity: Les Femmes Special Sale 
+1121 Okeshop NNP Promo NNP Halloween NNP Sale NNP - - Diskon NN 2.000.000 CDP 
+discount: 2.000.000, null
+entity: Okeshop 
+1122 Les NN Femmes NNP Special NNP Sale NNP - - Diskon NN 30% CDP - - Les NNP Femmes NNP juga RB nggak NN mau CC ketiggalan SC memberikan VBT promo NN 
+discount: 30%, null
+entity: Les Femmes Special Sale 
+1123 Health NN & NN Beauty NNP October NNP Deal NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Health & Beauty October Deal 
+1124 Klik NN indomaret NN Promo NNP Spesial NNP Oktober NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Klik indomaret 
+1125 Adidas NN Clearance NNP Sale NNP - - Diskon NN hingga CC 52% CDP 
+discount: 52%, null
+entity: Adidas Clearance Sale 
+1126 Sogo NNP Department NN Store NNP Weekend FW BIG FW Sale NNP - - Diskon NN 50% CDP 10% CDP 
+discount: 50%, null
+entity: Sale 
+1127 Galeri NN Gadget NN Wiko NNP Special NNP Deal NNP - - Cashback NNP 400.000 CDP & NN Gratis NNP Hadiah NN 
+discount: null, null
+entity: null
+1128 Alfamart NNP Promo NNP Spesial NNP Belanja NNP Hemat NNP - - Diskon NN 15% CDP & IN Harga NN Spesial NNP 
+discount: 15%, null
+entity: Alfamart 
+1129 Toko NNP Gunung NNP Agung JJ Promo NNP Back FW To FW Campus NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Toko Gunung 
+1130 Pazia NNP Shop NNP Promo NNP PHP NNP - - Cashback NNP Hingga NN 3.500.000 CDP 
+discount: null, null
+entity: Pazia Shop 
+1131 Alfamart NNP Promo NNP Spesial NNP Belanja NNP Hemat NNP - - Diskon NN 15% CDP & IN Harga NN Spesial NNP 
+discount: 15%, null
+entity: Alfamart 
+1132 Adidas NN Clearance NNP Sale NNP - - Diskon NN hingga CC 52% CDP 
+discount: 52%, null
+entity: Adidas Clearance Sale 
+1133 Havaianas NNP BIG FW Sale NNP - - Gebrak NN Diskon NN & NN Harga NN Spesial NNP 
+discount: null, null
+entity: Gebrak 
+1134 Advan NNP Global NNP Teleshop NNP Great FW Deal NNP - - Cashback NNP Hingga CC 250.000 CDP 
+discount: null, null
+entity: null
+1135 Electronic NNP City NNP Crazy NNP Hot NNP Deal NNP - - Aneka NNP Diskon NN & NN Harga NN Spesial NNP 
+discount: null, null
+entity: Aneka 
+1136 Centro NN Department NN Store NNP Bedding NNP Fair NNP Promo NNP - - Diskon NN Hingga CC 80% CDP 
+discount: 80%, null
+entity: Centro Department Store Bedding Fair 
+1137 Sogo NNP Department NN Store NNP Weekend FW BIG FW Sale NNP - - Diskon NN 50% CDP 10% CDP 
+discount: 50%, null
+entity: Sale 
+1138 Electronic NNP City NNP Crazy NNP Hot NNP Deal NNP - - Aneka NNP Diskon NN & NN Harga NN Spesial NNP 
+discount: null, null
+entity: Aneka 
+1139 Electronic NNP Solution NNP Limited NNP Offers NNP - - Harga NN Spesial NN & , Diskon NN 
+discount: null, null
+entity: Electronic Solution Limited Offers 
+1140 Toko NNP Gunung NNP Agung JJ Promo NNP Back FW To FW Campus NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Toko Gunung 
+1141 Pazia NNP Shop NNP Promo NNP PHP NNP - - Cashback NNP Hingga NN 3.500.000 CDP 
+discount: null, null
+entity: Pazia Shop 
+1142 Citilink NN Spesial NNP Promo NNP Kursi NNP Hemat NNP - - Diskon NN 5% CDP 
+discount: 5%, null
+entity: Citilink Spesial 
+1143 Citilink NN Spesial NNP Promo NNP Kursi NNP Hemat NNP - - Diskon NN 5% CDP 
+discount: 5%, null
+entity: Citilink Spesial 
+1144 H&M NN David NNP Beckham NNP Collection NNP Promo NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: H&M David Beckham Collection 
+1145 Bakerzin NN Special NNP Birthday NNP Promo NNP - - Diskon NN 25% CDP 
+discount: 25%, null
+entity: Bakerzin Special Birthday 
+1146 Mata NN Department NN Store FW Great FW Offers NNP - - Diskon NN 50% CDP 20% CDP 
+discount: 50%, null
+entity: Offers 
+1147 Bonchon NNP Promo NNP Menu NN Baru NNP - - Harga NN Spesial NNP Mulai VBI Dari IN 31.364 CDP 
+discount: 31.364, null
+entity: Bonchon 
+1148 Hop NN Hop NN Bubble NN Drink NNP Promo NNP Menu NN Baru NNP - - Harga NN 22.000 CDP 
+discount: 22.000, null
+entity: Hop Hop Bubble Drink 
+1149 Blibli NN Hot NN Deals NNP - - Promo NNP Diskon NNP hingga CC 56% CDP - - Klik NN Get NN Info NN dan CC shopping NN online NN sepuasnya NN di IN blibli FW 
+discount: 56%, null
+entity: Blibli Hot Deals 
+1150 Microsoft NNP Erafone NNP Special NNP Promo NNP - - Cashback NNP 100.000 CDP 
+discount: null, null
+entity: Microsoft Erafone Special 
+1151 Mata NN Department NN Store NNP Super NNP Dobel NNP Diskon NNP - - Diskon NN 50% CDP 20% CDP 
+discount: 50%, null
+entity: Mata Department Store Super Dobel 
+1152 Lottemart NNP Promo NNP Belanja NNP Hemat NNP - - Diskon NN 10% CDP - - Dapatkan NN diskon NN tambahan NN 10% CDP setiap DT belanja NN di IN Lottemart NNP 
+discount: 10%, null
+entity: Lottemart 
+1153 Lazada NN Super NNP Flash NNP Sale NNP - - Harga NN Spesial NNP 1.799.000 CDP 
+discount: 1.799.000, null
+entity: Lazada Super Flash Sale 
+1154 Lazada NN Special NNP Parfum NNP Sale NNP - - Diskon NN Hingga CC 70% CDP & NN Gratis NNP Umroh NN 
+discount: 70%, null
+entity: Lazada Special Parfum Sale 
+1155 Hoka NN Hoka NNP Bento NNP Promo NNP Happy NNP Hour NNP - - Gratis NNP Teh NN Kotak NN Sosro NNP 
+discount: null, null
+entity: Hoka Hoka Bento 
+1156 Promo NNP Bags NNP Fair NNP - - Diskon NN Hingga CC 95% CDP 
+discount: 95%, null
+entity: Promo Bags Fair 
+1157 Blackberry NN Promo NNP Pre NN Order NNP - - Diskon NN 500.000 CDP & NN Gratis NNP Voucher NNP 
+discount: 500.000, null
+entity: Blackberry 
+1158 Dominos NN Pizza NNP Crazy NNP Deals NNP - - Diskon NN Hingga CC 64% CDP 
+discount: 64%, null
+entity: Dominos Pizza Crazy Deals 
+1159 Dominos NN Pizza NNP Crazy NNP Deals NNP - - Diskon NN Hingga CC 64% CDP 
+discount: 64%, null
+entity: Dominos Pizza Crazy Deals 
+1160 Hoka NN Hoka NNP Bento NNP Promo NNP Happy NNP Hour NNP - - Gratis NNP Teh NN Kotak NN Sosro NNP 
+discount: null, null
+entity: Hoka Hoka Bento 
+1161 Erafone NNP LG NNP G4 NNP Big FW Deal NNP - - Diskon NN 1.000.000 CDP - - Beli NNP LG NNP G4 NNP di IN Erafone NNP sekarang NN juga RB dan CC dapatkan MD promo NN 
+discount: 1.000.000, null
+entity: Deal 
+1162 Paradise NN Dynasty NN Dim NN Sum NNP Special NNP Promo NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Paradise Dynasty Dim Sum Special 
+1163 Superindo NNP Supermarket NNP Special NNP Deal NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: null
+1164 The FW Duck NN King NN Special NNP Membercard NNP Promo NNP - - Diskon NN 15% CDP 
+discount: 15%, null
+entity: Duck King Special Membercard 
+1165 Lazada NN Tahun NN Baru NNP Hijriah NNP SALE NNP - - Diskon NN hingga CC 80% CDP 10% CDP 
+discount: 80%, null
+entity: Lazada Tahun Baru Hijriah SALE 
+1166 Lazada NN Special NNP Parfum NNP Sale NNP - - Diskon NN Hingga CC 70% CDP & NN Gratis NNP Umroh NN 
+discount: 70%, null
+entity: Lazada Special Parfum Sale 
+1167 Lazada NN Tahun NN Baru NNP Hijriah NNP SALE NNP - - Diskon NN hingga CC 80% CDP 10% CDP 
+discount: 80%, null
+entity: Lazada Tahun Baru Hijriah SALE 
+1168 Promo NNP Bags NNP Fair NNP - - Diskon NN Hingga CC 95% CDP 
+discount: 95%, null
+entity: Promo Bags Fair 
+1169 Lazada NN Special NNP Parfum NNP Sale NNP - - Diskon NN Hingga CC 70% CDP & NN Gratis NNP Umroh NN 
+discount: 70%, null
+entity: Lazada Special Parfum Sale 
+1170 iBox NN iPhone NN 6 CDP Special NN Deal NNP - - Cashback NNP 1.000.000 CDP 
+discount: null, null
+entity: null
+1171 Krispy NN Kreme NN Special NN Dozen NN Deal NNP - - Harga NN Spesial NNP 60.000 CDP 
+discount: 60.000, null
+entity: Krispy Kreme Special Dozen Deal 
+1172 LG NN Special NN Scratch NN & NN Win NNP Deal NNP - - Cashback NNP Hingga NN 1.000.000 CDP 
+discount: null, null
+entity: null
+1173 Lotte FW Shopping FW Avenue NNP Golf NNP Bazaar NNP Promo NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Avenue Golf Bazaar 
+1174 Acer NN Best NNP Deal NNP - - Diskon NN Hingga CC 30% CDP 
+discount: 30%, null
+entity: Acer Best Deal 
+1175 Acer NN Best NNP Deal NNP - - Diskon NN Hingga CC 30% CDP 
+discount: 30%, null
+entity: Acer Best Deal 
+1176 Lazada NN Tahun NN Baru NNP Hijriah NNP SALE NNP - - Diskon NN hingga CC 80% CDP 10% CDP 
+discount: 80%, null
+entity: Lazada Tahun Baru Hijriah SALE 
+1177 Blackberry NN Promo NNP Pre NN Order NNP - - Diskon NN 500.000 CDP & NN Gratis NNP Voucher NNP 
+discount: 500.000, null
+entity: Blackberry 
+1178 LG NN Special NN Scratch NN & NN Win NNP Deal NNP - - Cashback NNP Hingga NN 1.000.000 CDP 
+discount: null, null
+entity: null
+1179 Superindo NNP Supermarket NNP Special NNP Deal NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: null
+1180 Osella NNP Fantastic NNP Sale NNP - - Harga NN Spesial NN Mulai VBI 59.900 CDP 
+discount: 59.900, null
+entity: Osella Fantastic Sale 
+1181 Lottemart NNP Promo NNP Belanja NNP Hemat NNP - - Gratis NNP Paket NN Sembako NN 
+discount: null, null
+entity: Lottemart 
+1182 Lazada NN Apps NNP Celebration NNP SALE NNP - - Diskon NN 70% CDP 10% CDP 
+discount: 70%, null
+entity: Lazada Apps Celebration SALE 
+1183 Coast NNP Special NN Mid NN Season NN - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Special Mid Season 
+1184 Lee NNP Cooper NNP Promo NNP Spesial NNP - - Diskon NN 30% CDP 
+discount: 30%, null
+entity: Lee Cooper 
+1185 Logo NNP Jeans NNP Special NNP Sale NNP - - Diskon NN 20% CDP - - Shopping FW aneka IN produk NN fashion NN jeans NN & NN denim NN di IN 
+discount: 20%, null
+entity: Logo Jeans Special Sale 
+1186 Erafone NNP Promo NNP Paket NN Hemat NNP - - Harga NN Spesial NNP 149.000 CDP 
+discount: 149.000, null
+entity: Erafone 
+1187 Krispy NN Kreme NN Special NN Dozen NN Deal NNP - - Harga NN Spesial NNP 60.000 CDP 
+discount: 60.000, null
+entity: Krispy Kreme Special Dozen Deal 
+1188 Alfamidi NNP Promo NNP Spesial NNP Belanja NNP Hemat NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Alfamidi 
+1189 iBox NN iPhone NN 6 CDP Special NN Deal NNP - - Cashback NNP 1.000.000 CDP 
+discount: null, null
+entity: null
+1190 Lazada NN Apps NNP Celebration NNP SALE NNP - - Diskon NN 70% CDP 10% CDP 
+discount: 70%, null
+entity: Lazada Apps Celebration SALE 
+1191 Home FW Solution NNP Matress NN & NN Furniture NNP Exhibition CDP - - Diskon NN Hingga CC 90% CDP 
+discount: 90%, null
+entity: Solution Matress & Furniture 
+1192 Burton NN Menswear NN Super NNP Sale NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Burton Menswear Super Sale 
+1193 Lee NNP Cooper NNP Promo NNP Spesial NNP - - Diskon NN 30% CDP - - Shopping FW sepuasnya NN aneka IN produk NN fashion NN terbaik JJ dan CC 
+discount: 30%, null
+entity: Lee Cooper 
+1194 Boga FW Group FW Promo NNP Goban NNP Kenyang NNP - - Menu NN Hemat NN 50.000 CDP 
+discount: null, null
+entity: null
+1195 Okeshop NNP Xiaomi NNP Promo NNP Bundling NNP - - Harga NN Spesial NNP 282.000 CDP 
+discount: 282.000, null
+entity: Okeshop Xiaomi 
+1196 Coast NNP Special NN Mid NN Season NN - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Special Mid Season 
+1197 Kamis NN Ganteng NN Great FW Deal NNP - - Diskon NN Hingga CC 65% CDP 
+discount: 65%, null
+entity: Deal 
+1198 Optik NN Seis NN October NNP Super NNP Sale NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Optik Seis October Super Sale 
+1199 The FW Executive NNP Special NNP Deals NNP - - Diskon NN 25% CDP 
+discount: 25%, null
+entity: Executive Special Deals 
+1200 Roppan NNP Special NNP Deals NNP - - Diskon NN 30% CDP 
+discount: 30%, null
+entity: Roppan Special Deals 
+1201 Mango NNP Zalora NN Mid NN Season NN Sale NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Mango Zalora Mid Season Sale 
+1202 Blibli NN Rabu NN Cantik NNP Special NNP Promo NNP - - Diskon NN hingga CC 70% CDP 
+discount: 70%, null
+entity: Blibli Rabu Cantik Special 
+1203 Roppan NNP Special NNP Deals NNP - - Diskon NN 30% CDP - - Tukan NNP Fiestapoin NNP Mandiri NNP anda NN sekarang NN juga RB saat NN 
+discount: 30%, null
+entity: Roppan Special Deals 
+1204 Mango NNP Zalora NN Mid NN Season NN Sale NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Mango Zalora Mid Season Sale 
+1205 Maquis NN Special NN Deal NN M NNP Cake NNP - - Harga NN Spesial NNP Mulai VBI Dari IN 13.500 CDP 
+discount: 13.500, null
+entity: Maquis Special Deal M Cake 
+1206 Mango NNP Zalora NN Mid NN Season NN Sale NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Mango Zalora Mid Season Sale 
+1207 Optik NN Seis NN October NNP Super NNP Sale NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Optik Seis October Super Sale 
+1208 Kamis NN Ganteng NN Great FW Deal NNP - - Diskon NN Hingga CC 65% CDP 
+discount: 65%, null
+entity: Deal 
+1209 The FW Executive NNP Special NNP Deals NNP - - Diskon NN 25% CDP 
+discount: 25%, null
+entity: Executive Special Deals 
+1210 Man NNP Club NNP Zuper NNP Great FW Sale NNP - - Diskon NN Hingga CC 75% CDP 
+discount: 75%, null
+entity: Sale 
+1211 Lock NNP & , Lock NNP Special NNP Grand NNP Opening NNP - - Diskon NN 30% CDP 
+discount: 30%, null
+entity: Lock Special Grand Opening 
+1212 Galeries NN Lafayette NNP Ta NNP Promo NNP Spesial NNP Belanja NNP Hemat NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Galeries Lafayette Ta 
+1213 Guardian NN Spesial NNP Promo NNP Hemat NN Mingguan JJ - - Tambah RB 1.000 CDP Dapat MD 2 CDP 
+discount: null, null
+entity: Guardian Spesial 
+1214 Erafone NNP Blackberry NNP Passport NNP Silver NNP Edition NNP Best NNP Deal NNP - - Cashback NNP 300.000 CDP & NN Gratis NNP Voucher NNP 
+discount: null, null
+entity: null
+1215 Electronic NNP City NNP Canon NNP Spesial NNP Sale NNP - - Harga NN Spesial NNP 499.000 CDP 
+discount: 499.000, null
+entity: Electronic City Canon Spesial Sale 
+1216 Fish NN & NN Co NNP Special NNP Complete NNP Your NNP Meal NNP Promo NNP - - Menu NN Hemat NN 39.000 CDP 
+discount: null, null
+entity: Fish & Co Special Complete Your Meal 
+1217 Global NNP APR NNP October FW Great FW Deals NNP - - Diskon NN 20% CDP Cashback NNP 1.000.000 CDP & NN Gratis NNP Hadiah NN Langsung JJ 
+discount: 20%, null
+entity: Deals 
+1218 Guardian NN Spesial NNP Promo NNP Hemat NN Mingguan JJ - - Tambah RB 1.000 CDP Dapat MD 2 CDP 
+discount: null, null
+entity: Guardian Spesial 
+1219 Galeries NN Lafayette NNP Ta NNP Promo NNP Spesial NNP Belanja NNP Hemat NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Galeries Lafayette Ta 
+1220 Global NNP APR NNP October FW Great FW Deals NNP - - Diskon NN 20% CDP Cashback NNP 1.000.000 CDP & NN Gratis NNP Hadiah NN Langsung JJ 
+discount: 20%, null
+entity: Deals 
+1221 Man NNP Club NNP Zuper NNP Great FW Sale NNP - - Diskon NN Hingga CC 75% CDP 
+discount: 75%, null
+entity: Sale 
+1222 Fish NN & NN Co NNP Special NNP Complete NNP Your NNP Meal NNP Promo NNP - - Menu NN Hemat NN 39.000 CDP 
+discount: null, null
+entity: Fish & Co Special Complete Your Meal 
+1223 CGV NN Blitz NNP Promo NNP Snack NNP Attack NNP - - Diskon NN 20% CDP & NN Gratis NNP Upsize NN 
+discount: 20%, null
+entity: CGV Blitz 
+1224 Mata NN Department NN Store NNP Promo NNP Belanja NNP Dobel NNP Diskon NNP - - Diskon NN 50% CDP 20% CDP 
+discount: 50%, null
+entity: Mata Department Store 
+1225 Air FW Asia NNP Go NNP Promo NNP Travel NNP Super NNP Hemat NNP - - Tiket JJ Pesawat NN Mulai VBI 0 CDP 
+discount: null, null
+entity: Asia Go 
+1226 Erafone NNP Special NNP Mandiri NNP Anniversary NNP Promo NNP - - Diskon NN Hingga CC 17% CDP 
+discount: 17%, null
+entity: Erafone Special Mandiri Anniversary 
+1227 Air FW Asia NNP Promo NNP Terbang VBI Hemat NNP - - Harga NN Mulai VBI Dari IN 1 CDP Dollar NNP 
+discount: 1, null
+entity: Asia 
+1228 Citilink NN 7 CDP Eleven NNP Special NNP Deal NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: null
+1229 A&W NN Restaurant NN Promo NNP Menu NN Spesial NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: A&W Restaurant 
+1230 Lottemart NNP Promo NNP Belanja NNP Hemat NNP - - Diskon NN 10% CDP 
+discount: 10%, null
+entity: Lottemart 
+1231 Blibli NN Hot NN Deals NNP - - Promo NNP Diskon NNP hingga CC 56% CDP 
+discount: 56%, null
+entity: Blibli Hot Deals 
+1232 Lazada NN Super NNP Flash NNP Sale NNP - - Harga NN Spesial NNP 1.799.000 CDP 
+discount: 1.799.000, null
+entity: Lazada Super Flash Sale 
+1233 Blibli NN Hot NN Deals NNP - - Promo NNP Diskon NNP hingga CC 56% CDP 
+discount: 56%, null
+entity: Blibli Hot Deals 
+1234 iBox NN Special NNP Offers NNP - - Cashback NNP Hingga NN 1.000.000 CDP 
+discount: null, null
+entity: null
+1235 Cinemaxx NN Theater NNP Pop NNP Snaxx NNP Special NNP Deal NNP - - Harga NN Spesial NN Mulai VBI 20.000 CDP 
+discount: 20.000, null
+entity: Cinemaxx Theater Pop Snaxx Special Deal 
+1236 CGV NN Blitz NNP Memberday NNP Special NNP Deal NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+1237 CGV NN Blitz NNP Memberday NNP Special NNP Deal NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+1238 Blibli NN Hot NN Deals NNP - - Promo NNP Diskon NNP hingga CC 56% CDP 
+discount: 56%, null
+entity: Blibli Hot Deals 
+1239 Lazada NN Super NNP Flash NNP Sale NNP - - Harga NN Spesial NNP 1.799.000 CDP 
+discount: 1.799.000, null
+entity: Lazada Super Flash Sale 
+1240 Mata NN Department NN Store NNP Super NNP Dobel NNP Diskon NNP - - Diskon NN 50% CDP 20% CDP 
+discount: 50%, null
+entity: Mata Department Store Super Dobel 
+1241 Microsoft NNP Erafone NNP Special NNP Promo NNP - - Cashback NNP 100.000 CDP 
+discount: null, null
+entity: Microsoft Erafone Special 
+1242 Urban NN Life NNP Special NNP October NNP Sale NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Urban Life Special October Sale 
+1243 Lazada NN Infx NN Hot NN 2 CDP Super NN Flash NN Sale NNP - - Harga NN Spesial NNP 1.299.000 CDP 
+discount: 1.299.000, null
+entity: Super Flash Sale 
+1244 Lenovo NN Tab NN 2 CDP Special NN Sale NNP - - Harga NN Heboh NN 799.000 CDP 
+discount: 799.000, null
+entity: Special Sale 
+1245 Lazada NN Murah NNP Meriah NNP Boom NNP SALE NNP - - Diskon NN hingga CC 90% CDP 
+discount: 90%, null
+entity: Lazada Murah Meriah Boom SALE 
+1246 Popolamama NNP Restaurant NNP Best NNP Deal NNP - - Harga NN Spesial NNP 50.000 CDP 
+discount: 50.000, null
+entity: Popolamama Restaurant Best Deal 
+1247 Kenny NNP Rogers NNP Roasters NNP Promo NNP Khusus JJ Pelajar NNP - - Harga NN Spesial NNP 70.000 CDP 
+discount: 70.000, null
+entity: Kenny Rogers Roasters 
+1248 Alfamart NNP Promo NNP Spesial NNP Membercard NNP - - Harga NN Spesial NN Diskon NN Menarik JJ & NN Beli NNP 3 CDP Gratis NNP 1 CDP 
+discount: 3, Beli 3 Gratis 1
+entity: Alfamart 
+1249 Alfamart NNP Promo NNP Spesial NNP Membercard NNP - - Harga NN Spesial NN Diskon NN Menarik JJ & NN Beli NNP 3 CDP Gratis NNP 1 CDP 
+discount: 3, Beli 3 Gratis 1
+entity: Alfamart 
+1250 Lenovo NN Tab NN 2 CDP Special NN Sale NNP - - Harga NN Heboh NN 799.000 CDP 
+discount: 799.000, null
+entity: Special Sale 
+1251 Lazada NN Murah NNP Meriah NNP Boom NNP SALE NNP - - Diskon NN hingga CC 90% CDP 
+discount: 90%, null
+entity: Lazada Murah Meriah Boom SALE 
+1252 Popolamama NNP Restaurant NNP Best NNP Deal NNP - - Harga NN Spesial NNP 50.000 CDP 
+discount: 50.000, null
+entity: Popolamama Restaurant Best Deal 
+1253 Kenny NNP Rogers NNP Roasters NNP Promo NNP Khusus JJ Pelajar NNP - - Harga NN Spesial NNP 70.000 CDP 
+discount: 70.000, null
+entity: Kenny Rogers Roasters 
+1254 Lazada NN Murah NNP Meriah NNP Boom NNP SALE NNP - - Diskon NN hingga CC 90% CDP 
+discount: 90%, null
+entity: Lazada Murah Meriah Boom SALE 
+1255 Lazada NN Infx NN Hot NN 2 CDP Super NN Flash NN Sale NNP - - Harga NN Spesial NNP 1.299.000 CDP 
+discount: 1.299.000, null
+entity: Super Flash Sale 
+1256 Lenovo NN Tab NN 2 CDP Special NN Sale NNP - - Harga NN Heboh NN 799.000 CDP 
+discount: 799.000, null
+entity: Special Sale 
+1257 Electronic NNP City NNP Asus NNP Special NNP Offers NNP - - Promo NNP Diskon NN Menarik VBT & NN Harga NN Spesial NNP 
+discount: null, null
+entity: Electronic City Asus Special Offers 
+1258 Electronic NNP Solution NNP Electronic NNP Fair NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Electronic Solution Electronic Fair 
+1259 Timezone NN Promo NNP Main NNP Sepuasnya NN - - Harga NN Spesial NNP 75.000 CDP 
+discount: 75.000, null
+entity: Timezone 
+1260 JYSK NN Special NNP Membercard NNP Promo NNP - - Diskon NN Tambahan NN 20% CDP & NN Gratis NNP Voucher NNP 
+discount: 20%, null
+entity: JYSK Special Membercard 
+1261 Dairy NN Queen NNP Special FW Monday FW Deal NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Deal 
+1262 Dairy NN Queen NNP Special FW Monday FW Deal NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Deal 
+1263 Electronic NNP City NNP Asus NNP Special NNP Offers NNP - - Promo NNP Diskon NN Menarik VBT & NN Harga NN Spesial NNP 
+discount: null, null
+entity: Electronic City Asus Special Offers 
+1264 Timezone NN Promo NNP Main NNP Sepuasnya NN - - Harga NN Spesial NNP 75.000 CDP 
+discount: 75.000, null
+entity: Timezone 
+1265 Gandaria NN City NNP October NNP Birthday NNP Treats NNP - - Gratis NNP Voucher NNP 
+discount: null, null
+entity: null
+1266 White NN Brown NNP Electronic NNP Special NNP Member NNP Deal NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: White Brown Electronic Special Member Deal 
+1267 Pizza NNP Promo NNP Hidangan NN Utama NN Hemat NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Pizza 
+1268 Wendys NNP Promo NNP Menu NN Hemat NNP - - Harga NN Spesial NNP 13.636 CDP 
+discount: 13.636, null
+entity: Wendys 
+1269 X8 NNP Clothing NNP Promo NNP Harga NN Spesial NNP - - Mulai VBI Dari IN 89.000 CDP 
+discount: 89.000, null
+entity: X8 Clothing 
+1270 McDonalds NN Promo NNP Spesial NNP Delivery NNP Order NNP - - Gratis NNP BIG FW Mac NNP 
+discount: null, null
+entity: McDonalds 
+1271 White NN Brown NNP Electronic NNP Special NNP Member NNP Deal NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: White Brown Electronic Special Member Deal 
+1272 Mata NN Department NN Store NNP Activewear NNP Fair NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: null
+1273 X8 NNP Clothing NNP Promo NNP Harga NN Spesial NNP - - Mulai VBI Dari IN 89.000 CDP 
+discount: 89.000, null
+entity: X8 Clothing 
+1274 Pizza NNP Promo NNP Hidangan NN Utama NN Hemat NNP - - Diskon NN 50% CDP 
+discount: 50%, null
+entity: Pizza 
+1275 Wendys NNP Promo NNP Menu NN Hemat NNP - - Harga NN Spesial NNP 13.636 CDP 
+discount: 13.636, null
+entity: Wendys 
+1276 McDonalds NN Promo NNP Spesial NNP Delivery NNP Order NNP - - Gratis NNP BIG FW Mac NNP 
+discount: null, null
+entity: McDonalds 
+1277 Erafone NNP LG NNP G4 NNP Big FW Deal NNP - - Diskon NN 1.000.000 CDP 
+discount: 1.000.000, null
+entity: Deal 
+1278 Blibli NN Mega NNP Watch NNP Sale NNP - - Diskon NN 35% CDP 10% CDP 
+discount: 35%, null
+entity: Blibli Mega Watch Sale 
+1279 Blibli NN Rabu NN Cantik NNP Special NNP Promo NNP - - Diskon NN hingga CC 70% CDP 
+discount: 70%, null
+entity: Blibli Rabu Cantik Special 
+1280 LG NN K NN Roadshow NNP Special NNP Sale NNP - - Cashback NNP Hingga CC 1.000.000 CDP & NN Gratis NNP Hadiah NN 
+discount: null, null
+entity: null
+1281 Bata NN Super NNP Deal NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+1282 Breadtalk NN Special NNP Mandiri NNP 17th CDP Anniversary NNP Promo NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Anniversary 
+1283 KFC NN Promo NNP Delivery NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: KFC 
+1284 Calais NNP Tea NNP Spesial NN Rabu NN Hemat NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+1285 Lazada NN Super NNP Promo NNP - - Semua CDI dibawah VBT 150.000 CDP - - Belanja NNP aneka IN produk NN pilihan NN dengan IN promo NN semua NN dibawah VBT 
+discount: null, null
+entity: Lazada Super 
+1286 Blibli NN Mega NNP Watch NNP Sale NNP - - Diskon NN 35% CDP 10% CDP 
+discount: 35%, null
+entity: Blibli Mega Watch Sale 
+1287 Blibli NN Rabu NN Cantik NNP Special NNP Promo NNP - - Diskon NN hingga CC 70% CDP 
+discount: 70%, null
+entity: Blibli Rabu Cantik Special 
+1288 Calais NNP Tea NNP Spesial NN Rabu NN Hemat NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+1289 Breadtalk NN Special NNP Mandiri NNP 17th CDP Anniversary NNP Promo NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Anniversary 
+1290 Bata NN Super NNP Deal NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP - - Wah NNP dia PRP promo NN hemat JJ yang SC boleh MD kamu PRP lewatkan VBI begitu RB 
+discount: null, Beli 1 Gratis 1
+entity: Wah 
+1291 KFC NN Promo NNP Delivery NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: KFC 
+1292 Platinum NN Cineplex NNP Special NNP Promo NNP - - Beli NNP 1 CDP GRATIS NN 1 CDP 
+discount: null, Beli 1 GRATIS 1
+entity: Platinum Cineplex Special 
+1293 Lazada NN Shop NNP By NNP Size NNP Super NNP Promo NNP - - Diskon NN hingga CC 70% CDP 
+discount: 70%, null
+entity: Lazada Shop By Size Super 
+1294 Karen NN Millen NN Mid NN Season NN Sale NNP - - Diskon NN Sampai VBI Dengan IN 50% CDP 
+discount: 50%, null
+entity: Karen Millen Mid Season Sale 
+1295 Lazada NN Fantastic NNP Deal NNP - - Diskon NN 50% CDP 300.000 CDO Cashback NNP 10% CDP 
+discount: 50%, null
+entity: Lazada Fantastic Deal 
+1296 Super NNP Tuesday NNP Sale NNP - - Diskon NN 50% CDP 5% CDP 
+discount: 50%, null
+entity: Super Tuesday Sale 
+1297 Platinum NN Cineplex NNP Special NNP Promo NNP - - Beli NNP 1 CDP GRATIS NN 1 CDP 
+discount: null, Beli 1 GRATIS 1
+entity: Platinum Cineplex Special 
+1298 Erafone NNP Sony NNP Xperia NNP Series NNP Super NNP Sale NNP - - Harga NN Spesial NNP 4.749.000 CDP 
+discount: 4.749.000, null
+entity: Erafone Sony Xperia Series Super Sale 
+1299 Lazada NN Fantastic NNP Deal NNP - - Diskon NN 50% CDP 300.000 CDO Cashback NNP 10% CDP 
+discount: 50%, null
+entity: Lazada Fantastic Deal 
+1300 Super NNP Tuesday NNP Sale NNP - - Diskon NN 50% CDP 5% CDP 
+discount: 50%, null
+entity: Super Tuesday Sale 
+1301 Lazada NN Shop NNP By NNP Size NNP Super NNP Promo NNP - - Diskon NN hingga CC 70% CDP 
+discount: 70%, null
+entity: Lazada Shop By Size Super 
+1302 Erafone NNP Sony NNP Xperia NNP Series NNP Super NNP Sale NNP - - Harga NN Spesial NNP 4.749.000 CDP 
+discount: 4.749.000, null
+entity: Erafone Sony Xperia Series Super Sale 
+1303 Everbest NNP Super NNP Sale NNP - - Diskon NN Hingga CC 50% CDP - - Everbest NNP Super NN sale JJ is FW back FW di IN s NN kamu PRP bisa MD 
+discount: 50%, null
+entity: Everbest Super Sale 
+1304 Lazada NN Shop NNP By NNP Size NNP Super NNP Promo NNP - - Diskon NN hingga CC 70% CDP 
+discount: 70%, null
+entity: Lazada Shop By Size Super 
+1305 Super NNP Tuesday NNP Sale NNP - - Diskon NN 50% CDP 5% CDP 
+discount: 50%, null
+entity: Super Tuesday Sale 
+1306 Lazada NN Fantastic NNP Deal NNP - - Diskon NN 50% CDP 300.000 CDO Cashback NNP 10% CDP 
+discount: 50%, null
+entity: Lazada Fantastic Deal 
+1307 Snowbay NN Special NNP October NNP Promo NNP - - Diskon NN 40% CDP 
+discount: 40%, null
+entity: Snowbay Special October 
+1308 Metro NNP Department NN Store FW Home FW Appliances NNP Special NNP Sale NNP - - Diskon NN 70% CDP 
+discount: 70%, null
+entity: Appliances Special Sale 
+1309 Everbest NNP Super NNP Sale NNP - - Diskon NN Hingga CC 50% CDP 
+discount: 50%, null
+entity: Everbest Super Sale 
+1310 Sushi NNP Kios NNP K NNP Binusian NNP Special NNP Deal NNP - - Diskon NN 20% CDP 
+discount: 20%, null
+entity: Sushi Kios K Binusian Special Deal 
+1311 Share NNP Tea NNP Meeting NNP Package NNP Best NNP Deal NNP - - Harga NN Spesial NNP 30.000 CDP 
+discount: 30.000, null
+entity: Share Tea Meeting Package Best Deal 
+1312 Jobb NNP Zuper NNP Fantastic NNP Sale NNP - - Diskon NN Hingga CC 75% CDP 
+discount: 75%, null
+entity: Jobb Zuper Fantastic Sale 
+1313 Alfamart NNP Telkomsel NNP Promo NNP Isi NNP Ulang NN Pulsa NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Alfamart Telkomsel 
+1314 Adidas NN Super NNP Sale NNP - - Diskon NN Sampai VBI Dengan IN 70% CDP 
+discount: 70%, null
+entity: Adidas Super Sale 
+1315 Alfamart NNP Telkomsel NNP Promo NNP Isi NNP Ulang NN Pulsa NNP - - Gratis NNP Hadiah NN Langsung JJ 
+discount: null, null
+entity: Alfamart Telkomsel 
+1316 Share NNP Tea NNP Meeting NNP Package NNP Best NNP Deal NNP - - Harga NN Spesial NNP 30.000 CDP 
+discount: 30.000, null
+entity: Share Tea Meeting Package Best Deal 
+1317 Jobb NNP Zuper NNP Fantastic NNP Sale NNP - - Diskon NN Hingga CC 75% CDP 
+discount: 75%, null
+entity: Jobb Zuper Fantastic Sale 
+1318 Shabu NNP Slim NNP All NNP you NNP Can NNP Eat NNP Best NNP Deal NNP - - Diskon NN Hingga CC 30% CDP 
+discount: 30%, null
+entity: Shabu Slim All you Can Eat Best Deal 
+1319 Excelso NNP Breakfast NNP Special NNP Deal NNP - - Gratis NNP Black NNP Coffee NNP Ice NNP Tea NNP 
+discount: null, null
+entity: null
+1320 Mall NNP Kelapa NN Gading NN Branded NNP Super NNP Sale NNP - - Diskon NN 80% CDP 
+discount: 80%, null
+entity: Mall Kelapa Gading Branded Super Sale 
+1321 Camaieu NNP Special NNP Deal NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: null
+1322 Excelso NNP Breakfast NNP Special NNP Deal NNP - - Gratis NNP Black NNP Coffee NNP Ice NNP Tea NNP 
+discount: null, null
+entity: null
+1323 CGV NN Blitz NNP Promo NNP Snack NNP Attack NNP - - Diskon NN 20% CDP & NN Gratis NNP Upsize NN 
+discount: 20%, null
+entity: CGV Blitz 
+1324 Camaieu NNP Special NNP Deal NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP - - Ladies NNP jangan NEG sampai RB melewatkan VBT promo NN yang SC 1 CDP deh NN 
+discount: null, Beli 1 Gratis 1
+entity: Ladies 
+1325 Air FW Asia NNP Promo NNP Terbang VBI Hemat NNP - - Harga NN Mulai VBI Dari IN 1 CDP Dollar NNP 
+discount: 1, null
+entity: Asia 
+1326 Erafone NNP Special NNP Mandiri NNP Anniversary NNP Promo NNP - - Diskon NN Hingga CC 17% CDP 
+discount: 17%, null
+entity: Erafone Special Mandiri Anniversary 
+1327 Air FW Asia NNP Go NNP Promo NNP Travel NNP Super NNP Hemat NNP - - Tiket JJ Pesawat NN Mulai VBI 0 CDP 
+discount: null, null
+entity: Asia Go 
+1328 Hot NN Star NNP Promo NNP Family NNP Set NN - - Harga NN Spesial NNP 99.000 CDP 
+discount: 99.000, null
+entity: Hot Star 
+1329 Cinemaxx NN Theater FW BIG FW Combos NNP Special NNP Deal NNP - - Harga NN Mulai VBI 50.000 CDP 
+discount: 50.000, null
+entity: Combos Special Deal 
+1330 Erafone NNP Special NNP Mandiri NNP Anniversary NNP Promo NNP - - Diskon NN Hingga CC 17% CDP 
+discount: 17%, null
+entity: Erafone Special Mandiri Anniversary 
+1331 Mata NN Department NN Store NNP Promo NNP Belanja NNP Dobel NNP Diskon NNP - - Diskon NN 50% CDP 20% CDP 
+discount: 50%, null
+entity: Mata Department Store 
+1332 Cinemaxx NN Theater FW BIG FW Combos NNP Special NNP Deal NNP - - Harga NN Mulai VBI 50.000 CDP 
+discount: 50.000, null
+entity: Combos Special Deal 
+1333 Samsung NNP Erafone NNP Boom NNP Sale NNP - - Diskon NN 300.000 CDP 
+discount: 300.000, null
+entity: Samsung Erafone Boom Sale 
+1334 Lazada NN Super NNP Promo NNP - - Semua CDI dibawah VBT 150.000 CDP 
+discount: null, null
+entity: Lazada Super 
+1335 Mom NN s NN Day NNP Super NNP Sale NNP - - Diskon NN 77% CDP 
+discount: 77%, null
+entity: Mom s Day Super Sale 
+1336 Promo NNP Baby NN & NN Kids NNP - - Diskon NN 10% CDP 
+discount: 10%, null
+entity: Promo Baby & Kids 
+1337 Dominos NN Pizza NNP Promo NNP Senin NN & NN Rabu NN - - Beli NNP 1 CDP Gratis NNP 1 CDP 
+discount: null, Beli 1 Gratis 1
+entity: Dominos Pizza 
+1338 Vivere NNP Collection NNP Spesial NNP Year NNP End NNP Sale NNP - - Diskon NN 25% CDP & NN Beli NNP 2 CDP Gratis NNP 1 CDP 
+discount: 25%, Beli 2 Gratis 1
+entity: Vivere Collection Spesial Year End Sale 
+1339 Blibli NN Octopay NNP Super NNP Promo NNP - - Diskon NN hingga CC 65% CDP 5.000 CDP 
+discount: 65%, null
+entity: Blibli Octopay Super 
+1340 Samsung NNP Erafone NNP Boom NNP Sale NNP - - Diskon NN 300.000 CDP - - Sudah MD bosan NN dengan IN smartphone NN lama JJ anda NN beli VBT Samsung NNP 
+discount: 300.000, null
+entity: Samsung Erafone Boom Sale 
+1341 Dominos NN Pizza NNP Promo NNP Senin NN & NN Rabu NN - - Beli NNP 1 CDP Gratis NNP 1 CDP - - Setiap DT senin NN dan CC rabu NN selalu RB ada VBI promo NN seru JJ dari IN 
+discount: null, Beli 1 Gratis 1
+entity: Dominos Pizza 
+1342 Es NN Teler NN 77 CDP Promo NNP Menu NN Hemat NNP Bebek NNP Goreng NNP - - Harga NN 45.000 CDP 
+discount: 45.000, null
+entity: Es Teler 
+1343 Lazada NN Special NNP Promotion NNP SALE NNP - - Diskon NN Hingga CC 95% CDP - - Ayo NNP jangan NEG sampai VBT ketinggalan NN jangan NEG sampai VBT 
+discount: 95%, null
+entity: Lazada Special Promotion SALE 
+1344 Campina NNP Promo NNP Family NNP Pack NNP - - Harga NN Spesial NNP 100.000 CDP 
+discount: 100.000, null
+entity: Campina 
+1345 Eprise NNP Special NNP Sale NNP - - Diskon NN Hingga CC 80% CDP - - Kunjungi NN store NN Eprise NN sekarang NN deh NN dan CC nikmati NNP promo NN belanja NN 
+discount: 80%, null
+entity: Eprise Special Sale 
+1346 Weekend NN Batik NN Super NNP Promo NNP - - Diskon NN Hingga CC 70% CDP 
+discount: 70%, null
+entity: Weekend Batik Super 
+1347 Samsung NNP Erafone NNP Boom NNP Sale NNP - - Diskon NN 300.000 CDP 
+discount: 300.000, null
+entity: Samsung Erafone Boom Sale 
+1348 Lazada NN Super NNP Promo NNP - - Semua CDI dibawah VBT 150.000 CDP 
+discount: null, null
+entity: Lazada Super 
+1349 Mom NN s NN Day NNP Super NNP Sale NNP - - Diskon NN 77% CDP 
+discount: 77%, null
+entity: Mom s Day Super Sale 
+1350 Promo NNP Baby NN & NN Kids NNP - - Diskon NN 10% CDP 
+discount: 10%, null
+entity: Promo Baby & Kids 

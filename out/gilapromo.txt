@@ -1,101 +1,101 @@
 1 content NN original NN id NN from NN date NN created NNP sentiment VBT original NN sentiment NN  discount: null, null
-2 GilaPromoDotCom NN Shabu NNP Shaburi NNP Promo NNP Opening NNP EmporiumPluit NNP 662166753665921024 CDP musthofanahra NN 2015-11-05 CDP 14 CDP 17 CDP 11 CDP  discount: null, null
-3 GilaPromoDotCom NN Sport NN Station NN 2 CDP Weeks NN Sale NNP - - Diskon NN Hingga CC 30% CDP 662166642923667456 CDP musthofanahra NN 2015-11-05 CDP 14 CDP 16 CDP 44 CDP  discount: 30%, null
-4 GilaPromoDotCom NN Nutrimart NNP Special NNP Deal NNP - - Gratis NNP Upsize NN 662166482097303552 CDP musthofanahra NN 2015-11-05 CDP 14 CDP 16 CDP 06 CDP  discount: null, null
-5 Soooooo NNP GilaPromoDotCom NNP Erafone NNP Samsung FW Great FW Deal NNP - - Cashback NNP 500.000 CDP 662166459821375488 CDP musthofanahra NN 2015-11-05 CDP 14 CDP 16 CDP 01 CDP  discount: null, null
-6 GilaPromoDotCom NN Sony NNP Xperia NNP Great FW Offers NNP - - Gratis NNP Voucher NNP Zalora NNP 662166408462102529 CDP musthofanahra NN 2015-11-05 CDP 14 CDP 15 CDP 48 CDP  discount: null, null
-7 GilaPromoDotCom NN Traveloka NNP Promo NNP Hotel NN Hemat NNP - - Diskon NN 72% CDP 662166330758467584 CDP musthofanahra NN 2015-11-05 CDP 14 CDP 15 CDP 30 CDP  discount: 72%, null
+2 Shabu NNP Shaburi NNP Promo NNP Opening NNP 662166753665921024 CDP musthofanahra NN 2015-11-05 CDP 14 CDP 17 CDP 11 CDP  discount: null, null
+3 Sport NN Station NN 2 CDP Weeks NN Sale NNP - - Diskon NN Hingga CC 30% CDP 662166642923667456 CDP musthofanahra NN 2015-11-05 CDP 14 CDP 16 CDP 44 CDP  discount: 30%, null
+4 Nutrimart NNP Special NNP Deal NNP - - Gratis NNP Upsize NN 662166482097303552 CDP musthofanahra NN 2015-11-05 CDP 14 CDP 16 CDP 06 CDP  discount: null, null
+5 Soooooo NNP Erafone NNP Samsung FW Great FW Deal NNP - - Cashback NNP 500.000 CDP 662166459821375488 CDP musthofanahra NN 2015-11-05 CDP 14 CDP 16 CDP 01 CDP  discount: null, null
+6 Sony NNP Xperia NNP Great FW Offers NNP - - Gratis NNP Voucher NNP Zalora NNP 662166408462102529 CDP musthofanahra NN 2015-11-05 CDP 14 CDP 15 CDP 48 CDP  discount: null, null
+7 Traveloka NN Promo NNP Hotel NN Hemat NNP - - Diskon NN 72% CDP 662166330758467584 CDP musthofanahra NN 2015-11-05 CDP 14 CDP 15 CDP 30 CDP  discount: 72%, null
 8  discount: null, null
-9 GilaPromoDotCom NN Cinemaxx NNP Theater NNP Promo NNP Hello NNP November NN - - Beli NNP 2 CDP Gratis NNP 1 CDP 662113407387111424 CDP musthofanahra NN 2015-11-05 CDP 10 CDP 45 CDP 12 CDP  discount: null, Beli 2 Gratis 1
-10 GilaPromoDotCom NN Es NN Teler NN 77 CDP Promo NNP Spesial NNP Delivery NNP - - Gratis NNP Hadiah NN Langsung JJ 662113353741922304 CDP musthofanahra NN 2015-11-05 CDP 10 CDP 44 CDP 59 CDP  discount: null, null
-11 Beuhhh NNP GilaPromoDotCom NNP Philips NNP Eaone NNP Mega NNP Sale NNP - - Diskon NN 50% CDP 662113254194331649 CDP musthofanahra NN 2015-11-05 CDP 10 CDP 44 CDP 35 CDP  discount: 50%, null
-12 GilaPromoDotCom NN Global NNP Teleshop NNP Special NNP deal CDP - - Cashback NNP Hingga CC 2.000.000 CDP & NN Gratis NNP Voucher NNP 662113234648887296 CDP musthofanahra NN 2015-11-05 CDP 10 CDP 44 CDP 31 CDP  discount: null, null
-13 GilaPromoDotCom NN Global NNP Teleshop NNP Xiaomi NNP Special NNP Deal NNP - - Harga NN Spesial NN 282.000 CDP 661739458912321536 CDP musthofanahra NN 2015-11-04 CDP 09 CDP 59 CDP 16 CDP  discount: 282.000, null
-14 GilaPromoDotCom NN Wellcomm NNP Shop NNP Promo NNP Spesial NNP Aksesoris NNP - - Diskon NN 70% CDP 661739436959404032 CDP musthofanahra NN 2015-11-04 CDP 09 CDP 59 CDP 10 CDP  discount: 70%, null
-15 GilaPromoDotCom NN Dominos NN Pizza NNP Promo NNP Menu NN Terbaru JJ - - Cheesy NNP Bread NN 27.727 CDP 661739369821110272 CDP musthofanahra NN 2015-11-04 CDP 09 CDP 58 CDP 54 CDP  discount: null, null
-16 GilaPromoDotCom NN Alfamart NNP Promo NNP Belanja NNP Minyak NN Goreng NNP - - Harga NN Mulai VBI Dari IN 20.900 CDP 661739354281279489 CDP musthofanahra NN 2015-11-04 CDP 09 CDP 58 CDP 51 CDP  discount: 20.900, null
-17 GilaPromoDotCom NN Blibli NNP Promo NNP Rabu NN Cantik NNP Best NNP Deal NNP - - Diskon NN Hingga CC 70% CDP 661739337399189505 CDP musthofanahra NN 2015-11-04 CDP 09 CDP 58 CDP 47 CDP  discount: 70%, null
-18 GilaPromoDotCom NN Blibli NNP Shoes NNP Super NNP Sale NNP - - Diskon NN Hingga CC 70% CDP 661739324883386368 CDP musthofanahra NN 2015-11-04 CDP 09 CDP 58 CDP 44 CDP  discount: 70%, null
-19 GilaPromoDotCom NN Lazada NNP Promo NNP Gebyar NN Hari NN Ayah NNP - - Diskon NN Hingga CC 80% CDP 661739309322498048 CDP musthofanahra NN 2015-11-04 CDP 09 CDP 58 CDP 40 CDP  discount: 80%, null
-20 GilaPromoDotCom NN 250RB CDP 50RB CDP pulsa NN Telkomsel NNP jk NN km NN Trade FW in FW HP NN 2G CDP dg NN baru JJ di IN telesindoshop NN 661732138350329856 CDP Migrasi3G NN 2015-11-04 CDP 09 CDP 30 CDP 10 CDP  discount: null, null
-21 YHA NNP GilaPromoDotCom NN Es NN Teler NN November NN Hemat NNP - - Harga NN Mulai VBI Dari IN 22.000 CDP 661469636207087616 CDP Syeikh NN JhonRoe NN 2015-11-03 CDP 16 CDP 07 CDP 05 CDP  discount: 22.000, null
-22 YHA NNP GilaPromoDotCom NNP Waterboom NNP Jakarta NNP Promo NNP Spesial NN November NN 661469541512318976 CDP Syeikh NN JhonRoe NN 2015-11-03 CDP 16 CDP 06 CDP 42 CDP  discount: null, null
-23 GilaPromoDotCom NN Matahari NN Mall NNP Further NNP Reduction NNP Sale NNP - - Diskon NN Hingga CC 90% CDP 661469174254862337 CDP musthofanahra NN 2015-11-03 CDP 16 CDP 05 CDP 15 CDP  discount: 90%, null
-24 GilaPromoDotCom NN Es NN Teler NN November NN Hemat NNP - - Harga NN Mulai VBI Dari IN 22.000 CDP 661469167023853568 CDP musthofanahra NN 2015-11-03 CDP 16 CDP 05 CDP 13 CDP  discount: 22.000, null
-25 GilaPromoDotCom NN Share NNP Tea NNP Special NNP Deal NNP - - Promo NNP Beli NNP 1 CDP Gratis NNP 1 CDP 661469163622240256 CDP musthofanahra NN 2015-11-03 CDP 16 CDP 05 CDP 12 CDP  discount: null, Beli 1 Gratis 1
-26 GilaPromoDotCom NN Waterboom NNP Jakarta NNP Promo NNP Spesial NNP November NN - - Diskon NN 50% CDP & NN Beli NNP 1 CDP Dapat MD 3 CDP 661469120420933632 CDP musthofanahra NN 2015-11-03 CDP 16 CDP 05 CDP 02 CDP  discount: 50%, 
-27 Hmpftttt NN GilaPromoDotCom NN Matahari NN Mall NNP Further NNP Reduction NNP Sale NNP - - Diskon NN Hingga CC 90% CDP 661469099201957888 CDP musthofanahra NN 2015-11-03 CDP 16 CDP 04 CDP 57 CDP  discount: 90%, null
-28 YHA NNP GilaPromoDotCom NNP Polo NNP Ralph NNP Lauren NNP Special NNP Deal NNP - - Diskon NN 58% CDP 661455027379154944 CDP Syeikh NN JhonRoe NN 2015-11-03 CDP 15 CDP 09 CDP 02 CDP  discount: 58%, null
-29 YHA NNP GilaPromoDotCom NN Seaworld NN Ancol NNP Indomaret NNP Promo NNP Tiket JJ Masuk VBT - - 661454947850956800 CDP Syeikh NN JhonRoe NN 2015-11-03 CDP 15 CDP 08 CDP 43 CDP  discount: null, null
-30 Beuhh NNP GilaPromoDotCom NNP Metro NNP Department NN Store NNP Beauty NNP Fair NNP Great FW Deal NN 661435424900911105 CDP musthofanahra NN 2015-11-03 CDP 13 CDP 51 CDP 08 CDP  discount: null, null
-31 GilaPromoDotCom NN Metro NNP Department NN Store NNP Beauty NNP Fair NNP Great FW Deal NNP - - Diskon NN Hingga CC 70% CDP & NN Gratis NNP Voucher NNP 661435287420076032 CDP musthofanahra NN 2015-11-03 CDP 13 CDP 50 CDP 36 CDP  discount: 70%, null
-32 GilaPromoDotCom NN McDonalds NN Fish NN Fillet NN Burger NN Special NNP Deal NNP - - Promo NNP Harga NN Spesial NN 661435267748724736 CDP musthofanahra NN 2015-11-03 CDP 13 CDP 50 CDP 31 CDP  discount: 661435267748724736, null
-33 GilaPromoDotCom NN Optik NN Seis NN Special NN November NN Deal NNP - - Diskon NN 30% CDP 661435251789402112 CDP musthofanahra NN 2015-11-03 CDP 13 CDP 50 CDP 27 CDP  discount: 30%, null
-34 GilaPromoDotCom NN PHD NN Pizza NNP Hut NNP Promo NNP Makan VBT Bareng NNP - - Menu NN Hemat NN Ber-10 CDP 360.000 CDP 661435173704085504 CDP musthofanahra NN 2015-11-03 CDP 13 CDP 50 CDP 08 CDP  discount: null, null
-35 GilaPromoDotCom NN Matahari NN Mall NNP Further NN Reduction NN Sale NN 661435159636381696 CDP musthofanahra NN 2015-11-03 CDP 13 CDP 50 CDP 05 CDP  discount: null, null
-36 GilaPromoDotCom NN dptkan NN 250RB CDP 50RB CDP pulsa NN Telkomsel NNP jk NN km NN mlakukan NN Trade-in NN HP NN 2G JJ di IN telesindoshop NN . . S&K NNP 661416285108989952 CDP Migrasi3G NN 2015-11-03 CDP 12 CDP 35 CDP 05 CDP  discount: null, null
-37 Beuhh NNP GilaPromoDotCom NNP Pizza NNP Hut NNP Special NNP Promo NNP - - Diskon NN 40% CDP 661394957672906753 CDP musthofanahra NN 2015-11-03 CDP 11 CDP 10 CDP 20 CDP  discount: 40%, null
-38 GilaPromoDotCom NN Pizza NNP Hut NNP Special NNP Promo NNP - - Diskon NN 40% CDP 661394033328185344 CDP musthofanahra NN 2015-11-03 CDP 11 CDP 06 CDP 40 CDP  discount: 40%, null
-39 GilaPromoDotCom NN Baso NN Malang NNP Karapitan NNP Promo NNP Makan VBT Hemat- NNP Diskon NN 200.000 CDP 661394013824548864 CDP musthofanahra NN 2015-11-03 CDP 11 CDP 06 CDP 35 CDP  discount: 200.000, null
-40 GilaPromoDotCom NN Elevenia NNP Special NNP Offers NNP - - Diskon NN 100.000 CDP 661394005771485184 CDP musthofanahra NN 2015-11-03 CDP 11 CDP 06 CDP 33 CDP  discount: 100.000, null
-41 GilaPromoDotCom NN Domino NN Pizza NNP Best NNP Deal NNP - - Promo NNP Beli NNP 1 CDP Gratis NNP 1 CDP 661393972321910785 CDP musthofanahra NN 2015-11-03 CDP 11 CDP 06 CDP 25 CDP  discount: null, Beli 1 Gratis 1
-42 GilaPromoDotCom NN Lazada NN Super NN Selasa NN - - Diskon NN hingga CC 50% CDP Xtra NNP Diskon NN 300.000 CDP 661393958807822336 CDP musthofanahra NN 2015-11-03 CDP 11 CDP 06 CDP 22 CDP  discount: 50%, null
-43 GilaPromoDotCom NN Elevenia NNP Special NNP Offers NNP - - Diskon NN 100.000 CDP 661393929191845888 CDP musthofanahra NN 2015-11-03 CDP 11 CDP 06 CDP 15 CDP  discount: 100.000, null
-44 GilaPromoDotCom NN Erafone NNP Xiaomi NNP Great FW Deal NNP - - Harga NN Spesial NN 2.949.000 CDP 661393915023507456 CDP musthofanahra NN 2015-11-03 CDP 11 CDP 06 CDP 12 CDP  discount: 2.949.000, null
-45 GilaPromoDotCom NN Kyochon NN Restaurant NN Spesial NNP Deal NNP - - Diskon NN 15% CDP 661393874586218496 CDP musthofanahra NN 2015-11-03 CDP 11 CDP 06 CDP 02 CDP  discount: 15%, null
-46 GilaPromoDotCom NN Dominos NN Pizza NNP Promo NNP Spesial NNP Add NNP On FW - - Diskon NN 64% CDP 661393860887621632 CDP musthofanahra NN 2015-11-03 CDP 11 CDP 05 CDP 59 CDP  discount: 64%, null
-47 GilaPromoDotCom NN Hoka NN Hoka NNP Bento NNP Promo NNP Eat NNP Fish NNP - - Harga NN Heboh NN 15.000 CDP 661393848220807168 CDP musthofanahra NN 2015-11-03 CDP 11 CDP 05 CDP 56 CDP  discount: 15.000, null
-48 GilaPromoDotCom NN Les NN Femmes NNP Special NNP Offers NNP - - Tambah RB 50.000 CDO Dapat MD 2 CDP Item NN 661393795594846210 CDP musthofanahra NN 2015-11-03 CDP 11 CDP 05 CDP 43 CDP  discount: null, null
-49 GilaPromoDotCom NN Kompas NN Gramedia NNP Promo NNP Membercard NNP - - Diskon NN Hingga CC 50% CDP 661393772962410496 CDP musthofanahra NN 2015-11-03 CDP 11 CDP 05 CDP 38 CDP  discount: 50%, null
-50 GilaPromoDotCom NN Hoka NN Hoka NNP Bento NNP Promo NNP Eat NNP Fish NNP - - Harga NN Heboh NN 15.000 CDP 661393748371202048 CDP musthofanahra NN 2015-11-03 CDP 11 CDP 05 CDP 32 CDP  discount: 15.000, null
-51 GilaPromoDotCom NN Domino NN Pizza NNP Best NNP Deal NNP - - Promo NNP Beli NNP 1 CDP Gratis NNP 1 CDP 661349520345661440 CDP musthofanahra NN 2015-11-03 CDP 08 CDP 09 CDP 47 CDP  discount: null, Beli 1 Gratis 1
-52 GilaPromoDotCom NN Electronic NNP City NNP Spooktacular NNP LED NNP Suise NNP - - Cashback NNP Hingga CC 20.000.000 CDP 661349470190243840 CDP musthofanahra NN 2015-11-03 CDP 08 CDP 09 CDP 35 CDP  discount: null, null
-53 Beuhhhhh NNP GilaPromoDotCom NNP Lotteria NNP Promo NNP Menu NN Hemat FW BIG FW Smile NNP - - Harga NN Mulai VBI Dari IN 10.000 CDP 661085441332932608 CDP musthofanahra NN 2015-11-02 CDP 14 CDP 40 CDP 26 CDP  discount: 10.000, null
-54 GilaPromoDotCom NN LG NNP Suise NNP Deal NNP - - Cashback NNP Hingga CC 1.300.000 CDP 661085220645441536 CDP musthofanahra NN 2015-11-02 CDP 14 CDP 39 CDP 33 CDP  discount: null, null
-55 GilaPromoDotCom NN A&W NN Restaurant NN Promo NNP Awesome NNP American NNP - - Menu NN Hemat NN Mulai VBI Dari IN 12.000an CDP 661025390400372736 CDP musthofanahra NN 2015-11-02 CDP 10 CDP 41 CDP 48 CDP  discount: null, null
-56 GilaPromoDotCom NN KFC NN Promo NNP Santap NNP Hemat NNP Sepanjang RB Tahun NN - - Diskon NN 20.000 CDP 661025370796261376 CDP musthofanahra NN 2015-11-02 CDP 10 CDP 41 CDP 44 CDP  discount: 20.000, null
-57 GilaPromoDotCom NN Dcost NN Restaurant NN Promo NNP Delivery NNP - - Harga NN Mulai VBI Dari IN 16.000 CDP 661025351900917760 CDP musthofanahra NN 2015-11-02 CDP 10 CDP 41 CDP 39 CDP  discount: 16.000, null
-58 GilaPromoDotCom NN Carrefour NNP Telkomsel NNP Promo NNP Isi NNP Ulang NN Pulsa NNP - - Gratis NNP Hadiah NN Langsung JJ 661025334150606849 CDP musthofanahra NN 2015-11-02 CDP 10 CDP 41 CDP 35 CDP  discount: null, null
-59 Follow NN Back NN GilaPromo NN GilaPromoDotCom NN Solaria NNP Telkomsel NNP Special NNP Deal NNP - - Gratis NNP Voucher NNP Makan VBT 660793774302343168 CDP HariPermai NN 2015-11-01 CDP 19 CDP 21 CDP 27 CDP  discount: null, null
-60 Beh NNP hajar VBI deh NN ya UH GilaPromoDotCom NNP Blibli NNP Promo NNP Pesta NN Kostum NN Anak NN - - Diskon NN Hingga CC 70% CDP 660743688398569476 CDP musthofanahra NN 2015-11-01 CDP 16 CDP 02 CDP 25 CDP  discount: 70%, null
-61 GilaPromoDotCom NN Cinemaxx NNP Theater NNP Promo NNP Nonton NNP Hemat NNP - - Beli NNP 2 CDP Gratis NNP 1 CDP 659937230727725058 CDP musthofanahra NN 2015-10-30 CDP 10 CDP 37 CDP 51 CDP  discount: null, Beli 2 Gratis 1
-62 GilaPromoDotCom NN Carls NNP Jr NN Promo NNP Jumat NN Hemat NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 659937168542953472 CDP musthofanahra NN 2015-10-30 CDP 10 CDP 37 CDP 36 CDP  discount: null, Beli 1 Gratis 1
-63 GilaPromoDotCom NN Acer NNP Indocomtech NNP 2015 CDP Special NN Deal NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP Dan CC Cashback NNP 500.000 CDP 659937141573554177 CDP musthofanahra NN 2015-10-30 CDP 10 CDP 37 CDP 30 CDP  discount: null, Beli 1 Gratis 1
-64 GilaPromoDotCom NN G2000 NN Special NNP Halloween NNP Sale NNP - - Diskon NN 50% CDP 659937099169185792 CDP musthofanahra NN 2015-10-30 CDP 10 CDP 37 CDP 20 CDP  discount: 50%, null
-65 GilaPromoDotCom NN Colorbox NNP Special NNP Deal NNP - - Gratis NNP Hadiah NN Langsung JJ 659937063668576256 CDP musthofanahra NN 2015-10-30 CDP 10 CDP 37 CDP 11 CDP  discount: null, null
-66 GilaPromoDotCom NN Fish NN & NN Co NNP Special NNP Offers NNP - - Diskon NN 15% CDP 659937050997616642 CDP musthofanahra NN 2015-10-30 CDP 10 CDP 37 CDP 08 CDP  discount: 15%, null
-67 GilaPromoDotCom NN Blibli NNP Promo NNP Spesial NN Kamis NN Ganteng NNP - - Diskon NN Sampai VBI Dengan IN 74% CDP 659653126778056704 CDP musthofanahra NN 2015-10-29 CDP 15 CDP 48 CDP 55 CDP  discount: 74%, null
-68 GilaPromoDotCom NN Mango NNP Mid-Season NNP Sale NNP - - Diskon NN Hingga CC 50% CDP 659653091088699392 CDP musthofanahra NN 2015-10-29 CDP 15 CDP 48 CDP 47 CDP  discount: 50%, null
-69 GilaPromoDotCom NN Okeshop NNP Promo NNP Seru NNP Dan CC Rame NNP - - Gebyar NN Diskon NN & NN Harga NN Spesial NN 659653074739290112 CDP musthofanahra NN 2015-10-29 CDP 15 CDP 48 CDP 43 CDP  discount: 659653074739290112, null
-70 GilaPromoDotCom NN Lazada NNP Promo NNP Men NN s NN And FW Women NNP s IN Best NNP Sellers NN - - Diskon NN Hingga CC 90% CDP 659653048571031552 CDP musthofanahra NN 2015-10-29 CDP 15 CDP 48 CDP 37 CDP  discount: 90%, null
-71 GilaPromoDotCom NN Supermall NNP Karawaci NNP Extravagan NNP Sale NNP - - Diskon NN Hingga CC 60% CDP 10% CDP 659653024294408192 CDP musthofanahra NN 2015-10-29 CDP 15 CDP 48 CDP 31 CDP  discount: 60%, null
-72 GilaPromoDotCom NN Mango NNP Mid-Season NNP Sale NNP - - Diskon NN Hingga CC 50% CDP 659653011640225792 CDP musthofanahra NN 2015-10-29 CDP 15 CDP 48 CDP 28 CDP  discount: 50%, null
-73 GilaPromoDotCom NN Blibli NNP Promo NNP Spesial NN Kamis NN Ganteng NNP - - Diskon NN Sampai VBI Dengan IN 74% CDP 659652980703035392 CDP musthofanahra NN 2015-10-29 CDP 15 CDP 48 CDP 21 CDP  discount: 74%, null
-74 GilaPromoDotCom NN Infinite NN Special NNP Indocomtech NNP 2015 CDP Deal NNP - - Diskon NN Hingga CC 500.000 CDP 659652958263443456 CDP musthofanahra NN 2015-10-29 CDP 15 CDP 48 CDP 15 CDP  discount: 500.000, null
-75 GilaPromoDotCom NN Lazada NNP Promo NNP Lensa NNP Super NNP Deal NNP - - Diskon NN Hingga CC 50% CDP 659652941427507200 CDP musthofanahra NN 2015-10-29 CDP 15 CDP 48 CDP 11 CDP  discount: 50%, null
-76 GilaPromoDotCom NN Zalora NNP Halloween NNP Boom NNP Sale NNP - - Gebyar NN Diskon NN Harga NN Special NN 659652921060036608 CDP musthofanahra NN 2015-10-29 CDP 15 CDP 48 CDP 06 CDP  discount: 659652921060036608, null
-77 Beuhhh NNP sikattttt NN GilaPromoDotCom NN Supermall NNP Karawaci NNP Extravagan NNP Sale NNP - - Diskon NN Hingga CC 60% CDP 10% CDP 659652859684761600 CDP musthofanahra NN 2015-10-29 CDP 15 CDP 47 CDP 52 CDP  discount: 60%, null
-78 GilaPromoDotCom NN LELE NN THE FW LORD FW OF FW THE FW RINGS NN IDR NN 15K CDP 15.000 CDP - - Call NNP SMS NN WA NN 085-646-777-454 CDP BBM NN 75A6DA49 NN 659611050224975876 CDP whiteMLG NN 2015-10-29 CDP 13 CDP 01 CDP 44 CDP  discount: null, null
-79 GilaPromoDotCom NN Et NNP Cetera NNP Promo NNP Spesial NNP - - Diskon NN 100.000 CDP 659576871055548416 CDP musthofanahra NN 2015-10-29 CDP 10 CDP 45 CDP 55 CDP  discount: 100.000, null
-80 GilaPromoDotCom NN KFC NN Promo NNP Menu NN Baru NNP - - Harga NN 5.000 CDP 659576855989645312 CDP musthofanahra NN 2015-10-29 CDP 10 CDP 45 CDP 51 CDP  discount: 5.000, null
-81 GilaPromoDotCom NN Flash NN Deal NN Meizu NN M2 NN 659576846309199872 CDP musthofanahra NN 2015-10-29 CDP 10 CDP 45 CDP 49 CDP  discount: null, null
-82 GilaPromoDotCom NN Lazada NNP Alcatel NNP Flash NNP Sale NNP - - Promo NNP Harga NN Special NNP Mantap NNP 659576799135793152 CDP musthofanahra NN 2015-10-29 CDP 10 CDP 45 CDP 37 CDP  discount: 659576799135793152, null
-83 GilaPromoDotCom NN Emax NNP Special NNP Indocomtech NNP 2015 CDP Deal NNP - - Cashback NNP 2.000.000 CDP 659576772883673088 CDP musthofanahra NN 2015-10-29 CDP 10 CDP 45 CDP 31 CDP  discount: null, null
-84 GilaPromoDotCom NN Electronic NNP Solution NNP 10th CDP Anniversary NNP Promo NNP - - Aneka NNP Diskon NN & NN Harga NN Spesial NN 659576746392485888 CDP musthofanahra NN 2015-10-29 CDP 10 CDP 45 CDP 25 CDP  discount: 659576746392485888, null
-85 GilaPromoDotCom NNP Excelso FW BIG FW Deal NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 659576737873817600 CDP musthofanahra NN 2015-10-29 CDP 10 CDP 45 CDP 23 CDP  discount: null, Beli 1 Gratis 1
-86 GilaPromoDotCom NN Et NNP Cetera NNP Promo NNP Spesial NNP - - Diskon NN 100.000 CDP 659576736045117440 CDP musthofanahra NN 2015-10-29 CDP 10 CDP 45 CDP 22 CDP  discount: 100.000, null
-87 GilaPromoDotCom NN Hot NN Wheels FW THE FW FLINTSTONES FW THE FW FLINTMOBILE NN 90.000 CDP - - Call NNP SMS NN WA NN 085-646-777-454 CDP BBM NN 75A6DA49 NN 659249582136668164 CDP whiteMLG NN 2015-10-28 CDP 13 CDP 05 CDP 23 CDP  discount: null, null
-88 GilaPromoDotCom NN X8 NNP Clothing NN Penawaran NN Spesial NNP - - Gratis NNP Hadiah NN Langsung JJ 659201604965416960 CDP musthofanahra NN 2015-10-28 CDP 09 CDP 54 CDP 44 CDP  discount: null, null
-89 GilaPromoDotCom NN Calais NNP Tea NNP Promo NNP Super NNP Mantap NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 659201535922974721 CDP musthofanahra NN 2015-10-28 CDP 09 CDP 54 CDP 28 CDP  discount: null, Beli 1 Gratis 1
-90 GilaPromoDotCom NN Chatime NNP Promo NNP Halloween NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 659201514947264512 CDP musthofanahra NN 2015-10-28 CDP 09 CDP 54 CDP 23 CDP  discount: null, Beli 1 Gratis 1
-91 GilaPromoDotCom NN Debenhams NN Special NNP Sale NNP - - Diskon NN 20% CDP 10% CDP 659201512539684865 CDP musthofanahra NN 2015-10-28 CDP 09 CDP 54 CDP 22 CDP  discount: 20%, null
-92 GilaPromoDotCom NN dptkan NN 250RB CDP 50RB CDP pulsa NN telkomsel NN jk NN km NN mlakukan NN Trade-in NN HP NN 2G JJ di IN telesindoshop NN . . S&K NNP 658987653929553920 CDP Migrasi3G NN 2015-10-27 CDP 19 CDP 44 CDP 34 CDP  discount: null, null
-93 Bwuhhh NN GilaPromoDotCom NN Payless NNP Shoesource NNP Semi CC Annual NNP Sale NNP - - Diskon NN 40% CDP 658946053446569984 CDP musthofanahra NN 2015-10-27 CDP 16 CDP 59 CDP 16 CDP  discount: 40%, null
-94 blahh NNP GilaPromoDotCom NN Dorothy NN Perkins NN Further FW Reductions FW Great FW Sale NNP - - Diskon NN Hingga CC 50% CDP 658936842276896768 CDP musthofanahra NN 2015-10-27 CDP 16 CDP 22 CDP 40 CDP  discount: 50%, null
-95 Kuy NN lahhhhhh NN GilaPromoDotCom NN Klik NN Indomaret NNP Promo NNP Belanja NNP Hemat NNP 658931289890795521 CDP musthofanahra NN 2015-10-27 CDP 16 CDP 00 CDP 36 CDP  discount: null, null
-96 GilaPromoDotCom NN Dorothy NN Perkins NN Further FW Reductions FW Great FW Sale NNP - - Diskon NN Hingga CC 50% CDP 658931280692707328 CDP musthofanahra NN 2015-10-27 CDP 16 CDP 00 CDP 34 CDP  discount: 50%, null
-97 GilaPromoDotCom NN Donita NN Special NNP Offers NNP - - Promo NNP Beli NNP 1 CDP Gratis NNP 1 CDP 658931263382798336 CDP musthofanahra NN 2015-10-27 CDP 16 CDP 00 CDP 30 CDP  discount: null, Beli 1 Gratis 1
-98 GilaPromoDotCom NN eStore NN Promo NNP Oktober NNP Heboh NNP - - Diskon NN 2.000.000 CDP 658931252712501248 CDP musthofanahra NN 2015-10-27 CDP 16 CDP 00 CDP 27 CDP  discount: 2.000.000, null
-99 GilaPromoDotCom NN Payless NNP Shoesource NNP Semi CC Annual NNP Sale NNP - - Diskon NN 40% CDP 658931223327215617 CDP musthofanahra NN 2015-10-27 CDP 16 CDP 00 CDP 20 CDP  discount: 40%, null
-100 GilaPromoDotCom NN Matahari NN Department NN Store NNP Promo NNP Spesial NN Ulang NN Tahun NN - - Beli NNP T-Shirt NN 15.000 CDP 658931073464729601 CDP musthofanahra NN 2015-10-27 CDP 15 CDP 59 CDP 44 CDP  discount: null, 
-101 GilaPromoDotCom NN Tonga NNP Super NNP Sale NNP - - Diskon NN Hingga CC 70% CDP 658931057970954240 CDP musthofanahra NN 2015-10-27 CDP 15 CDP 59 CDP 41 CDP  discount: 70%, null
+9 Cinemaxx NN Theater NNP Promo NNP Hello NNP November NN - - Beli NNP 2 CDP Gratis NNP 1 CDP 662113407387111424 CDP musthofanahra NN 2015-11-05 CDP 10 CDP 45 CDP 12 CDP  discount: null, Beli 2 Gratis 1
+10 Es NN Teler NN 77 CDP Promo NNP Spesial NNP Delivery NNP - - Gratis NNP Hadiah NN Langsung JJ 662113353741922304 CDP musthofanahra NN 2015-11-05 CDP 10 CDP 44 CDP 59 CDP  discount: null, null
+11 Beuhhh NNP Philips NNP Eaone NNP Mega NNP Sale NNP - - Diskon NN 50% CDP 662113254194331649 CDP musthofanahra NN 2015-11-05 CDP 10 CDP 44 CDP 35 CDP  discount: 50%, null
+12 Global NNP Teleshop NNP Special NNP deal CDP - - Cashback NNP Hingga CC 2.000.000 CDP & NN Gratis NNP Voucher NNP 662113234648887296 CDP musthofanahra NN 2015-11-05 CDP 10 CDP 44 CDP 31 CDP  discount: null, null
+13 Global NNP Teleshop NNP Xiaomi NNP Special NNP Deal NNP - - Harga NN Spesial NN 282.000 CDP 661739458912321536 CDP musthofanahra NN 2015-11-04 CDP 09 CDP 59 CDP 16 CDP  discount: 282.000, null
+14 Wellcomm NN Shop NNP Promo NNP Spesial NNP Aksesoris NNP - - Diskon NN 70% CDP 661739436959404032 CDP musthofanahra NN 2015-11-04 CDP 09 CDP 59 CDP 10 CDP  discount: 70%, null
+15 Dominos NN Pizza NNP Promo NNP Menu NN Terbaru JJ - - Cheesy NNP Bread NN 27.727 CDP 661739369821110272 CDP musthofanahra NN 2015-11-04 CDP 09 CDP 58 CDP 54 CDP  discount: null, null
+16 Alfamart NNP Promo NNP Belanja NNP Minyak NN Goreng NNP - - Harga NN Mulai VBI Dari IN 20.900 CDP 661739354281279489 CDP musthofanahra NN 2015-11-04 CDP 09 CDP 58 CDP 51 CDP  discount: 20.900, null
+17 Blibli NN Promo NNP Rabu NN Cantik NNP Best NNP Deal NNP - - Diskon NN Hingga CC 70% CDP 661739337399189505 CDP musthofanahra NN 2015-11-04 CDP 09 CDP 58 CDP 47 CDP  discount: 70%, null
+18 Blibli NN Shoes NNP Super NNP Sale NNP - - Diskon NN Hingga CC 70% CDP 661739324883386368 CDP musthofanahra NN 2015-11-04 CDP 09 CDP 58 CDP 44 CDP  discount: 70%, null
+19 Lazada NN Promo NNP Gebyar NN Hari NN Ayah NNP - - Diskon NN Hingga CC 80% CDP 661739309322498048 CDP musthofanahra NN 2015-11-04 CDP 09 CDP 58 CDP 40 CDP  discount: 80%, null
+20 250RB CDP 50RB CDP pulsa NN jk NN km NN Trade FW in FW HP NN 2G CDP dg NN baru JJ di IN 661732138350329856 CDP Migrasi3G NN 2015-11-04 CDP 09 CDP 30 CDP 10 CDP  discount: null, null
+21 YHA NNP Es NN Teler NN November NN Hemat NNP - - Harga NN Mulai VBI Dari IN 22.000 CDP 661469636207087616 CDP Syeikh NN JhonRoe NN 2015-11-03 CDP 16 CDP 07 CDP 05 CDP  discount: 22.000, null
+22 YHA NNP Waterboom NNP Jakarta NNP Promo NNP Spesial NN November NN 661469541512318976 CDP Syeikh NN JhonRoe NN 2015-11-03 CDP 16 CDP 06 CDP 42 CDP  discount: null, null
+23 Matahari NN Mall NNP Further NNP Reduction NNP Sale NNP - - Diskon NN Hingga CC 90% CDP 661469174254862337 CDP musthofanahra NN 2015-11-03 CDP 16 CDP 05 CDP 15 CDP  discount: 90%, null
+24 Es NN Teler NN November NN Hemat NNP - - Harga NN Mulai VBI Dari IN 22.000 CDP 661469167023853568 CDP musthofanahra NN 2015-11-03 CDP 16 CDP 05 CDP 13 CDP  discount: 22.000, null
+25 Share NNP Tea NNP Special NNP Deal NNP - - Promo NNP Beli NNP 1 CDP Gratis NNP 1 CDP 661469163622240256 CDP musthofanahra NN 2015-11-03 CDP 16 CDP 05 CDP 12 CDP  discount: null, Beli 1 Gratis 1
+26 Waterboom NNP Jakarta NNP Promo NNP Spesial NNP November NN - - Diskon NN 50% CDP & NN Beli NNP 1 CDP Dapat MD 3 CDP 661469120420933632 CDP musthofanahra NN 2015-11-03 CDP 16 CDP 05 CDP 02 CDP  discount: 50%, 
+27 Hmpftttt NN Matahari NN Mall NNP Further NNP Reduction NNP Sale NNP - - Diskon NN Hingga CC 90% CDP 661469099201957888 CDP musthofanahra NN 2015-11-03 CDP 16 CDP 04 CDP 57 CDP  discount: 90%, null
+28 YHA NNP Polo NNP Ralph NNP Lauren NNP Special NNP Deal NNP - - Diskon NN 58% CDP 661455027379154944 CDP Syeikh NN JhonRoe NN 2015-11-03 CDP 15 CDP 09 CDP 02 CDP  discount: 58%, null
+29 YHA NNP Seaworld CC Ancol NNP Indomaret NNP Promo NNP Tiket JJ Masuk VBT - - 661454947850956800 CDP Syeikh NN JhonRoe NN 2015-11-03 CDP 15 CDP 08 CDP 43 CDP  discount: null, null
+30 Beuhh NNP Metro NNP Department NN Store NNP Beauty NNP Fair NNP Great FW Deal NN 661435424900911105 CDP musthofanahra NN 2015-11-03 CDP 13 CDP 51 CDP 08 CDP  discount: null, null
+31 Metro NNP Department NN Store NNP Beauty NNP Fair NNP Great FW Deal NNP - - Diskon NN Hingga CC 70% CDP & NN Gratis NNP Voucher NNP 661435287420076032 CDP musthofanahra NN 2015-11-03 CDP 13 CDP 50 CDP 36 CDP  discount: 70%, null
+32 McDonalds NN Fish NN Fillet NN Burger NN Special NNP Deal NNP - - Promo NNP Harga NN Spesial NN 661435267748724736 CDP musthofanahra NN 2015-11-03 CDP 13 CDP 50 CDP 31 CDP  discount: 661435267748724736, null
+33 Optik NN Seis NN Special NN November NN Deal NNP - - Diskon NN 30% CDP 661435251789402112 CDP musthofanahra NN 2015-11-03 CDP 13 CDP 50 CDP 27 CDP  discount: 30%, null
+34 PHD NN Pizza NNP Hut NNP Promo NNP Makan VBT Bareng NNP - - Menu NN Hemat NN Ber-10 CDP 360.000 CDP 661435173704085504 CDP musthofanahra NN 2015-11-03 CDP 13 CDP 50 CDP 08 CDP  discount: null, null
+35 Matahari NN Mall NNP Further NN Reduction NN Sale NN 661435159636381696 CDP musthofanahra NN 2015-11-03 CDP 13 CDP 50 CDP 05 CDP  discount: null, null
+36 dptkan NN 250RB CDP 50RB CDP pulsa NN jk NN km NN mlakukan NN Trade-in NN HP NN 2G JJ di IN . . S&K NNP 661416285108989952 CDP Migrasi3G NN 2015-11-03 CDP 12 CDP 35 CDP 05 CDP  discount: null, null
+37 Beuhh NNP Pizza NNP Hut NNP Special NNP Promo NNP - - Diskon NN 40% CDP 661394957672906753 CDP musthofanahra NN 2015-11-03 CDP 11 CDP 10 CDP 20 CDP  discount: 40%, null
+38 Pizza NNP Hut NNP Special NNP Promo NNP - - Diskon NN 40% CDP 661394033328185344 CDP musthofanahra NN 2015-11-03 CDP 11 CDP 06 CDP 40 CDP  discount: 40%, null
+39 Baso NN Malang NNP Karapitan NNP Promo NNP Makan VBT Hemat- NNP Diskon NN 200.000 CDP 661394013824548864 CDP musthofanahra NN 2015-11-03 CDP 11 CDP 06 CDP 35 CDP  discount: 200.000, null
+40 Elevenia NNP Special NNP Offers NNP - - Diskon NN 100.000 CDP 661394005771485184 CDP musthofanahra NN 2015-11-03 CDP 11 CDP 06 CDP 33 CDP  discount: 100.000, null
+41 Domino NN Pizza NNP Best NNP Deal NNP - - Promo NNP Beli NNP 1 CDP Gratis NNP 1 CDP 661393972321910785 CDP musthofanahra NN 2015-11-03 CDP 11 CDP 06 CDP 25 CDP  discount: null, Beli 1 Gratis 1
+42 Lazada NN Super NN Selasa NN - - Diskon NN hingga CC 50% CDP Xtra NNP Diskon NN 300.000 CDP 661393958807822336 CDP musthofanahra NN 2015-11-03 CDP 11 CDP 06 CDP 22 CDP  discount: 50%, null
+43 Elevenia NNP Special NNP Offers NNP - - Diskon NN 100.000 CDP 661393929191845888 CDP musthofanahra NN 2015-11-03 CDP 11 CDP 06 CDP 15 CDP  discount: 100.000, null
+44 Erafone NNP Xiaomi NNP Great FW Deal NNP - - Harga NN Spesial NN 2.949.000 CDP 661393915023507456 CDP musthofanahra NN 2015-11-03 CDP 11 CDP 06 CDP 12 CDP  discount: 2.949.000, null
+45 Kyochon NN Restaurant NN Spesial NNP Deal NNP - - Diskon NN 15% CDP 661393874586218496 CDP musthofanahra NN 2015-11-03 CDP 11 CDP 06 CDP 02 CDP  discount: 15%, null
+46 Dominos NN Pizza NNP Promo NNP Spesial NNP Add NNP On FW - - Diskon NN 64% CDP 661393860887621632 CDP musthofanahra NN 2015-11-03 CDP 11 CDP 05 CDP 59 CDP  discount: 64%, null
+47 Hoka NN Hoka NNP Bento NNP Promo NNP Eat NNP Fish NNP - - Harga NN Heboh NN 15.000 CDP 661393848220807168 CDP musthofanahra NN 2015-11-03 CDP 11 CDP 05 CDP 56 CDP  discount: 15.000, null
+48 Les NN Femmes NNP Special NNP Offers NNP - - Tambah RB 50.000 CDO Dapat MD 2 CDP Item NN 661393795594846210 CDP musthofanahra NN 2015-11-03 CDP 11 CDP 05 CDP 43 CDP  discount: null, null
+49 Kompas NN Gramedia NNP Promo NNP Membercard NNP - - Diskon NN Hingga CC 50% CDP 661393772962410496 CDP musthofanahra NN 2015-11-03 CDP 11 CDP 05 CDP 38 CDP  discount: 50%, null
+50 Hoka NN Hoka NNP Bento NNP Promo NNP Eat NNP Fish NNP - - Harga NN Heboh NN 15.000 CDP 661393748371202048 CDP musthofanahra NN 2015-11-03 CDP 11 CDP 05 CDP 32 CDP  discount: 15.000, null
+51 Domino NN Pizza NNP Best NNP Deal NNP - - Promo NNP Beli NNP 1 CDP Gratis NNP 1 CDP 661349520345661440 CDP musthofanahra NN 2015-11-03 CDP 08 CDP 09 CDP 47 CDP  discount: null, Beli 1 Gratis 1
+52 Electronic NNP City NNP Spooktacular NNP LED NNP Suise NNP - - Cashback NNP Hingga CC 20.000.000 CDP 661349470190243840 CDP musthofanahra NN 2015-11-03 CDP 08 CDP 09 CDP 35 CDP  discount: null, null
+53 Beuhhhhh NNP Lotteria NNP Promo NNP Menu NN Hemat FW BIG FW Smile NNP - - Harga NN Mulai VBI Dari IN 10.000 CDP 661085441332932608 CDP musthofanahra NN 2015-11-02 CDP 14 CDP 40 CDP 26 CDP  discount: 10.000, null
+54 LG NN Suise NNP Deal NNP - - Cashback NNP Hingga CC 1.300.000 CDP 661085220645441536 CDP musthofanahra NN 2015-11-02 CDP 14 CDP 39 CDP 33 CDP  discount: null, null
+55 A&W NN Restaurant NN Promo NNP Awesome NNP American NNP - - Menu NN Hemat NN Mulai VBI Dari IN 12.000an CDP 661025390400372736 CDP musthofanahra NN 2015-11-02 CDP 10 CDP 41 CDP 48 CDP  discount: null, null
+56 KFC NN Promo NNP Santap NNP Hemat NNP Sepanjang RB Tahun NN - - Diskon NN 20.000 CDP 661025370796261376 CDP musthofanahra NN 2015-11-02 CDP 10 CDP 41 CDP 44 CDP  discount: 20.000, null
+57 Dcost NN Restaurant NN Promo NNP Delivery NNP - - Harga NN Mulai VBI Dari IN 16.000 CDP 661025351900917760 CDP musthofanahra NN 2015-11-02 CDP 10 CDP 41 CDP 39 CDP  discount: 16.000, null
+58 Carrefour NNP Telkomsel NNP Promo NNP Isi NNP Ulang NN Pulsa NNP - - Gratis NNP Hadiah NN Langsung JJ 661025334150606849 CDP musthofanahra NN 2015-11-02 CDP 10 CDP 41 CDP 35 CDP  discount: null, null
+59 Follow NN Back NN GilaPromo NN Solaria NNP Telkomsel NNP Special NNP Deal NNP - - Gratis NNP Voucher NNP Makan VBT 660793774302343168 CDP HariPermai NN 2015-11-01 CDP 19 CDP 21 CDP 27 CDP  discount: null, null
+60 Beh NNP hajar VBI deh NN ya UH Blibli NNP Promo NNP Pesta NN Kostum NN Anak NN - - Diskon NN Hingga CC 70% CDP 660743688398569476 CDP musthofanahra NN 2015-11-01 CDP 16 CDP 02 CDP 25 CDP  discount: 70%, null
+61 Cinemaxx NN Theater NNP Promo NNP Nonton NNP Hemat NNP - - Beli NNP 2 CDP Gratis NNP 1 CDP 659937230727725058 CDP musthofanahra NN 2015-10-30 CDP 10 CDP 37 CDP 51 CDP  discount: null, Beli 2 Gratis 1
+62 Carls NNP Jr NN Promo NNP Jumat NN Hemat NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 659937168542953472 CDP musthofanahra NN 2015-10-30 CDP 10 CDP 37 CDP 36 CDP  discount: null, Beli 1 Gratis 1
+63 Acer NN Indocomtech NNP 2015 CDP Special NN Deal NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP Dan CC Cashback NNP 500.000 CDP 659937141573554177 CDP musthofanahra NN 2015-10-30 CDP 10 CDP 37 CDP 30 CDP  discount: null, Beli 1 Gratis 1
+64 G2000 NN Special NNP Halloween NNP Sale NNP - - Diskon NN 50% CDP 659937099169185792 CDP musthofanahra NN 2015-10-30 CDP 10 CDP 37 CDP 20 CDP  discount: 50%, null
+65 Colorbox NN Special NNP Deal NNP - - Gratis NNP Hadiah NN Langsung JJ 659937063668576256 CDP musthofanahra NN 2015-10-30 CDP 10 CDP 37 CDP 11 CDP  discount: null, null
+66 Fish NN & NN Co NNP Special NNP Offers NNP - - Diskon NN 15% CDP 659937050997616642 CDP musthofanahra NN 2015-10-30 CDP 10 CDP 37 CDP 08 CDP  discount: 15%, null
+67 Blibli NN Promo NNP Spesial NN Kamis NN Ganteng NNP - - Diskon NN Sampai VBI Dengan IN 74% CDP 659653126778056704 CDP musthofanahra NN 2015-10-29 CDP 15 CDP 48 CDP 55 CDP  discount: 74%, null
+68 Mango NNP Mid-Season NNP Sale NNP - - Diskon NN Hingga CC 50% CDP 659653091088699392 CDP musthofanahra NN 2015-10-29 CDP 15 CDP 48 CDP 47 CDP  discount: 50%, null
+69 Okeshop NNP Promo NNP Seru NNP Dan CC Rame NNP - - Gebyar NN Diskon NN & NN Harga NN Spesial NN 659653074739290112 CDP musthofanahra NN 2015-10-29 CDP 15 CDP 48 CDP 43 CDP  discount: 659653074739290112, null
+70 Lazada NN Promo NNP Men NN s NN And FW Women NNP s IN Best NNP Sellers NN - - Diskon NN Hingga CC 90% CDP 659653048571031552 CDP musthofanahra NN 2015-10-29 CDP 15 CDP 48 CDP 37 CDP  discount: 90%, null
+71 Supermall NNP Karawaci NNP Extravagan NNP Sale NNP - - Diskon NN Hingga CC 60% CDP 10% CDP 659653024294408192 CDP musthofanahra NN 2015-10-29 CDP 15 CDP 48 CDP 31 CDP  discount: 60%, null
+72 Mango NNP Mid-Season NNP Sale NNP - - Diskon NN Hingga CC 50% CDP 659653011640225792 CDP musthofanahra NN 2015-10-29 CDP 15 CDP 48 CDP 28 CDP  discount: 50%, null
+73 Blibli NN Promo NNP Spesial NN Kamis NN Ganteng NNP - - Diskon NN Sampai VBI Dengan IN 74% CDP 659652980703035392 CDP musthofanahra NN 2015-10-29 CDP 15 CDP 48 CDP 21 CDP  discount: 74%, null
+74 Infinite NN Special NNP Indocomtech NNP 2015 CDP Deal NNP - - Diskon NN Hingga CC 500.000 CDP 659652958263443456 CDP musthofanahra NN 2015-10-29 CDP 15 CDP 48 CDP 15 CDP  discount: 500.000, null
+75 Lazada NN Promo NNP Lensa NNP Super NNP Deal NNP - - Diskon NN Hingga CC 50% CDP 659652941427507200 CDP musthofanahra NN 2015-10-29 CDP 15 CDP 48 CDP 11 CDP  discount: 50%, null
+76 Zalora NNP Halloween NNP Boom NNP Sale NNP - - Gebyar NN Diskon NN Harga NN Special NN 659652921060036608 CDP musthofanahra NN 2015-10-29 CDP 15 CDP 48 CDP 06 CDP  discount: 659652921060036608, null
+77 Beuhhh JJ sikattttt NN Supermall NNP Karawaci NNP Extravagan NNP Sale NNP - - Diskon NN Hingga CC 60% CDP 10% CDP 659652859684761600 CDP musthofanahra NN 2015-10-29 CDP 15 CDP 47 CDP 52 CDP  discount: 60%, null
+78 LELE NNP THE FW LORD FW OF FW THE FW RINGS NN IDR NN 15K CDP 15.000 CDP - - Call NNP SMS NN WA NN 085-646-777-454 CDP BBM NN 75A6DA49 NN 659611050224975876 CDP whiteMLG NN 2015-10-29 CDP 13 CDP 01 CDP 44 CDP  discount: null, null
+79 Et NNP Cetera NNP Promo NNP Spesial NNP - - Diskon NN 100.000 CDP 659576871055548416 CDP musthofanahra NN 2015-10-29 CDP 10 CDP 45 CDP 55 CDP  discount: 100.000, null
+80 KFC NN Promo NNP Menu NN Baru NNP - - Harga NN 5.000 CDP 659576855989645312 CDP musthofanahra NN 2015-10-29 CDP 10 CDP 45 CDP 51 CDP  discount: 5.000, null
+81 Flash NN Deal NN Meizu NN M2 NN 659576846309199872 CDP musthofanahra NN 2015-10-29 CDP 10 CDP 45 CDP 49 CDP  discount: null, null
+82 Lazada NN Alcatel NNP Flash NNP Sale NNP - - Promo NNP Harga NN Special NNP Mantap NNP 659576799135793152 CDP musthofanahra NN 2015-10-29 CDP 10 CDP 45 CDP 37 CDP  discount: 659576799135793152, null
+83 Emax NNP Special NNP Indocomtech NNP 2015 CDP Deal NNP - - Cashback NNP 2.000.000 CDP 659576772883673088 CDP musthofanahra NN 2015-10-29 CDP 10 CDP 45 CDP 31 CDP  discount: null, null
+84 Electronic NNP Solution NNP 10th CDP Anniversary NNP Promo NNP - - Aneka NNP Diskon NN & NN Harga NN Spesial NN 659576746392485888 CDP musthofanahra NN 2015-10-29 CDP 10 CDP 45 CDP 25 CDP  discount: 659576746392485888, null
+85 Excelso FW BIG FW Deal NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 659576737873817600 CDP musthofanahra NN 2015-10-29 CDP 10 CDP 45 CDP 23 CDP  discount: null, Beli 1 Gratis 1
+86 Et NNP Cetera NNP Promo NNP Spesial NNP - - Diskon NN 100.000 CDP 659576736045117440 CDP musthofanahra NN 2015-10-29 CDP 10 CDP 45 CDP 22 CDP  discount: 100.000, null
+87 Hot NN Wheels FW THE FW FLINTSTONES FW THE FW FLINTMOBILE NN 90.000 CDP - - Call NNP SMS NN WA NN 085-646-777-454 CDP BBM NN 75A6DA49 NN 659249582136668164 CDP whiteMLG NN 2015-10-28 CDP 13 CDP 05 CDP 23 CDP  discount: null, null
+88 X8 NNP Clothing NN Penawaran NN Spesial NNP - - Gratis NNP Hadiah NN Langsung JJ 659201604965416960 CDP musthofanahra NN 2015-10-28 CDP 09 CDP 54 CDP 44 CDP  discount: null, null
+89 Calais NNP Tea NNP Promo NNP Super NNP Mantap NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 659201535922974721 CDP musthofanahra NN 2015-10-28 CDP 09 CDP 54 CDP 28 CDP  discount: null, Beli 1 Gratis 1
+90 Chatime NNP Promo NNP Halloween NNP - - Beli NNP 1 CDP Gratis NNP 1 CDP 659201514947264512 CDP musthofanahra NN 2015-10-28 CDP 09 CDP 54 CDP 23 CDP  discount: null, Beli 1 Gratis 1
+91 Debenhams NN Special NNP Sale NNP - - Diskon NN 20% CDP 10% CDP 659201512539684865 CDP musthofanahra NN 2015-10-28 CDP 09 CDP 54 CDP 22 CDP  discount: 20%, null
+92 dptkan NN 250RB CDP 50RB CDP pulsa NN jk NN km NN mlakukan NN Trade-in NN HP NN 2G JJ di IN . . S&K NNP 658987653929553920 CDP Migrasi3G NN 2015-10-27 CDP 19 CDP 44 CDP 34 CDP  discount: null, null
+93 Bwuhhh NN Payless NNP Shoesource NNP Semi CC Annual NNP Sale NNP - - Diskon NN 40% CDP 658946053446569984 CDP musthofanahra NN 2015-10-27 CDP 16 CDP 59 CDP 16 CDP  discount: 40%, null
+94 blahh NNP Dorothy NN Perkins NN Further FW Reductions FW Great FW Sale NNP - - Diskon NN Hingga CC 50% CDP 658936842276896768 CDP musthofanahra NN 2015-10-27 CDP 16 CDP 22 CDP 40 CDP  discount: 50%, null
+95 Kuy NN lahhhhhh NN Klik NN Indomaret NNP Promo NNP Belanja NNP Hemat NNP 658931289890795521 CDP musthofanahra NN 2015-10-27 CDP 16 CDP 00 CDP 36 CDP  discount: null, null
+96 Dorothy NN Perkins NN Further FW Reductions FW Great FW Sale NNP - - Diskon NN Hingga CC 50% CDP 658931280692707328 CDP musthofanahra NN 2015-10-27 CDP 16 CDP 00 CDP 34 CDP  discount: 50%, null
+97 Donita NN Special NNP Offers NNP - - Promo NNP Beli NNP 1 CDP Gratis NNP 1 CDP 658931263382798336 CDP musthofanahra NN 2015-10-27 CDP 16 CDP 00 CDP 30 CDP  discount: null, Beli 1 Gratis 1
+98 eStore NN Promo NNP Oktober NNP Heboh NNP - - Diskon NN 2.000.000 CDP 658931252712501248 CDP musthofanahra NN 2015-10-27 CDP 16 CDP 00 CDP 27 CDP  discount: 2.000.000, null
+99 Payless NNP Shoesource NNP Semi CC Annual NNP Sale NNP - - Diskon NN 40% CDP 658931223327215617 CDP musthofanahra NN 2015-10-27 CDP 16 CDP 00 CDP 20 CDP  discount: 40%, null
+100 Matahari NN Department NN Store NNP Promo NNP Spesial NN Ulang NN Tahun NN - - Beli NNP T-Shirt NN 15.000 CDP 658931073464729601 CDP musthofanahra NN 2015-10-27 CDP 15 CDP 59 CDP 44 CDP  discount: null, 
+101 Tonga NNP Super NNP Sale NNP - - Diskon NN Hingga CC 70% CDP 658931057970954240 CDP musthofanahra NN 2015-10-27 CDP 15 CDP 59 CDP 41 CDP  discount: 70%, null
