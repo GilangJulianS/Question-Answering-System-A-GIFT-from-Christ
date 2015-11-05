@@ -29,6 +29,7 @@ public class TestClass {
             line = line.replaceAll("[!\"$'()*+/:;,<=>?@\\^_`{|}]+", " "); //remove punctiation
             line = line.replaceAll("(?i)cuma|hanya|rp.", "");
         List<String[]> sentence = IndonesianPOSTagger.doPOSTag(line);
+        
         Entity e = TestPostTag.extractEntity(sentence);
         for(String[] word : sentence){
             for(String s : word){
