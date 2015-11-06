@@ -20,7 +20,7 @@ public class TestClass {
     
     public static void main(String[] args){
         
-        String line = "\"#diskon Lazada Weekly Gadget Promo - Diskon Hingga 40%\",\"662249947459411968\",\"GilaPromoDotCom\",\"2015-11-05 19:47:46\",\"\",\"\"";
+        String line = "\"#indonesia #diskon Dominos Pizza Promo Menu Terbaru - Cheesy Bread Hanya Rp. 27.727\",\"661699269133541378\",\"GilaPromoDotCom\",\"2015-11-04 07:19:34\",\"\",\"\"";
         String[] temp = line.split("\",");    
         line = temp[0];
          line = line.replace("(?i)#diskon", "diskon");   
@@ -31,11 +31,11 @@ public class TestClass {
         List<String[]> sentence = IndonesianPOSTagger.doPOSTag(line);
         
         Entity e = TestPostTag.extractEntity(sentence);
-        for(String[] word : sentence){
-            for(String s : word){
-                System.out.print(s + " ");
-            }
-        }
+//        for(String[] word : sentence){
+//            for(String s : word){
+//                System.out.print(s + " ");
+//            }
+//        }
         System.out.println(" discount: " + e.discount + " item: " + e.item);
     }
 }

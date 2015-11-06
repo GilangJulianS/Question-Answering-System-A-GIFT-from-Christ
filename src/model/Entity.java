@@ -13,7 +13,10 @@ public class Entity {
     
     public String place;
     public String item;
-    public String discount;
+    public int discount;
+    public int discountPercent;
+    public int hargaMulai;
     public String beligratis;
+    public String date;
     
 }
