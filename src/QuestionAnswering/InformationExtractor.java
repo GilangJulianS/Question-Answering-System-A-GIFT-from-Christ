@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package tubes;
+package QuestionAnswering;
 
 import IndonesianNLP.IndonesianPOSTagger;
 import IndonesianNLP.IndonesianPhraseChunker;
@@ -22,7 +22,7 @@ import model.Entity;
  *
  * @author gilang
  */
-public class TestPostTag {
+public class InformationExtractor {
     
     private static final int DIR_FORWARD = 0;
     private static final int DIR_BACKWARD = 1;
@@ -38,6 +38,10 @@ public class TestPostTag {
         
         BufferedReader reader = new BufferedReader(new FileReader("res/gilapromobaru.csv"));
         String line;
+        
+        // baca header csv
+        line = reader.readLine();
+        
         while((line = reader.readLine()) != null){
             String[] temp = line.split("\",");
             
@@ -48,21 +52,21 @@ public class TestPostTag {
             line = line.replaceAll("[!\"$'()*+/:;,<=>?@\\^_`{|}]+", " "); //remove punctiation
             line = line.replaceAll("(?i)hari|temukan|ini|gebyar|cuma|hanya|rp.", "");
             
-            System.out.println(line);
-            
-            writer.write(counter + " ");
             counter++;
             if(!line.equals("") && line != null){
                 List<String[]> sentence = IndonesianPOSTagger.doPOSTag(line);
-                printSentence(writer, sentence);
+//                printSentence(writer, sentence);
                 Entity e = extractEntity(sentence);
-                e.date = temp[3].replace("\"", "");
-                writer.write("\nentity: " + e.item + "\n");
-                writer.write("discount: " + e.discount + ", " + e.discountPercent + "%, " + e.beligratis + "\n");
-                writer.write("harga: " + e.hargaMulai + "\n");
-                writer.write("tanggal: " + e.date);
+                e.date = temp[3].replace("\"", "").split(" ")[0];
+                if(e.item != null){
+                    writer.write(e.item + "||");
+                    writer.write(e.discount + "||");
+                    writer.write(e.discountPercent + "||");
+                    writer.write(e.beligratis + "||");
+                    writer.write(e.hargaMulai + "||");
+                    writer.write(e.date + "\n");
+                }
             }
-            writer.write("\n");
         }
         reader.close();
         writer.close();
@@ -98,7 +102,6 @@ public class TestPostTag {
                         }
                         discPercentFound = true;
                     }else if(!discFound){
-                        System.out.println(discount[0]);
                         try{
                             e.discount = Integer.valueOf(discount[0].replace(".", ""));
                         }catch(NumberFormatException ex){

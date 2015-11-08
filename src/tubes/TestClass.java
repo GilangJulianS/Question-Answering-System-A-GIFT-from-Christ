@@ -5,12 +5,13 @@
  */
 package tubes;
 
+import QuestionAnswering.InformationExtractor;
 import IndonesianNLP.IndonesianPOSTagger;
 import IndonesianNLP.IndonesianPhraseChunker;
 import java.util.List;
 import model.Entity;
-import static tubes.TestPostTag.extractEntity;
-import static tubes.TestPostTag.printSentence;
+import static QuestionAnswering.InformationExtractor.extractEntity;
+import static QuestionAnswering.InformationExtractor.printSentence;
 
 /**
  *
@@ -30,7 +31,7 @@ public class TestClass {
             line = line.replaceAll("(?i)cuma|hanya|rp.", "");
         List<String[]> sentence = IndonesianPOSTagger.doPOSTag(line);
         
-        Entity e = TestPostTag.extractEntity(sentence);
+        Entity e = InformationExtractor.extractEntity(sentence);
 //        for(String[] word : sentence){
 //            for(String s : word){
 //                System.out.print(s + " ");
