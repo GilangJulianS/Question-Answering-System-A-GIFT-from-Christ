@@ -47,8 +47,9 @@ public class TopicProcessor {
 	  processQuery("Dimana ada diskon kurang dari 90%?");
     }
 
-    private static boolean isDate(String get) {
-        return false;
-         //To change body of generated methods, choose Tools | Templates.
+    public static boolean isDate(String dateString){
+	  boolean correct = true;
+	  String datePattern = "(\\d2|\\d4)\\W(Januari|Februari|Maret|April|Mei|Juni|Juli|Agustus|September|Oktober|November|Desember|\\d2)\\W(\\d2|\\d4)";
+	  return dateString.matches(datePattern);
     }
 }
