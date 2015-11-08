@@ -27,6 +27,9 @@ public class TopicProcessor {
                 if(sentence.get(i)[1].equalsIgnoreCase("WP")) {
                     Q.WP = sentence.get(i)[0];
                 }
+                if(sentence.get(i)[1].equalsIgnoreCase("NN")){
+                    Q.merchant = sentence.get(i)[0];
+                }
                 if(sentence.get(i)[1].equalsIgnoreCase("RB")){
                     Q.operan = sentence.get(i)[0];
                 }                     
