@@ -63,84 +63,81 @@ public class MainClass {
     public static List<String> getAnswer(Question q, List<Entity> entities) {
         List<String> answers = new ArrayList<>();
         List<Entity> filtered = null;
-        if (!q.merchant.equals("")) {
-            filtered = filterMerchant(q.merchant, entities);
-        }
-        if (!q.operan.equals("")) {
-            if (filtered != null) {
-                filtered = filterNumber(q, filtered);
-            } else {
-                filtered = filterNumber(q, entities);
-            }
-        }
         if (!q.tanggal.equals("")) {
             if (filtered != null) {
                 filtered = filterDate(q.tanggal, filtered);
             } else {
                 filtered = filterDate(q.tanggal, entities);
             }
+        }else{
+            filtered = new ArrayList<>();
+            filtered.addAll(entities);
         }
-        if (filtered != null) {
-            if (q.type.equals("diskon")) {
-                for (Entity e : filtered) {
-                    String answer = "";
-                    if (e.discount != 0) {
-                        answer += "diskon Rp. " + String.valueOf(e.discount);
-                        if (q.WP.equalsIgnoreCase("dimana")) {
-                            answer += " di " + e.item;
-                        }
-                        if (q.tanggal.equals("")) {
-                            answer += " pada " + e.date;
-                        }
-                        if (!answers.contains(answer)) {
-                            answers.add(answer);
-                        }
+        if (!q.merchant.equals("")) {
+            filtered = filterMerchant(q.merchant, filtered);
+        }
+        if (!q.operan.equals("")) {
+            filtered = filterNumber(q, filtered);
+        }
+        if (q.type.equals("diskon")) {
+            for (Entity e : filtered) {
+                String answer = "";
+                if (e.discount != 0 && q.numb != 0) {
+                    answer += "diskon Rp. " + String.valueOf(e.discount);
+                    if (q.WP.equalsIgnoreCase("dimana")) {
+                        answer += " di " + e.item;
                     }
-                    answer = "";
-                    if (e.discountPercent != 0) {
-                        answer += "diskon " + e.discountPercent + "%";
-                        if (q.WP.equalsIgnoreCase("dimana")) {
-                            answer += " di " + e.item;
-                        }
-                        if (q.tanggal.equals("")) {
-                            answer += " pada " + e.date;
-                        }
-                        if (!answers.contains(answer)) {
-                            answers.add(answer);
-                        }
+                    if (q.tanggal.equals("")) {
+                        answer += " pada " + e.date;
+                    }
+                    if (!answers.contains(answer)) {
+                        answers.add(answer);
+                    }
+                }
+                answer = "";
+                if (e.discountPercent != 0 && q.percent != 0) {
+                    answer += "diskon " + e.discountPercent + "%";
+                    if (q.WP.equalsIgnoreCase("dimana")) {
+                        answer += " di " + e.item;
+                    }
+                    if (q.tanggal.equals("")) {
+                        answer += " pada " + e.date;
+                    }
+                    if (!answers.contains(answer)) {
+                        answers.add(answer);
                     }
                 }
             }
-            if (q.type.equals("promo")) {
-                for (Entity e : filtered) {
-                    String answer = "";
-                    if (e.hargaMulai != 0) {
-                        answer = "harga mulai Rp. " + String.valueOf(e.hargaMulai);
-                        if (q.WP.equalsIgnoreCase("dimana")) {
-                            answer += " di " + e.item;
-                        }
-                        if (q.tanggal.equals("")) {
-                            answer += " pada " + e.date;
-                        }
-                        if (!answers.contains(answer)) {
-                            answers.add(answer);
-                        }
+        }
+        if (q.type.equals("promo")) {
+            for (Entity e : filtered) {
+                String answer = "";
+                if (e.hargaMulai != 0) {
+                    answer = "harga mulai Rp. " + String.valueOf(e.hargaMulai);
+                    if (q.WP.equalsIgnoreCase("dimana")) {
+                        answer += " di " + e.item;
                     }
-                    answer = "";
-                    if (e.beligratis != null && !e.beligratis.equals("") && !e.beligratis.equals("null")) {
-                        answer = e.beligratis;
-                        if (!answer.contains("beli")) {
-                            answer = "gratis " + e.beligratis;
-                        }
-                        if (q.WP.equalsIgnoreCase("dimana")) {
-                            answer += " di " + e.item;
-                        }
-                        if (q.tanggal.equals("")) {
-                            answer += " pada " + e.date;
-                        }
-                        if (!answers.contains(answer)) {
-                            answers.add(answer);
-                        }
+                    if (q.tanggal.equals("")) {
+                        answer += " pada " + e.date;
+                    }
+                    if (!answers.contains(answer)) {
+                        answers.add(answer);
+                    }
+                }
+                answer = "";
+                if (e.beligratis != null && !e.beligratis.equals("") && !e.beligratis.equals("null")) {
+                    answer = e.beligratis;
+                    if (!answer.contains("beli")) {
+                        answer = "gratis " + e.beligratis;
+                    }
+                    if (q.WP.equalsIgnoreCase("dimana")) {
+                        answer += " di " + e.item;
+                    }
+                    if (q.tanggal.equals("")) {
+                        answer += " pada " + e.date;
+                    }
+                    if (!answers.contains(answer)) {
+                        answers.add(answer);
                     }
                 }
             }

@@ -11,11 +11,11 @@ package QuestionAnswering;
  */
 public class Question {
     public String WP; //kata tanya
-    public int numb; //kalo ada angka
-    public int percent;
-    public String operan; //besar atau kecil
-    public String merchant; //nama toko
-    public String tanggal;
+    public int numb; // jika ada angka
+    public int percent; // jika ada angka (dalam format persen)
+    public String operan; // besar atau kecil
+    public String merchant; // nama toko
+    public String tanggal; // tanggal spesifik yang diinginkan
     public String type;
     
     public Question(){
