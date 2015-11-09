@@ -41,7 +41,7 @@ public class TesInaNLP {
 
 try {
 
-            System.out.println("Demo NLP Tools utk bahasa Indonesia");
+        System.out.println("Demo NLP Tools utk bahasa Indonesia");
         IndonesianSentenceFormalization formalizer = new IndonesianSentenceFormalization();
         System.out.println("*************************");
         System.out.println("Formalisasi Kata");
